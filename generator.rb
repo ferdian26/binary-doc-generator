@@ -82,10 +82,26 @@ class BinaryDocGenerator
 
 end
 
-generator = BinaryDocGenerator.new
-generator.file_type = "docx"
-generator.new_content = "HELLO WORLD!"
-generator.generate!
+require 'vcr'
+require 'rest_client'
 
-generator.file_type = "xlsx"
-generator.generate!
+VCR.configure do |c|
+  c.cassette_library_dir = 'vcr_cassettes'
+  c.hook_into :webmock
+end
+
+urls = File.read("urls.list").split("\n")
+urls.each do |url|
+  VCR.use_cassette(urls.index(url)) do
+    response = RestClient.get(url)
+    puts response.body
+  end
+end
+
+#generator = BinaryDocGenerator.new
+#generator.file_type = "docx"
+#generator.new_content = "HELLO WORLD!"
+#generator.generate!
+
+#generator.file_type = "xlsx"
+#generator.generate!
