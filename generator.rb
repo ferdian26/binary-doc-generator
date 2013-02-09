@@ -1,34 +1,24 @@
-=begin
-Some things to consider:
-  multiple slides (for pptx) and rows/worksheets (for xlsx) to deal with
-  small, medium, large templates
-  3rd party data feed for dynamic text injection (e.g. rss news feed, downloaded mirror to pull from)
-=end
-
 require 'fileutils'
 
 class BinaryDocGenerator
   attr_accessor :file_type, :new_content
 
   def initialize
-    @temp_dir = "tmp" ; @final_dir = "finished_product"
-    @file_name = "#{rand(9999999)}"
+    @temp_dir = "tmp" ; @final_dir = "payload"
     make_dirs
   end
 
   def make_dirs 
-    if Dir.glob("*").include?(@temp_dir)
-      FileUtils.rm_rf(Dir.glob("#{@temp_dir}/*"))
-    elsif Dir.glob("*").include?(@finished_product)
-      return
-    else
-      Dir.mkdir(@temp_dir)
-      Dir.mkdir(@final_dir)
-    end
+    make_temp_dir
+    make_payload_dir
+  end
+
+  def set_unique_file_name
+    @file_name = "#{Time.now.strftime("%m%d%y_%H%M%S")}"
   end
 
   def extract_file
-    @file_type.nil? ? warn_and_exit : system("unzip template.#{@file_type} -d #{@temp_dir}")
+    @file_type.nil? ? warn_and_exit : system("unzip -qq template.#{@file_type} -d #{@temp_dir}")
   end
 
   def modify_file_contents
@@ -43,8 +33,7 @@ class BinaryDocGenerator
 
   def compress_file
     Dir.chdir(@temp_dir)
-    system("ls")
-    system("zip -r #{@file_name}.#{@file_type} *")
+    system("zip -qqr #{@file_name}.#{@file_type} *")
     FileUtils.move "#{@file_name}.#{@file_type}", "../#{@final_dir}/"
     Dir.chdir("..")
   end
@@ -54,6 +43,7 @@ class BinaryDocGenerator
   end
   
   def generate!
+    set_unique_file_name
     extract_file
     modify_file_contents
     compress_file
@@ -62,6 +52,22 @@ class BinaryDocGenerator
 
   private
   
+  def make_temp_dir
+    if Dir.glob("*").include?(@temp_dir)
+      FileUtils.rm_rf(Dir.glob("#{@temp_dir}/*"))
+    else
+      Dir.mkdir(@temp_dir)
+    end
+  end
+
+  def make_payload_dir
+    if Dir.glob("*").include?(@final_dir)
+      return
+    else
+      Dir.mkdir(@final_dir)
+    end
+  end
+
   def warn_and_exit
     warn "Please provide a file type."
     exit
@@ -79,29 +85,4 @@ class BinaryDocGenerator
         puts "No supported filetype provided."
     end
   end
-
 end
-
-require 'vcr'
-require 'rest_client'
-
-VCR.configure do |c|
-  c.cassette_library_dir = 'vcr_cassettes'
-  c.hook_into :webmock
-end
-
-urls = File.read("urls.list").split("\n")
-urls.each do |url|
-  VCR.use_cassette(urls.index(url)) do
-    response = RestClient.get(url)
-    puts response.body
-  end
-end
-
-#generator = BinaryDocGenerator.new
-#generator.file_type = "docx"
-#generator.new_content = "HELLO WORLD!"
-#generator.generate!
-
-#generator.file_type = "xlsx"
-#generator.generate!
