@@ -1,33 +1,42 @@
-require_relative 'spider'
-require_relative 'generator'
-require 'ruby-progressbar'
+require_relative 'fetcher'
 require 'vcr'
 require 'rest_client'
 require 'readability'
 require 'sanitize'
 
-VCR.configure do |c|
-  c.cassette_library_dir = 'vcr_cassettes'
-  c.hook_into :webmock
-  #c.allow_http_connections_when_no_cassette = true
-end
 
-VCR.use_cassette('wikipedia_featured_articles') do
-  spider = Spider.new
-  spider.get_links
-  @urls = spider.payload
-end
+module BinaryDocs
+  class Parser
 
-generator = BinaryDocGenerator.new
-generator.file_type = "docx"
-progress_bar = ProgressBar.create(:total => @urls.count, :format => '%a |%b %i| %p%% Completed')
+    def initialize
+      setup_vcr
+      get_urls
+    end
 
-@urls.each do |url|
-  VCR.use_cassette(@urls.index(url)) do
-    RestClient.get(url)
-    #generator.new_content = Sanitize.clean(Readability::Document.new(RestClient.get(url)).content)
-    #generator.generate!
+    def get_content
+      url = rand(@urls.count)
+      VCR.use_cassette(url) do
+        content = Sanitize.clean(Readability::Document.new(RestClient.get(@urls[url])).content)
+        puts content
+      end
+    end
+    
+    private
+    
+    def setup_vcr
+      VCR.configure do |c|
+        c.cassette_library_dir = 'vcr_cassettes'
+        c.hook_into :webmock
+      end
+    end
+
+    def get_urls
+      VCR.use_cassette('wikipedia_featured_articles') do
+        @urls = BinaryDocs::Fetcher.new.payload
+      end
+    end
   end
-  progress_bar.increment
 end
-`open .`
+
+#content = BinaryDocs::Parser.new
+#content.get_content
