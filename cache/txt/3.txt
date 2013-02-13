@@ -1,0 +1,285 @@
+  Reviewing featured articles
+This page is for the review and improvement of featured articles that may no longer meet the featured article criteria. FAs are held to the current standards regardless of when they were promoted.
+There are three requisite stages in the process, to which all users are welcome to contribute.
+Raise issues at article Talk:
+In this step, concerned editors attempt to directly resolve issues with the existing community of article editors, and to informally improve the article. Articles in this step are not listed on this page.
+Featured article review (FAR)
+In this step, possible improvements are discussed without declarations of "keep" or "delist". The aim is to improve articles rather than to demote them. Nominators must specify the featured article criteria that are at issue and should propose remedies. The ideal review would address the issues raised and close with no change in status.
+Reviews can improve articles in various ways: articles may need updating, formatting, and general copyediting. More complex issues, such as a failure to meet current standards of prose, comprehensiveness, factual accuracy, and neutrality, may also be addressed.
+The featured article director, Raul654, or his delegates Dana boomer and Nikkimaria, determine either that there is consensus to close during this second stage, or that there is insufficient consensus to do so and so therefore the nomination should be moved to the third stage.
+Featured article removal candidate (FARC)
+An article is never listed as a removal candidate without first undergoing a review. In this third stage, participants may declare "keep" or "delist", supported by substantive comments, and further time is provided to overcome deficiencies.
+Reviewers who declare "delist" should be prepared to return towards the end of the process to strike out their objections if they have been addressed.
+The featured article director or his delegates determine whether there is consensus for a change in the status of a nomination, and close the listing accordingly.
+Each stage typically lasts two to three weeks, or longer where changes are ongoing and it seems useful to continue the process. Nominations are moved from the review period to the removal list, unless it is very clear that editors feel the article is within criteria. Given that extensions are always granted on request, as long as the article is receiving attention, editors should not be alarmed by an article moving from review to the removal candidates' list.
+Older reviews are stored in the archive. A bot will update the article talk page after the review is closed and moved to archives; the delay in bot processing can range from minutes to several days, and the {{FAR}} template should remain on the talk page until the bot updates {{articlehistory}}.
+Table of Contents – This page: Purge cache, Checklinks, Check redirects, Dablinks
+Featured content:
+Featured article tools:
+Nominating an article for FAR
+Nominators are strongly encouraged to assist in the process of improvement; they may post only one nomination at a time, should not nominate articles that are featured on the main page (or have been featured there in the previous three days), and should avoid segmenting review pages. Three to six months is regarded as the minimum time between promotion and nomination here, unless there are extenuating circumstances such as a radical change in article content.
+Before nomination, raise issues at talk page of the article. Attempt to directly resolve issues with the existing community of article editors, and to informally improve the article. Articles in this step are not listed on this page.
+Place {{subst:FAR}} at the top of the talk page of the nominated article. Write "FAR listing" in the edit summary box. Click on "Save page".
+From the FAR template, click on the red "initiate the review" link. You will see pre-loaded information; please leave that text.
+Below the preloaded title, write which users and projects you'll notify (see step 6 below), and your reason(s) for nominating the article, specifying the FA criterion/criteria that are at issue, then click on "Save page".
+Click here, and place your nomination at the top of the list of nominated articles, {{Wikipedia:Featured article review/name of nominated article/archiveN}}, filling in the exact name of the nominated article and the archive number N. Click on "Save page".
+Notify relevant parties by adding {{subst:FARMessage|ArticleName|alt=FAR subpage}} ~~~~ (for example, {{subst:FARMessage|Superman|alt=Superman/archive1}} ~~~~) to relevant talk pages (insert article name). Relevant parties include main contributors to the article (identifiable through article stats script), the editor who originally nominated the article for Featured Article status (identifiable through the Featured Article Candidate link in the Article Milestones), and any relevant WikiProjects (identifiable through the talk page banners, but there may be other Projects that should be notified). The message at the top of the FAR should indicate who you have notified.
+ [edit] Featured article reviews 
+ Notified: WikiProject Film
+  This article has problems. IMDB is used as a reference. I'm not convinced that the HalloweenMovies.com is reliable. More than one non-free image is used, but I'm not thoroughly convinced that either File:HalloweenII title.jpg or File:HalloweenIIscreencap.jpg is necessary. George Ho (talk) 17:45, 30 December 2012 (UTC) 
+ This article underwent the FAC process in May 2006, and I believe that the process has become more stringent since then. I searched for Halloween II in WorldCat.org, and it looks like this covers the film and is not referenced here. There is also this that covers the film in part, but it is newer and can be excused. From what I can tell, there are not any books about this film and not too many specific chapters about the film. Seems like content is piecemeal, and I think there are probably more print sources covering different parts of the film. One can tell that whoever worked on this article had to work with what was available online, either originally or re-printed from periodicals. Erik (talk | contribs) 20:52, 30 December 2012 (UTC)
+ Agreed, the sources let it down, and I doubt it would pass FA now. That said, I wouldn't support the removal of the halloweenmovies.com interviews from the article, though IMDB should certainly be replaced. --xensyriaT 09:10, 31 December 2012 (UTC)
+ Out of process – I understand why those here feel that the article has problems, but there has been no prior notification on Talk:Halloween II that an FAR was imminent without improvements. This step is required by FAR instructions, to provide an opportunity for issues to be fixed before a potential FAR. With that in mind, I think one of the delegates should remove the nomination for now. It can be brought back later, after the proper talk page notification has been made, if the issues remain. Giants2008 (Talk) 01:05, 1 January 2013 (UTC)
+This review is delisted. If no improvements for one month, then it'll be relisted. --George Ho (talk) 17:25, 1 January 2013 (UTC)
+It's a little over one month, and there are no significant changes other than the plot summary. Time to relist this thing. --George Ho (talk) 15:07, 4 February 2013 (UTC)
+I count 7 IMBD pages used as sources, and I'm unconvinced that many of the horror movie websites seen here are that reliable. In short, I agree with the other reviewers who say that better sourcing is needed. Giants2008 (Talk) 01:05, 8 February 2013 (UTC)
+ 
+ Notified: Pentawing, Hertz1888, Loodog, WikiProject Boston, WikiProject Cities
+  I am nominating this featured article for review because it seems very far from meeting current FA criteria, and the issues raised haven't been addressed. The (unprotected) article has been subject to many non-constructive edits since its last review in 2007. --ELEKHHT 13:46, 30 January 2013 (UTC) 
+ Some of the most obvious problems are: 
+ 1a.) Prose issues: Lead clumsy repeating "Boston" 16 times, and flood of statistics not mentioned in the article: "unofficial Capital, "21st largest", "tenth-largest metropolitan area", "fifth-largest Combined Statistical Area", "largest in British America", "third largest city in the British Empire", "international center", "leading finance center", "11th in the Z/Yen top", "number one for innovation", "world livability [...] 36th globally". Likely many more issues as reader feedback is 2.5 of 5 for "well written" (sample N=159)
+I have gone through a quick copyedit of the intro. Can someone else be able to check if the corrections are sufficient? PentawingTalk 05:40, 5 February 2013 (UTC)
+There have been some issues raised by EEng at Talk:Boston#Cut, cut, cut which relate to the overall prose. --ELEKHHT 10:52, 6 February 2013 (UTC)
+Apparently EEng has already taken care of the listed prose issues. PentawingTalk 05:08, 7 February 2013 (UTC)
+1b.) Comprehensive: The culture section doesn't provide a good summary of culture in Boston
+Done - I think the improper use of headers gave the impression that the section does not provide a good summary, but if the section still does not properly summarize culture in Boston, can you be more specific as to what is lacking? PentawingTalk 05:40, 5 February 2013 (UTC)
+1c-d.) Well-researched &amp; Neutral: Unreferenced and disputed content: 4 "citation needed" tags
+ 2.) MOS issues:
+2x bare URLs
+MOS:HEAD not followed
+decorative flagicons added to the sister cities section
+Done - Though I have seen such a format in the Sister Cities section of other city articles (so I don't know if this would remain the case). PentawingTalk 05:40, 5 February 2013 (UTC)
+Several unresolved DAB links
+ 3.) Illustration issues:
+excessive number of images: text sandwiched between images. When the article was promoted had 14 images, now it has 43 excluding the infobox.
+Several captions are too long.
+All sections except History, Geography, and Demographics have been resolved. ALT text have been added. PentawingTalk 05:40, 5 February 2013 (UTC)
+Done - All sections have been addressed. PentawingTalk 05:22, 6 February 2013 (UTC)
+ 4.) Focus issues:
+Navbarfarm : 12 navbars at the bottom.
+Done - Whatever navbars do not have a specific link to the actual article have been removed. PentawingTalk 05:40, 5 February 2013 (UTC)
+I know this is marginal, but I still find the 10 navbars bewildering. And the "Mayors of cities with populations exceeding 100,000 in Massachusetts" sounds really trivial. --ELEKHHT 10:52, 6 February 2013 (UTC)
+I have removed the navbars pertaining to the "Mayors of cities with populations exceeding 100,000 in Massachusetts" and "All-American City Award." However, since I didn't create the navbars I have no idea what articles those navbars are actually intended for (and they seem relevant to this article). If you feel that 8 navbars is still too many, I will defer to your judgement as to which ones should be kept. Now that you brought it up, should there be a standard as to when a navbar is appropriate? PentawingTalk 05:08, 7 February 2013 (UTC)
+Good question. I could only find two essays on the topic with some good general principles and advice: WP:Navigation templates and WP:Avoid template creep. Some could be nominated for deletion, but the question is really which ones are useful for this article? Is it likely that any reader would wish to navigate through all the localities of the Northeast megalopolis or Municipalities and communities of Suffolk County, Massachusetts, United States? Btw, at the 2007 FAR there were 4 navbars. In any case, I think with 8 is much better than with 12. Thanks also for all the other improvements. --ELEKHHT 03:23, 10 February 2013 (UTC)
+ Fixed both remaining DABs. Remaining entries are redirects, most likely caused by some templates or navbars outside the article itself. Bare URL also fixed. The other URL points to a questionable source anyway, so needs further checking or a complete replacement. Just some minor tweaks, i'll leave the deeper content questions to the article's regular editors. GermanJoe (talk) 14:44, 31 January 2013 (UTC)
+ Comment – I still see several dead link tags (93, 94, 100, 101, 206) in the article. These should be taken care of while this is at FAR. The Internet Archive may have copies of the dead-linked pages; if the Boston Globe page isn't available, I could probably find it with the library access I have. Giants2008 (Talk) 00:08, 6 February 2013 (UTC)
+The current dead links refer to US Census data, particularly for 2000. At the moment, it is probably best to look at the 2010 dataset. But is there a bot somewhere that is doing this (the original 2000 census passages, if I recall correctly, were done by a bot)? PentawingTalk 05:45, 6 February 2013 (UTC)
+ Comment - some paragraphs still lack a final citation (first history, and a few more down the article). I wouldn't expect every tiny trivial detail to be sourced, but those broad aspects should have atleast a general source, where the info was taken from. Some narrative may be obvious for a Boston citizen, but still needs citation for the general readership. I'll try to help with another readthrough later. GermanJoe (talk) 08:18, 6 February 2013 (UTC)
+ [edit] Featured article removal candidates 
+ Place the most recent review at the top. If the nomination is just beginning, place under Featured Article Review, not here.
+ 
+ Notified: WP Politics, WP Ireland, and WikiProject Politics of the United Kingdom. The main contributor is long gone.
+ 
+ I am nominating this featured article for review because it has multiple tags, is a 2004 promotion last reviewed in 2007, and notice of the citation situation was given over a year ago. SandyGeorgia (Talk) 17:42, 13 January 2013 (UTC) 
+ Yikes:
+The Erskine May citation is 404 and appears to be a personal website.
+What makes The Peerage a reliable source?
+What makes this a reliable source?
+At least one reference is a bare URL.
+Reference 28 points to a list of search results, instead of the content it is supposed to point to.
+Huge number of dead references that need updating.
+As mentioned, lots of unsourced content from September 2011.
+  Ten Pound Hammer • (What did I screw up now?) 03:37, 17 January 2013 (UTC) 
+ I'm doing some work on the current citations fixing those I can and trying to find replacements for others. After that I may try to address the missing citation tags. The Erskine May book is on Google books, The peerage has been used all over wikipedia for peerage information and appears to be reliable. The scottishhistory seems to be a complete copy of an official treaty; perhaps I can find the original. ww2censor (talk) 19:57, 17 January 2013 (UTC)
+ 
+ Issues raised in the review section mostly concerned citations and sourcing. Nikkimaria (talk) 13:56, 2 February 2013 (UTC)
+ Noting the ongoing work by ww2censor. Looks like this might be saved. Ceoil (talk) 10:13, 3 February 2013 (UTC)
+ 
+Comment: I've had food poisoning and no internet for several days, so bear with me. However if anyone else can assist please do as I didn't know the topic before this. ww2censor (talk) 13:19, 3 February 2013 (UTC)
+There are still 6 tags left out of the original 13 for which I have been unable to find citations though I have inproved several other citations that were questioned. While I expect the tagged statements are valid perhaps someone else can find source for them or possibly copyedit those sentences. I've pretty much done all I can to rescue this one. ww2censor (talk) 23:10, 9 February 2013 (UTC)
+Ok and good work Ww2, I'll take over and have been reading up anyway. Just to say two that the article isn't very well written, to say the least, and needs a brush from start to finish. Ceoil (talk) 23:20, 9 February 2013 (UTC)
+Appreciated Ceoil though I am not the one to copyedit or rewrite it. You are far better at that than I. ww2censor (talk) 23:37, 9 February 2013 (UTC)
+Famous last words Ww ;) Can you keep an eye pls. We have worked well in the past, I would appreciate if you tended at least. Ceoil (talk) 23:46, 9 February 2013 (UTC)
+Unforced image per WP:IMGSIZE. I'm now down to 3 cn tags left. ww2censor (talk) 11:02, 11 February 2013 (UTC)
+ 
+ Notified: WikiProject Turkey, WikiProject Languages
+  I am nominating this featured article for review because... 
+ ... it hasn't had one in the more than five and a half years since it was promoted,
+the three editors responsible for getting it to FA have all left Wikipedia in that time, leaving it vulnerable to vandalism and general neglect,
+it already shows some signs of slipping, such as the poor layout in the first section and some uncited bits at the end of paragraphs. Compared to Swedish language, the other language FA, there has been some definite decline.
+In a week since I posted about this on the talk page there has been neither a response there nor any non-bot edits to the article.
+It may be salvageable, but I'm not the one to do it. Daniel Case (talk) 21:02, 7 January 2013 (UTC)
+ 
+The rationale seems a little vague to me. I don't know how one would practically address what seems to be a fairly general concern that the article may have deteriorated because of lack of attention.·ʍaunus·snunɐw· 21:14, 7 January 2013 (UTC)
+Well, isn't this about looking for ideas? It's a politically sensitive enough article that it's semi-protected; without addressing this now there will be less room for debate on a future review. Daniel Case (talk) 23:32, 7 January 2013 (UTC)
+One user has begun adding unsourced and poorly sourced material to the article so maybe it is justified after all. Unfortunately I have neither the expertise or interest to save this article from being demoted.·ʍaunus·snunɐw· 15:55, 15 January 2013 (UTC)
+ 
+ Featured article criteria brought up in the review section include referencing and structure. Dana boomer (talk) 23:51, 26 January 2013 (UTC)
+ Delist per my original post, and failure to address issues in the meantime. Daniel Case (talk) 05:43, 3 February 2013 (UTC)
+ The only concrete concern you had was poor layout in the first section which I fixed weeks ago, and uncited material which you didn't specify well enough to be actionable. If you had given concrete concerns it might have been possible for someone to address them.·ʍaunus·snunɐw· 13:03, 3 February 2013 (UTC)
+I'm sorry I hadn't noticed the photo issue had been resolved, Good work.
+However, there is now so much uncited in the article (particularly the later sections) that I have given up adding {{fact}} tags to it, and I think it needs a {{refimprove}} banner. My opinion is even firmer than it was that this no longer meets the criteria.
+I also don't see the need for that long poetry sample at the end. Daniel Case (talk) 05:26, 4 February 2013 (UTC)
+I think the poetry sample is good and important. So is your point with the references that the referencing standard for FAs has risen since the article promoted or that the article has deteriorated? The refimprove banner doesn't help anyone unless they can also see where you believe references may be needed.·ʍaunus·snunɐw· 09:19, 4 February 2013 (UTC)
+I put a batch of tags in the article last night; perhaps I should put a section banner in.
+My point was that it seems that there seems to me to be even more unreferenced material now than when I first brought this article here.
+As for the poetry sample, it would certainly be relevant to an article about Turkish poerry; I fail to see what point it makes about the language as a whole that it requires including the entire poem. Daniel Case (talk) 15:24, 4 February 2013 (UTC)
+Addendum: OK, I see that the article on Swedish has a sample too. However, I a) note that it's much shorter, and doesn't include IPA and b) I question the need for a sample at all given that any decent article on a language would have more than enough samples included in its examples demonstrating grammar, syntax etc. that have the additional benefit of directly demonstrating what is described in the text.
+Just because our only two FAs on languages have sample sections does not mean that all our articles on languages should have one. Daniel Case (talk) 15:34, 4 February 2013 (UTC)
+The article is about a language, being able to read a coherent text in the language is an illustration equivalent to having a picture of a the empire state in an article about that building or a map in an article about a geographic location. ·ʍaunus·snunɐw· 15:31, 4 February 2013 (UTC)
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────────┘ See my response above, which actually seemed to have anticipated your response before the edit conflict. Daniel Case (talk) 15:34, 4 February 2013 (UTC) 
+ 
+The addition of IPA in this article is an improvement relative to the Swedish article because it includes pronunciation help. Swedish and Turkish are not the only two featured articles on languages - Nahuatl also includes a text sample. Mayan languages doesn't because it is abotu an entire language family. And no that doesn't mean that all article on languages have to - but it means that your point that is it superfluous is unjustified. It is just an "I dont like it" argument. ·ʍaunus·snunɐw· 15:38, 4 February 2013 (UTC)
+  ┌────────────────────────────────────────────────────────────────────────────────────────────────────┘ I'm sorry; when I had originally searched for other language FAs while I was doing peer review on American Sign Language, I only found two in the index that seemed from their names to be about specific languages. I missed Nahuatl because it doesn't end in "language". My bad. 
+ Still, though, I believe I gave a lot more reasons for not having one than your characterization of my response would allow. I do not see what encyclopedic purpose a long text sample by itself serves, particularly when it is presented entirely without context (granted, this is not the case with the Nahuatl article). 
+ Now, granted, especially with the IPA included, it might make more sense if it was also accompanied by an audio file of a native speaker reading that text (There is no audio in that article, but then there's not in a lot of our language articles). Daniel Case (talk) 15:59, 4 February 2013 (UTC) 
+ I disagree, as do apparently most of the authors and reviewers of FA language articles.·ʍaunus·snunɐw· 16:08, 4 February 2013 (UTC)
+Disagree with which of my assertions above? That without context it's pointless? Or that it would be better with a sound file? Daniel Case (talk) 17:43, 4 February 2013 (UTC)
+With this: "I do not see what encyclopedic purpose a long text sample by itself serves". Of course it would be better with a recording but that is not the standard in language articles. To my knowledge no language articles have actual sound samples. Yes it would be good if they did, but it is not currently feasible.·ʍaunus·snunɐw· 18:46, 4 February 2013 (UTC)
+Actually, it's quite feasible to record something, convert to .ogg, upload to Commons, and put it in the article. I've done this with videos ... audio shouldn't be a problem.
+However, we're sort of losing the point here because the lack of an audio file really wasn't the issue. Daniel Case (talk) 22:55, 4 February 2013 (UTC)
+What I meant is that it's not feasible to make it the standard for language articles, because it is not very easy to find speakers of most of the world's languages.·ʍaunus·snunɐw· 00:21, 5 February 2013 (UTC)
+True, but there's a difference between a language spoken by a few hundred on some remote island and a language with over 60 million native speakers spread over a large area. Daniel Case (talk) 21:35, 5 February 2013 (UTC)
+  I agree that the underreferencing (even if present when the article was promoted) is a serious threat to retaining this article as FA. I have asked two people from my university that work with Turkish, and while one refused, the other agreed to provide references at least for the stress part. Maybe even more, we shall see. I just want to suggest not to close FARC to quickly. Time goes WAY too fast on Wikipedia. G Purevdorj (talk) 15:22, 12 February 2013 (UTC) 
+ [edit] A short FAR of my own 
+ Comparing the versions of 2007 and today: 
+ (improvement) Speaker number is addressed much more carefully in the disinformation box.
+(detoriation) Use of honorifics plays a too prominent role in the lead.
+(detoriation) Sentence about Tonyukuk is clumsily worded.
+(equal) The paragraph starting with “The past few decades ...” is unsourced. This was already the case when the article was promoted. The same holds for the next paragraph.
+(equal) Content and quality of the article up to but not including “Dialects” are roughly equivalent.
+(arguably improved) The dialect part was somewhat improved, even if the list style information in the latter part of the chapter is a bit overburdening. (One might consider getting it into another article and summarizing it on the basic of linguistic features. But in any case, even the preceding text has been slightly improved, so there is no decrease in quality.)
+(arguably equal) The phoneme status of soft g was discussed in a problematic manner in the first article, but the revision has yielded in inconsistent wording. The source is accessible, though, so this can probably be amended.
+(deotiation) The wording in the last paragraph of the consonant section (“When a vowel ...”) is a bit redundant; it could be shortened to two sentences.
+(arguably detoriated) “Consonant voicing and devoicing” is a useful short new section, but it fails to be integrated with what is mentioned in the preceding paragraph. It also confusingly talks about “letters” where one might expect a discussion of phonemes/allophones.
+(detoriated in one respect, improved in one respect) The unsourced addition (“However, ...”) in the “Vowels” section should be sourced or deleted. (The same section has gained a source, though, rendering it approximately equivalent with the previous version.)
+(improved) A useful comment on the accusative has been added to the nouns section, and new examples have been added to the ev table (still unsourced and as a paradigm of a major language probably even not requiring a source)
+(improved notably) The grammar section has overall been expanded, and the expansions are sourced and concern issues that merit to be mentioned.
+(equal) Vocabulary section basically unchanged.
+(improved) The writing system section has been somewhat expanded. One may argue that this can be put shorter or that the new length is better. In any case, adding a picture here (as language articles tend to have comparatively little of such supporting materials) seems a very good idea. The new examples are also helpful.
+  Summarizing, while a few minor edits are in place, the article has slightly improved compared to May 2007. The article should clearly be kept. I also want to express my concern here that a FARC such as by Daniel Case who relegates the actual reviewing work to others or (even worse) delists an article without recourse to article-internal facts unfairly shifts the burden of proof against good articles. The burden should be with the reviewer. And unless he can provide any real evidence (that would have to argue that even the 2007 article did not meet current Wikipedia standards for FAs), he has both failed to demonstrate that the article detoriated or that it didn't meet FA criteria in the first place. 
+ G Purevdorj (talk) 18:20, 3 February 2013 (UTC) 
+ 
+My decision to vote delist does not by any means mean that the article will be delisted. Please try harder to understand this process before you comment. Other editors would have to agree with me that it had declined sufficiently for that to happen. We do have to have consensus.
+I assume you meant that I was relegating the actual work of restoring the article to others. As I freely admitted, I don't have the expertise. But I did have some concerns that this had to be at least reviewed because it seemed to have declined, not least because the three editors who developed it to FA and looked after it have all left Wikipedia. I provided some evidence that it might have indeed suffered, especially compared to Swedish language, currently our only other language FA. The burden of proof always rests with those who would have an article kept.
+The article could indeed be found to up to 2007 standards but not today's, and thus delisted. Consensus can change. Daniel Case (talk) 05:14, 4 February 2013 (UTC)
+See above, as well. The article has a great deal of unreferenced material. Daniel Case (talk) 05:26, 4 February 2013 (UTC)
+I think that Purevdorj makes good points. And think he also meant reviewing since your initial comments didn't constitute an actual review, but just a very general statement of opinion about the state of the article. I also think he makes a good point that overall the article has in fact improved since its initial promotion.·ʍaunus·snunɐw· 09:24, 4 February 2013 (UTC)
+As I said above, I disagree. No article with as much uncited material as I found last night would make it through FAC today. Or even in 2007. Daniel Case (talk) 15:24, 4 February 2013 (UTC)
+ 
+ Notified: WP United States, WP Cities, WP Michigan and WP Detroit
+  I am nominating this featured article for review because... It's completely one-sided. It was promoted to FA in 2006, and offered then quite a neutral view of the place. Since then, several less-than-perfect aspects have been made to disappear, and criticisms have been archived with the issues raised left unresolved. 
+ Examples from the first quarter of the 2006 article : 
+ "Detroit's crime rate has created international notoriety and a tarnished reputation. The city continues to struggle with the burdens of racial disharmony between itself and its suburban neighbors, and an antiquated economy."
+"The 1960s and 1970s saw the rise of heroin, and a crack cocaine epidemic. Drug-related property crimes and violence among competing drug dealers rose, and urban renewal efforts led to the razing of abandoned homes."
+"The National Institute for Literacy declared in 1998 that 47% of Detroiters were "functionally illiterate.""
+  All of these statements were, as of 2006, properly sourced, as befit a FA. You'll find none of these in the current page, obviously biased, strongly in favor of an idyllic view of Detroit. 
+ Such criticism has been made on the talk page, in August, then again in November : these comments disappeared from the talk page (left in a pristine condition...), archived without being answered. 
+ As of today, I don't think the article is worth its FA-status anymore. Esprit Fugace (talk) 10:41, 28 December 2012 (UTC) 
+ The instructions about who to notify are at WP:FAR; please do so, or post to WT:FAR asking for help. I see talk page issues going back more than a month, so I suppose we can consider instructions were met, even though Esprit Fugace did not raise FAR at article talk first. SandyGeorgia (Talk) 14:15, 28 December 2012 (UTC)
+Done (I think). Esprit Fugace (talk) 20:24, 28 December 2012 (UTC)
+The top contributors who are still active could also be notified. SandyGeorgia (Talk) 21:16, 28 December 2012 (UTC)
+ Comment – I briefly scanned through the article and saw that some unreferenced content has snuck into the article, which should be cleaned up one way or another (by adding citations or removing the content). The article isn't unsaveable by any means, so if an interested editor has the time and inclination to add sources, I think this could be salvaged. As for the nominator's comments, the literacy rate is over a decade out-of-date and new figures should be found if a figure is to be added for the purpose of commenting on Detroit in 2013. I haven't read the article thoroughly, and consequently can't give a solid opinion on whether POV issues exist. Giants2008 (Talk) 01:09, 11 January 2013 (UTC)
+ 
+ Featured article criteria discussed above include referencing and NPOV. Dana boomer (talk) 13:30, 12 January 2013 (UTC)
+  Notifications still not done. SandyGeorgia (Talk) 18:20, 13 January 2013 (UTC) 
+ I *did* warn Thomas Paine of this FAR, he's the only one in the top 10 who edited the article in the last two months. It wouldn't have taken longer for you to do it in the first place rather than point the lack, check (as such), and then feel self-righteous about it. You're on your turf, I'm merely passing, I only came out of courtesy because on fr.wp DidierC mentioned that his attempt to amend just a tad the obvious bias in the article had been reverted, and has been advised to take the matter to the media, who might appreciate a lead about it. I thought it a bit extreme and wanted to try something a bit less drastic, keeping it in the community. Have it your way, I'm done here. Esprit Fugace (talk) 23:26, 13 January 2013 (UTC)
+ Keep. No warrant for nomination. The article is one of the best and most referenced city articles. Show us a city article that is better in order to discuss it. Of the items mentioned, the only cited one, Forbes discredited the source of the original literacy report.Thomas Paine1776 (talk) 19:16, 13 January 2013 (UTC)
+I'm of two minds here. The statement by the nominator is akin to a withdrawal, and I'm not happy with how the whole nomination went down, from not notifying the primary contributors immediately to never posting on article talk as the instructions call for. On those grounds, I think a delegate could justify declaring the whole FAR out of process. On the other hand, I still think the level of citation could use some work; in particular, I see a lot of uncited items in the topography and college sections. If comparisons are sought, Istanbul and Dorset are two FAs passed recently that seem to have more thorough referencing. Giants2008 (Talk) 03:14, 3 February 2013 (UTC)
+Remove FA Status. I will say what I already said on the article's talk page: "This article manages to take the small and scattered bits of semi-good news about Detroit and combine them to make it sound like Detroit is doing better than ever. The decline of Detroit's economy, population, and overall well-being has been by far the most important theme of Detroit's history in the past several decades, and this article needs to speak of it. Until that happens, this article's FA status needs to be removed." I will throw NPOV out there as reason for removal of FA status, as this article gives extremely disproportional weight to the idea that Detroit is doing well. Other than that, I also see a lot of uncited material. --Philpill691 (talk) 22:57, 6 February 2013 (UTC)
+Demote. The article fails to adequately cover essential themes of the topic, specifically the decline of a once-great city. I see boosterism from Thomas Paine1776 as the stumbling block to improvement. I see nobody stepping forward to make the required changes.
+Note that the 2006 FA version was decidedly more truthful than what we see here now. It discussed how "Detroit leads the nation in terms of declining urban population" and how "Detroit's crime rate has created international notoriety and a tarnished reputation". It discussed "racial disharmony", "an antiquated economy" and "budget shortfalls". Binksternet (talk) 23:42, 6 February 2013 (UTC)
+ 
+ Notified: PDH, WP Women's History, WP Missouri, WP Mizzou, WP History of Science, WP Biology, WP Genetics, WP Biography/Science and Academia
+  I am nominating this featured article for review because this article was promoted in 2005 and has never been re-reviewed. In the past seven years, the featured article criteria have become more strict, and unfortunately this article has not kept pace. Specifically: 
+ It is significantly under-referenced, with many sections and paragraphs being partially or completely unreferenced. There is one cleanup banner and several in-line tags related to this issue.
+There is a relatively large proportion of references to works written by the article's subject, in spots where third-party referencing is needed.
+The size of the further reading section makes me wonder if the article is comprehensive, or if it is just that these articles need to be worked in to the in-line citations to rectify the referencing issues.
+More minor issues, such as page numbers needed for books, date standardization and a clarification needed tag, also exist.
+  Overall, this article doesn't meet the featured article criteria as they stand today. Dana boomer (talk) 16:32, 16 October 2012 (UTC) 
+ Hi Dana, I think WikiProject Women scientists may be taking this on. How much time do we have? Thanks, Keilana|Parlez ici 16:21, 6 November 2012 (UTC)
+If work continues, as much as you need. Good luck, and let me know when you need further comments/review. Dana boomer (talk) 16:30, 6 November 2012 (UTC)
+Thanks Dana, I'm hoping that we'll get started this week. I'll ping you when we're looking for more review. Thanks for your patience! :) Keilana|Parlez ici 01:58, 7 November 2012 (UTC)
+  I do not have access to the sources, but will help with reference formatting. It looks like approximately half of the items in Further reading were used as references and could, with careful auditing, be deleted from Further reading; willing to do this as well. Maralia (talk) 02:38, 7 November 2012 (UTC) 
+ Move to FARC, uncited text, tags, and not enough progress. Why is this still in the FAR stage after many months? FAR lasts two weeks. SandyGeorgia (Talk) 01:37, 27 December 2012 (UTC) 
+ This article has been at FAR for over two months, where it has received only a handful of edits in spite of massive undercitation. It is past time to be moved to FARC for futher evaluation, and it is past time to Delist. Substantial work is not underway. SandyGeorgia (Talk) 18:04, 28 December 2012 (UTC)
+  Further reading needs to be pruned. SandyGeorgia (Talk) 02:38, 29 December 2012 (UTC) 
+ I will get to this - the refs need to be standardized too; there's a couple of {{Harvnb}}s floating around. The rest should already be in the reflist, so they can be removed. I'm about to run out of the house but I'll try to get some more done tonight and tomorrow. Keilana|Parlez ici 21:42, 30 December 2012 (UTC)
+ Move to FARC per SG, though there has now been a lot of progress, especially Keilana today. If you are doing more, you can invite me to revisit tonight or on the 2nd. Johnbod (talk) 20:17, 30 December 2012 (UTC)
+ 
+Hey John, I'm planning to do some more significant referencing tonight and tomorrow, I'll ping you on the 2nd if you're willig to take another look. Thanks! :) Keilana|Parlez ici 21:42, 30 December 2012 (UTC)
+Much improved, but there are still some cn tags, indeed at least one added. Better take to FARC. Johnbod (talk) 17:45, 3 January 2013 (UTC)
+ 
+ Concerns raised in the review section include sourcing and comprehensiveness. Work has been ongoing (and review can be extended to allow more time if needed), but some issues regarding sourcing remain. Nikkimaria (talk) 03:22, 8 January 2013 (UTC)
+ Delist - Per sourcing issues. GamerPro64 19:18, 13 January 2013 (UTC)
+Comment - Is work still ongoing? There are still several fact tags and one banner on the article... If these are going to be addressed, I can start a full review of the article, as there are other, more minor, issues that I can see. If not, I'll be entering a delist vote, based on the current state of the article. While Keilana has done a great job in improving the article so far, it's still not quite up to featured quality. Dana boomer (talk) 23:48, 26 January 2013 (UTC)
+ 
+Yes, I'm still working, I apologize for the pause - I just began a new semester at university and I've been completely inundated with schoolwork. It's letting up and I had planned to take care of the last few citation needed tags this weekend with a new source I picked up. I would really appreciate a full review, if you can! Thank you so much for your patience, I'm very sorry that I've neglected it recently but I've just been totally swamped. Keilana|Parlez ici 00:30, 27 January 2013 (UTC)
+ 
+ Notified: Wikipedia:WikiProject Middle Ages, Wikipedia:WikiProject Former countries, Wikipedia:Noticeboard for India-related topics, Wikipedia:WikiProject Tamil Eelam, Wikipedia:WikiProject Tamil civilization, User:Nmadhubala, User:Srirangam99, User:Venu62
+  I am nominating this featured article for review because this article had been rated FA in September 2006. Since then, the article has undergone lots of edits. The article underwent an FA-review in late 2008 and was "Kept". However, since then, I observe that plenty of additions and removals have been made. Too much unsourced and POV stuff has been added that this time around, I don't think that the article satisfies the minimum sourcing criteria. Concerns have also been frequenty raised.-RaviMy Tea Kadai 03:42, 13 November 2012 (UTC) 
+ Featured article criteria mentioned as issues in the review section include sourcing and neutrality. Dana boomer (talk) 00:12, 28 November 2012 (UTC)
+ Delist. No work has been done with no concerns addressed above. JJ98 (Talk) 05:20, 24 December 2012 (UTC)
+Leaning to delist. I am not satisfied at all by the current state of the article. The prose has lost its proffesional quality, as well as some neutrality issues here and there. — ΛΧΣ21 06:21, 24 December 2012 (UTC)
+  I cleaned up the long pending POV. Checking prose. Somebody please elaborate on the sourcinng problem other than formatting (that also will be done soon). Hometech (talk) 13:26, 24 December 2012 (UTC) 
+ 
+Good to see some progress. From the talk page there is clearly an issue with nature of Chola influence/control in SE Asia. Many of the Sastri refs are doubled with more recent ones, &amp; a long term diff over 3 years doesn't actually show much problemmatic addition to my inexpert eye. But I think access to specialized recent works such as Chopar et al will be needed to save this I think. Johnbod (talk) 20:51, 30 December 2012 (UTC)
+wot dat diff is i dont get. I reduced some of Sastri. Hometech (talk) 19:23, 31 December 2012 (UTC)
+ Comment - Does anyone have further comments on the current state of this article? It looks like Hometech did a good amount of work on the article - have the sourcing and neutrality concerns been addressed? Dana boomer (talk) 23:42, 26 January 2013 (UTC)
+ 
+Neutrality is mostly done. New sources have been used, I shall try a few more. busy in real life so just a day or two more.Hometech (talk) 20:42, 30 January 2013 (UTC)
+ 
+ Notified: Antandrus, Makemi, Martinuddin, WP Songs, WP Middle Ages, WP Christian music, WP Lutheranism
+  I am nominating this featured article for review because it is significantly under-referenced, with many sections and paragraphs being partially or completely unreferenced. This is the most major issue, with one section having a references-needed banner that has been present for almost two years. Other issues include: 
+ The external links section needs a trim, and possible merging with the "learning resources" section.
+The very short "Miscellaneous section" should be integrated with one of the other sections.
+Removed. Didn't seem relevant, and was unsourced. Ten Pound Hammer • (What did I screw up now?) 02:13, 26 September 2012 (UTC)
+21st century section is basically a non-bullet point pop culture section, and completely unferenced.
+There is one dead link tag that should be addressed.
+What is Ref #55 ("Gregoriaans ritme. Dutch Wikipedia contribution by Dr. Dirk van Kampen.")?
+Lol, citing another wikipedia. I will never understand the logic behind that. Ten Pound Hammer • (What did I screw up now?) 02:13, 26 September 2012 (UTC)
+Ref #53 (Dirk van Kampen) and #56 (Chris Hakkennes) need page numbers
+Book ref formatting is all over the place - different page number formats, with/without book title, full info in notes for some and references for others, etc.
+  The lack of referencing is the most pressing issue, as I said above, but the other issues also need to be addressed. Dana boomer (talk) 14:24, 24 September 2012 (UTC) 
+ JJ98 (Talk / Contribs) 08:50, 25 September 2012 (UTC) 
+ Very nicely written article, but does need additional referencing. This subject isn't my forte and the primary editors that brought this article to FA have apparently been inactive for some time. The issues covered in this article aren't of a controversial nature so delisting due to the issues listed above seems a shame. I can't see the urgency for this FAR though I concur that additional referencing should be added. Has anyone tried to reach out to the primary authors via email to inform them of this FAR?--MONGO 01:26, 26 September 2012 (UTC) 
+ Not sure why we would use e-mail? Three of the four most frequent contributors are still active, and have been notified on their talk pages, per the guidelines. Also, there is no "urgency" to the FAR - it's just a FA from 2006 that has yet to be re-reviewed, has had a major cleanup banner for two years, and had a talk page notification made over a week ago with absolutely no response; that's not exactly a quick-moving process. Dana boomer (talk) 11:54, 26 September 2012 (UTC)
+ Agreed, the lack of sourcing is a major issue here. One section has been tagged unreferenced over 2 years, and I see many more swaths of unreferenced-ness. Ten Pound Hammer • (What did I screw up now?) 02:13, 26 September 2012 (UTC)
+ It has been about three weeks since the last comment here, and the only changes to the article have been minor formatting and one typo fix. I don't see a concerted effort to improve it. Such swaths of unreferenced material are a serious issue. Chris857 (talk) 02:55, 18 October 2012 (UTC)
+ 
+This should probably proceed to FARC, since another ten days have passed and the only subsequent edits have been one act of vandalism that was reverted. Chris857 (talk) 23:05, 28 October 2012 (UTC)
+*bump* Its been over two weeks since the last comment, and we have seen the addition of one interwiki link and some minor formatting that does nothing to improve the issues outlined. Chris857 (talk) 20:49, 16 November 2012 (UTC)
+ 
+ Featured article criteria mentioned as issues in the review section include sourcing, images and MOS compliance. Dana boomer (talk) 00:14, 28 November 2012 (UTC)
+ Delist - no effort on improving this Chris857 (talk) 04:05, 6 December 2012 (UTC)
+Delist, mostly unchanged since nomination, no one appears to be working on this. SandyGeorgia (Talk) 01:42, 27 December 2012 (UTC)
+Delist, due to lack of action and sections with no inline references. Prose looks pretty good at first glance so this is a shame as it looks more fixable than some I've seen at FARC. Casliber (talk · contribs) 12:36, 29 December 2012 (UTC)
+Delist no issues have been resolved. JJ98 (Talk) 18:27, 29 December 2012 (UTC)
+Delist, major sourcing issues and no-one working on it. Sasata (talk) 20:34, 31 December 2012 (UTC)
+The big "unreferenced" section duplicated much of the rest of the article. Indeed, it was largely a summary of the rest of the article. I'll look at some of the other parts in the next couple days. Gimmetoo (talk) 22:02, 31 December 2012 (UTC)
+ 
+Gimme, I'm still seeing extensive unreferenced information, a cleanup banner, etc. Are you still planning to work on the article? It looks from the history like you encountered some resistance when you attempted to work on cleanup in late December/early January... Dana boomer (talk) 21:58, 9 February 2013 (UTC)
+ 
+ Notified: User talk:Majoreditor (FA nom, semi-retired), Wikipedia talk:Christianity noticeboard, Wikipedia talk:WikiProject Saints, Wikipedia talk:WikiProject Catholicism, Wikipedia talk:WikiProject Eastern Orthodoxy, Wikipedia talk:WikiProject Christian history, Wikipedia talk:WikiProject Christianity/Theology work group
+  I am nominating this featured article for review because the issues I raised in February about the article still exist: 
+ Missing page numbers in references eg. Børtnes (2006).
+Ref 25 is General Roman Calendar of 1962. An article is considered unreliable, by default
+Use of WP:PRIMARY references: PG, 37.1157–9, Carm. de vita sua, ll 1828–55.
+Inconsistency in references
+Comprehensiveness:
+Primary sources of his biography?
+Primary sources of his theology
+What are his relics?
+A Doctor of the Church should definitely have a more comprehensive section on theology and views.
+  Redtigerxyz Talk 13:21, 14 October 2012 (UTC) 
+ Comment. Here's some information for FAR consideration: 
+ Many of the the page references are in the article but supressed. Go into edit mode and you'll find the page refs for Børtnes, etc.
+ FA criterion 2c is violated: some pages are in the text, while others are in pp. format in the references.--Redtigerxyz Talk 06:12, 26 October 2012 (UTC)
+ Ref 25 and associated material have been removed. Nonetheless, I'd appreciate it if you can describe why the General Roman Calendar of 1962 isn't a reliable source for describing how his feast day was historically observed.
+I have changed a PG citation to cite a secondary source. There are still some PG citations in the article, but they are, I believe, used exclusively for direct quotations - a practice which allowed under WP:PRIMARY.
+ Patrologia Graeca (PG) is in Greek. The English translation of the quote may be flawed. Secondary ref/primary ref translation is needed.--Redtigerxyz Talk 06:12, 26 October 2012 (UTC)
+ Inconsistency in references: please provide examples of what you'd like changed. There may be an issue which arose from one of the damnable bots which periodically changes reference format. Guys, if you want to de-list the article because citations have been wrecked by bots, please do so. I'm tired of cleaning up after them.
+ Besides inconsistency in point 1, look at formatting of ref 17 and 21; then where pages are in text compare ref 2 and 15. Citation formatting is not a huge issue, comprehensiveness is. --Redtigerxyz Talk 06:12, 26 October 2012 (UTC)
+ When you state that "A Doctor of the Church should definitely have a more comprehensive section on theology and views" - which views and theology do you specifically feel should be included?
+ See note on "Theological and other works" below.--Redtigerxyz Talk 06:12, 26 October 2012 (UTC)
+ His relics are primarily his bodily remains, including a creepy-looking skull. I haven't found a reliable source which goes into details about which specific bones and tissues are contained in his reliquery. (Is that level of macabre detail really necessary for the article to be considered complete?). I'll keep looking for reliable sources detailing his relics, but I have my doubts that it's anything other than de minimus material.
+The primary source of his biography is his own writings. Thanks for the suggestion; it would be helpful to include a sentence to that efffect (probably sourced from McG).
+ "Theological and other works" does not detail the names of his books/writings and the core subjects and views in each. A generic "theological writings" is used. Which writings? "Gregory's most significant theological contributions arose from his defense of the doctrine of the Trinity." what is the source of this? His own writings/his hagiographies/his discourses recorded by others???? I googled and found that the primary ref "Carm. de vita sua" is actually his book Carmen de vita sua, which is unnamed in the article. Also add the language in which the books are written. --Redtigerxyz Talk 06:21, 26 October 2012 (UTC)
+ I'm not sure what you mean by "primary source of his theology". Do you mean which theological schools influenced him, or which individuals influenced him?
+ His influences, any. Theological schools/individuals/visions/study of the Gospels ??? --Redtigerxyz Talk 06:12, 26 October 2012 (UTC)
+  Thanks for your observations and feedback. I'm happy to help in small ways to improve the article. If consensus at FAR is that the article needs extensive rework then perhaps someone else will feel free to pitch in and help. Cheers, Majoreditor (talk) 02:11, 26 October 2012 (UTC) 
+ FA criteria under discussion in the FAR section include references and comprehensiveness. Dana boomer (talk) 16:46, 6 November 2012 (UTC)
+ Delist, no progress, no one seems to be watching or working on this article. SandyGeorgia (Talk) 01:44, 27 December 2012 (UTC)
+Probably doesn't need much work. References may need tidying, but I'm not too sure about the other points. The article mentions his works began to be translated into Latin, from of course Greek. There's no reference to him ever even visiting a Latin-speaking region, so it hardly needs mentioning, though if people are raising the question perhaps it should be. The article did already mention "He also began composing De Vita Sua, his autobiographical poem...." - using the more usual Latin title. A little should be added on what sources about, &amp; writings by him we have - evidently a small minority of the original output, as usual at this date, and a mixture of letters and sermons. I don't really think the questions about relics or influences actually need resolving, though his actual theological views could be expanded on a bit. Johnbod (talk) 04:00, 27 December 2012 (UTC)
+ 
+  

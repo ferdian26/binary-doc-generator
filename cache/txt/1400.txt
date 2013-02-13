@@ -1,0 +1,172 @@
+  
+ Ex parte Crow Dog, 109 U.S. 556 (1883), was a case that involved a conflict between two members of the same Native American tribe on reservation land where one, Crow Dog, killed the other. The Supreme Court of the United States held that a federal court did not have jurisdiction to try Crow Dog, a member of the Brulé band of the Lakota Sioux, when the offense had already been tried by the tribal council. The tribe handled the case according to Sioux tradition, and Crow Dog paid restitution. However, the United States government then also tried Crow Dog for murder, and he was sentenced to hang. On his appeal to the Supreme Court, the court held that unless Congress authorized it, the courts had no jurisdiction to try the case.[1] This case resulted in Congress enacting the Major Crimes Act in 1885, placing 15 major crimes under federal jurisdiction if committed by an Indian against another Indian on a reservation or tribal land. This case was the beginning of the plenary power legal doctrine that has been used in Indian case law to limit tribal sovereignty. 
+ [edit] Background 
+ [edit] Treaties and statutes 
+ Crow Dog[fn 1] was a Brulé[fn 2] subchief who lived on the Great Sioux Reservation, in the part that is now the Rosebud Indian Reservation in south-central South Dakota on its border with Nebraska. The tribe had made several treaties with the United States, the most significant being the 1868 Treaty of Fort Laramie.[4] This treaty provided that Indians agreed to turn over those accused of crimes to the Indian Agent, a representative of the U.S. government in Indian affairs.[fn 3] The treaty also stipulated that tribal members would stay on the reservation provided (which included the Black Hills)[fn 4] unless three-fourths of the adult male tribal members agreed otherwise.[4] In 1874, Colonel George Armstrong Custer led a party into the Black Hills to investigate rumors of gold. Once he announced the discovery of gold on French Creek, the Black Hills Gold Rush brought prospectors into that area in violation of the Fort Laramie treaty. The Lakota protested in 1875 to no avail, as the United States demanded that the Lakota sell the Black Hills.[6] The United States then declared the Lakota as hostile, which started the Black Hills War.[6] The war included the Battle of the Rosebud, the Battle of the Little Bighorn and the Battle of Slim Buttes, among others. The war ended in 1877. Crow Dog fought in this war, while the man he later killed, Spotted Tail, did not.[7] Congress later passed a law in 1877 (19 Stat. 176) that took the Black Hills away from the tribe, contrary to the language of the treaty.[8] 
+ [edit] Murder of Spotted Tail 
+ On August 5, 1881, Crow Dog shot and killed Spotted Tail,[fn 5] who was the uncle of Oglala Lakota war leader Crazy Horse.[10] Spotted Tail had not been selected as a chief by the tribe, but instead had been appointed by General George Crook in 1876, which hurt him in the view of many of the tribe.[11] He was viewed as an "accomodationist" and the Bureau of Indian Affairs (BIA) referred to him as the "great peace chief."[12] He also supervised the tribal police of about 300 men.[13] In contrast, Crow Dog was a "traditionalist"[14] and although he had been a captain in the tribal police, he was fired by Spotted Tail sometime after a July 4, 1881, confrontation during which Crow Dog pointed a rifle at Spotted Tail.[15] 
+ On August 5, 1881, tensions further escalated at a tribal meeting where a number of tribal members criticized Spotted Tail for taking Light-in-the-Lodge, the wife of Medicine Bear, a crippled man, into his household as his second wife.[11][16][17] It was believed that the killing occurred that day as the result of Crow Dog and Spotted Tail meeting, both armed, and mistaking the other man's intentions.[18] In another version of the story, Crow Dog was appointed by the tribal council to head the tribal police, which undermined the authority of Spotted Tail. Crow Dog discovered that Spotted Tail was taking money from ranchers for "grazing rights" and he denounced him for it, while Spotted Tail defended the practice.[11][19] A later conflict with the Indian Agent forced the tribal police to disband, and Crow Dog lost his position.[20] This version makes no mention of another man's wife being the reason for the killing, and states that Crow Dog ambushed Spotted Tail to gain power in the tribe.[21] There is no consensus among historians as to which version is correct. 
+ In either case, the matter was settled within the tribe, following longstanding tribal custom, by Crow Dog making a restitution payment of $600,[fn 6] eight horses, and one blanket to Spotted Tail's family.[22][23][24][25][26] 
+ Following the killing and the settlement under tribal customs, the Indian Agent had Crow Dog arrested and taken to Fort Niobrara, Nebraska.[27][28] Within 20 days, the U.S. Attorney General and the Secretary of the Interior concluded that the Federal Enclave Act of 1854[29] as modified by the Assimilative Crimes Act allowed the territorial death penalty to be applied to Crow Dog.[30] In September 1881, Crow Dog was indicted by a federal grand jury for murder and manslaughter under the laws of the Dakota Territory. In March 1882 the case was heard by Judge G. C. Moody, held at the First Judicial District Court of Dakota, located in Deadwood, South Dakota.[31] The court appointed A. J. Plowman to represent Crow Dog,[32][24] who claimed that he had been punished and made reparations according to the customs of the Brulé Sioux tribe. According to a contemporary news report of the Deadwood Times[fn 7] it was the first time "in the history of the country, [that] an Indian is held for trial for the murder of another Indian."[22] The trial was viewed at the time as a sham,[fn 8] and despite testimonies from Indian witnesses stating that Spotted Tail had killed a rival once before,[fn 9] that Spotted Tail drew a pistol on Crow Dog, and that Spotted Tail's intention was to kill Crow Dog,[33][34] Crow Dog was convicted and sentenced to be hanged on May 11, 1882.[35] The prosecution had presented five Indian witnesses[fn 10] who stated that Spotted Tail was ambushed, and some witnesses stated he was unarmed. In an unusual move for a death penalty case, Moody released Crow Dog, allowing him to go home pending his appeal to the territorial Supreme Court. Surprising many of the white citizens of the area, Crow Dog returned to court as required. In May 1882, the territorial Supreme Court affirmed the conviction, and the execution was rescheduled for May 11, 1883.[37] Crow Dog then petitioned the United States Supreme Court for a writ of habeas corpus and the Supreme Court accepted the case.[1][24][22][38][39] 
+ [edit] Opinion of the Court 
+ Justice Stanley Matthews delivered the opinion of the unanimous court. Matthews noted that Crow Dog was indicted for murder under a statute prohibiting murder on federal land.[fn 11][40] Matthews then looked at the federal laws dealing with Indians, including a statute that applied the prohibition on murder to Indian reservations[fn 12][41] and another covering exceptions to prosecution.[fn 13][42] The first statute prohibited murder on federal land, the second statute applied the first statute to reservations, and the last had specific exceptions to prosecution. Matthews felt that this last section was the most critical one in the case, with the section stating unequivocally that federal law: "shall not be construed to extend to [crimes committed by one Indian against the person or property of another Indian, nor to] any Indian committing any offense in the Indian country who has been punished by the local law of the tribe"[42] (brackets in original). Matthews rejected the contention of the United States that the 1868 Treaty of Fort Laramie implicitly repealed the exceptions to prosecution. He stated that since the law had not been amended or changed, and since implied repeals are not favored unless the implication is necessary, to allow such a repeal would be to reverse the general policy of the United States. Matthews said that such a repeal required a "clear expression of the intention of Congress," which was not present in the case. In a clear evocation of the principle of tribal sovereignty,[43] Matthews stated: 
+ 
+"It tries them, not by their peers, nor by the customs of their people, nor the law of their land, but by superiors of a different race, according to the law of a social state of which they have an imperfect conception, and which is opposed to the traditions of their history, to the habits of their lives, to the strongest prejudices of their savage nature; one which measures the red man's revenge by the maxims of the white man's morality."[1][44][45]
+ 
+ As a result, the trial court was without jurisdiction to hear the case, and the writ of habeas corpus was issued, discharging Crow Dog from federal custody.[1][46] 
+ [edit] Subsequent developments 
+ [edit] Major Crimes Act of 1885 
+ Shocked by the Supreme Court's decision and under strong pressure from the BIA,[43] Congress passed the Major Crimes Act in response.[fn 14][48][49] The Major Crimes Act placed seven serious felony offenses (with amendments over the years, it is now fifteen) under the jurisdiction of the federal government.[fn 15] Those wishing to assimilate Indians into mainstream white society[fn 16] wanted to do away with the "heathen" tribal laws and apply white laws to the tribes.[24][51] The BIA had also been attempting since 1874 to extend federal jurisdiction over major crimes to reservations, without any success.[52] Beginning in 1882, the Indian Rights Association (IRA) also tried to extend federal jurisdiction, but in a different manner.[53][54] The IRA believed that the tribes would be better served by a completely separate court system, modeled after U.S. courts and called agency courts. The only appeal would be to the Commissioner of Indian Affairs.[53] The BIA opposed that approach, preferring to try only major crimes in the nearest federal court. Ex parte Crow Dog provided the BIA a perfect example of why this was needed, along with an incident involving Spotted Tail's son, Spotted Tail, Jr., in which the younger Spotted Tail participated in a fight during which three Brulé were killed.[fn 17][55] The younger Spotted Tail was also confined pending murder charges, and it took a direct order of the Secretary of the Interior for the local BIA agents to comply with the Supreme Court decision before he was released.[45][55] The BIA also implemented regulations in 1883 criminalizing traditional tribal practices such as war dances and polygamy.[16] Between the BIA's efforts and the IRA efforts, the law was passed in 1885, making seven offenses federal crimes.[56] Many members of the Indian tribes were bitter with this outcome for decades afterwards. Wayne Ducheneaux, president of the National Congress of American Indians, testified before Congress on the matter in 1968:[57] 
+ 
+"Before all this came about we had our own method of dealing with law-breakers and in settling disputes between members. That all changed when Crow Dog killed Spotted Tail. Of course, our method of dealing with that was Crow Dog should go take care of Spotted Tail's family, and if he didn't do that we'd banish him from the tribe. But that was considered too barbaric, and thought perhaps we should hang him like civilized people do, so they passed the Major Crimes Act that said we don't know how to handle murderers and they were going to show us."[57]
+ 
+ In 2000, Larry EchoHawk, a Pawnee who had been the Attorney General of Idaho and was later the Assistant Secretary of the Interior for Indian Affairs, noted that: "The Major Crimes Act was designed to give the federal government authority to criminally prosecute seven specific major crimes committed by Indians in Indian Country. It was a direct assault on the sovereign authority of tribal government over tribal members."[58] 
+ [edit] Tribal sovereignty 
+ Crow Dog had a tremendous impact on tribal sovereignty.[59] The decision recognized two distinct concepts in addition to those related to criminal law. First, Justice Matthews had noted that under Cherokee Nation v. Georgia, (1831)[60] the Brulé tribe had a right to its own law in Indian Country.[61] Part of this ruling was based on American constitutional tradition - at that time, Indians were not U.S. citizens[fn 18] and according to Matthews did not have a “voice in the selection of representatives and the framing of the laws.”[1][43] The case held that Indian tribes retain sovereignty, and was still valid law. For example, United States v. Lara, (2004)[63] cited Crow Dog when holding that both a tribe and the federal government could prosecute Lara, as they were separate sovereigns. Subsequent cases have supported the concept "that tribal Indians living in Indian country are citizens of the United States first (under the plenary power doctrine), the tribes second, and the states third, and then only to the extent that Congress chooses."[64] 
+ Currently the tribes are authorized to operate their own courts, not as a right of tribal sovereignty, but under a federal law.[16][65] As of 2007, about half of the federally recognized tribes have tribal courts.[16] The power of these courts was limited to minor crimes with a maximum punishment of a $5,000 fine and imprisonment of no more than one year[66] until the passage of the Tribal Law and Order Act of 2010. Under this new act, tribes may sentence offenders for up to three years per offense and a $15,000 fine.[67] As a result of Crow Dog and ensuing legislation, jurisdiction in Indian country is complex, as shown by the following table:[68] 
+Offender
+Victim
+Crime
+Criminal Jurisdiction
+Law
+Authority
+Indian
+Indian
+Major
+Federal/Tribal concurrent
+Federal/Tribal concurrent
+Major Crimes Act
+Indian
+Indian
+Non-major
+Tribal
+Tribal
+Indian
+Non-Indian
+Major
+Federal/Tribal concurrent
+Federal/Tribal concurrent
+Major Crimes Act
+Indian
+Non-Indian
+Non-major
+Federal/Tribal concurrent
+State
+General Crimes Act
+Non-Indian
+Indian
+Any
+Federal
+Federal
+General Crimes Act
+Non-Indian
+Non-Indian
+Any
+State
+State
+ [edit] Plenary power doctrine 
+ The court also created the plenary power doctrine, holding that the federal court did not have jurisdiction because Congress had not passed a law giving jurisdiction to the federal courts or taking away the rights of the tribe.[61]Crow Dog was the last in a line of sovereignty cases that began with Cherokee Nation; the next major case, United States v. Kagama, (1886),[69] upheld the plenary power of Congress to enact the Major Crimes Act.[61] The plenary power doctrine allowed Congress to enact any law that it wanted to pass, over the opposition of the tribe or tribes affected. Congress subsequently used this power to breach the Medicine Lodge Treaty with the Kiowa by reducing the size of the Kiowa reservation without their consent.[fn 19][71] The use of this power led to complaints of being subject to a lawmaking body without representation, especially prior to being granted U.S. citizenship in 1924.[fn 20][73] 
+ 
+ ^ Crow Dog's Lakota name was Kangi Sunká.[2]
+^ The Brulé were a band of the Lakota (also called Teton) Sioux. The Lakota name for the band is Sičháŋǧu Oyáte.[3]
+^ The actual treaty language is: "If bad men among the Indians shall commit a wrong or depredation upon the person or property of any one, white, black, or Indians, subject to the authority of the United States, and at peace therewith, the Indians herein named solemnly agree that they will, upon proof made to their agent and notice by him, deliver up the wrong-doer to the United States..."[4] This was common language between 1821 and 1868 in treaties with Indian tribes.
+^ The name of the Black Hills in the Lakota language is Pahá Sápa.[5]
+^ Spotted Tail's Lakota name was Siŋté Glešká.[9]
+^ Some sources state the amount was $50.[22]
+^ As cited by Kingsbury, without date of publication or further information.[22]
+^ One potential juror stated that the word of one white man would outweigh the word of a hundred Indians. In addition, the judge did not allow several witnesses for Crow Dog to testify, including his wife, nor was any information on the various treaties with the tribe admitted into evidence.[24]
+^ It was noted that Spotted Tail had killed Big Mouth, another Brulé member by having two other Indians grab and hold Big Mouth while Spotted Tail shot him.[24]
+^ The witnesses were He Dog, Ring Thunder, High Bear, Chasing Hawk, and Kills On Horseback.[36]
+^ "Every person who commits murder-- ... or in any other place under the exclusive jurisdiction of the United States; ... shall suffer death."[40]
+^ "...the general laws of the United States as to punishment of crimes committed in any place within the sole and exclusive jurisdiction of the United States, except the District of Columbia, shall extend to Indian country."[41]
+^ "The preceding section shall not be construed to extend to crimes committed by one Indian against the person or property of another Indian, nor to any Indian committing any offense who has been punished by the local laws of the tribe..."[42]
+^ The bill's sponsor, Representative Cutcheon expressed "anger" at the release of a "murderer" into society.[47]
+^ The original offenses were murder, manslaughter, rape, assault with intent to commit murder, arson, burglary, and larceny. Later, Congress added kidnapping, maiming, incest, assault with a dangerous weapon, assault with serious bodily injury, assault of a child under 16, child abuse or neglect, robbery, or a felony under 18 USC Ch. 109A (Sexual Abuse). Territorially, it covered "Indian Country", defined as all reservation land, all Indian allotments, and all dependent Indian communities outside of reservations. The crime had to be committed by an Indian for federal jurisdiction to apply.[50]
+^ This included eastern liberal reformers, such as the Indian Rights Association.[24]
+^ Following a dispute over a woman, White Thunder and Spotted Tail, Jr. were involved in a fight. White Thunder, his father, and Song Pumpkin were slain and Spotted Tail, Jr. arrested and confined in jail. Spotted Tail, Jr. was the only Indian released from custody as a result of Ex parte Crow Dog.[55]
+^ Indians did not become U.S. citizens until 1924, upon passage of the Indian Citizenship Act of 1924[62]
+^ The United States admitted that they breached the treaty in Lone Wolf v. Hitchcock (1903).[6][70]
+^ Even after becoming U.S. citizens in 1924, many states did not allow Indians to vote, with New Mexico only finally allowing it in 1962.[72]
+  
+ [edit] References 
+ 
+ ^ a b c d e Ex parte Crow Dog, 109 U.S. 556 (1883).
+^ Sidney L. Harring, Crow Dog's Case: American Indian Sovereignty, Tribal Law, and United States Law in the Nineteenth Century 3 (1994).
+^ Donovin Arleigh Sprague, Rosebud Sioux 7 (2005).
+^ a b c 2 Indian Affairs: Laws and Treaties 998-1007 (Charles J. Kappler, ed.,1904).
+^ Over 5,000 Terms and Expressions from Aarigaa! to Zopilote 263-264 (Wil Blevins, ed., 2002).
+^ a b c Edward Lazarus, Black Hills/White Justice: The Sioux Nation versus the United States, 1775 to the Present 71-95, 168-169 (1999).
+^ Peter F. Panzeri, Little Big Horn 1876: Custer's Last Stand 25 (1995).
+^ 1 Indian Affairs: Laws and Treaties 166 (Charles J. Kappler, ed., 1904).
+^ Harring, at 282.
+^ George Hyde &amp; Harry H. Anderson, Spotted Tail's Folk: a History of the Brulé Sioux 83 (2d ed. 1976).
+^ a b c Charles Alexander Eastman, Indian Heroes and Great Chieftains 40 (1919).
+^ Michael A. Powell, Crow Dog and the Issue of Tribal Jurisdiction, Law in the Western United States 283 (Gordon Morris Bakken, ed., 2000).
+^ Hyde, at 293.
+^ Powell, at 283.
+^ Jeffrey Ostler, The Plains Sioux and U.S. Colonialism from Lewis and Clark to Wounded Knee 198-199 (2004).
+^ a b c d Gaylen L. Box, Crow Dog: Tribal Sovereignty &amp; Criminal Jurisdiction In Indian Country 50-May Advocate (Idaho) 13 (2007).
+^ Harring, at 108-109.
+^ Ostler, at 201.
+^ Hyde, at 313-314.
+^ Hyde, at 331.
+^ Hyde, at 334.
+^ a b c d e George Washington Kingsbury &amp; George Martin Smith, 2 History of the Dakota Territory 1192–1196 (1915).
+^ George E. Hyde, A Sioux Chronicle 46-66 (1993).
+^ a b c d e f g Laurence French, Native American Justice 133-137 (2003).
+^ Vine Deloria, Jr. &amp; Clifford M. Lytle, The Nations Within: The Past and Future of American Indian Sovereignty 4 (1998).
+^ Harring, at 110.
+^ Deloria, at 4.
+^ Harring, at 110-111.
+^ Now codified at 18 U.S.C. § 1152.
+^ Harring, at 113-115.
+^ Harring, at 125-128.
+^ Harring, at 121.
+^ Richard Irving Dodge, The Plains of the Great West and their Inhabitants: Being a Description of the Plains, Game, Indians, &amp;c., of the Great North American Desert 271 (1877).
+^ Harring, at 122.
+^ Harring, at 125.
+^ Powell, at 283-284
+^ United States v. Crow Dog, 14 N.W. 437 (Dak. 1882).
+^ Vine Deloria, Jr. &amp; Clifford M. Lytle, American Indians, American Justice 168-170 (1983).
+^ Powell, at 284.
+^ a b Act of Mar. 3, 1875, ch. 145 18 Stat. 1038.
+^ a b Act of Mar. 27, 1854, ch. 26 18 Stat. 374.
+^ a b c Act of Feb. 18, 1875, ch. 80 18 Stat. 374.
+^ a b c Robert N. Clinton, There Is No Federal Supremacy Clause For Indian Tribes 34 Ariz. St. L.J. 113 (2002).
+^ Deloria, at 26.
+^ a b Kevin K. Washburn, Federal Criminal Law and Tribal Self-Determination 84 N.C.L. Rev. 779 (2006).
+^ Harring, at 129.
+^ Susan M. McGoldrick, Jurisdiction to Sentence and Convict for Lesser Included Offenses under the Major Crimes Act: A Critical Assessment of the Keeble Legacy 12 Am. Indian L. Rev. 219 (1984).
+^ Deloria, at 4, 29.
+^ Powell, at 286.
+^ 18 U.S.C. §§ 1151–1153
+^ The Oxford guide to United States Supreme Court decisions 66 (Kermit L. Hall, ed., 2001).
+^ Harring, at 115-116, 134-135.
+^ a b Tribal Criminal Law and Procedure 40-50 (Carrie E. Garrow &amp; Sarah Deer, eds., 2004).
+^ Harring, at 134.
+^ a b c Harring, at 133.
+^ Harring, at 136-140.
+^ a b Robert D. Probasco, Indian Tribes, Civil Rights, and Federal Courts 7 Tex. Wesleyan L. Rev. 119 (2001).
+^ Larry EchoHawk, Review: Justice for Native Americans Requires Returning to Our Constitutional Origins Vine Deloria, Jr. &amp; David E. Wilkins Tribes, Treaties, and Constitutional Tribulations, 4 Green Bag 2d 101 (2000).
+^ Harring, at 219.
+^ Cherokee Nation v. Georgia, 30 U.S. (5 Pet.) 1 (1831).
+^ a b c Anthony G. Gulig &amp; Sidney L. Harring, An Indian cannot get a morsel of pork...": A retrospective on Crow Dog, Lone Wolf, Blackbird, Tribal Sovereignty, Indian Land and writing Indian history 38 Tulsa L. Rev. 87 (2002).
+^ Indian Citizenship Act of 1924, Act of Jun. 2, 1924, ch. 233 43 Stat. 253.
+^ United States v. Lara, 541 U.S. 193 (2004).
+^ Philip P. Frickey, Congressional Intent, Practical Reasoning, And The Dynamic Nature Of Federal Indian Law 78 Cal. L. Rev. 1137 (1990).
+^ Indian Reorganization Act of 1934, Jun. 18, 1934, ch. 576 48 Stat. 984.
+^ Indian Civil Rights Act of 1968, Apr. 11, 1968, 82 Stat. 77.
+^ Tribal Law and Order Act of 2010, Jul. 29, 2010, 124 Stat. 2258.
+^ Matthew Handler, Tribal Law And Disorder: A Look at a System of Broken Justice in Indian Country and the Steps Needed to Fix It 75 Brook. L. Rev. 261 (2009).
+^ United States v. Kagama, 118 U.S. 375 (1886).
+^ Lone Wolf v. Hitchcock, 187 U.S. 553 (1903).
+^ W. Dale Mason, Indian Gaming: Tribal Sovereignty and American Politics 29 (2000).
+^ Tribal Sovereignty: Voting Rights &amp; Politics, Indian Country Diaries, KERA-PBS (Aug. 29, 2012), http://www.pbs.org/indiancountry/challenges/voting.html.
+^ Jack Blair, Demanding a Voice in Our Own Best Interest: A Call for a Delegate of the Cherokee Nation to the United States House of Representatives 20 Am. Indian L. Rev. 225 (1996).
+  
+ [edit] See also 
+ Criminal law in the Waite Court 
+ [edit] External links 
+ Ex parte Crow Dog, 109 U.S. 556 (1883), full text on Findlaw.com
+ 
+  

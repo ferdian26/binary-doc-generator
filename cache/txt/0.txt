@@ -1,0 +1,69 @@
+  
+ Wikipedians are people who write and edit the pages for Wikipedia, unlike readers who simply read the articles. Anyone can be a Wikipedian—including you. Just click the edit link at the top of any page, or at the beginning of each section. Visit the editing tutorial to learn more. You can browse or search the full user list, or request a random Wikipedian's user page. 
+ [edit] Number of editors 
+Gender
+According to the worldwide Wikipedia Editor Survey 2011 of all the Wikipedias, 91% of editors are male. However, the number of women editors is on the rise.
+Editing language
+Predictably, most of the editors primarily edit (76%) and read (49%) the English Wikipedia, followed by the German Wikipedia as 20% and 12%, and Spanish Wikipedia as 12% and 6% respectively. More than half (51%) the editors contribute in two or more languages.
+Age distribution
+59% of the editors are aged 17 to 40, more specifically, 14% of the editors are in the group 18–21, 13% are 22–29, and 19% are 30–39. 28% editors are aged 40+, whereas 13% are aged 17 and under.
+Editing activities
+66% of editors said that their primary activity is to edit existing articles, 42% said it was researching articles and 28% creating new articles. 23% said that they do mostly patrolling work, 22% participate primarily in discussions and 17% mainly upload media.
+Why contribute?
+71% of the editors contribute because they like the idea of volunteering to share knowledge. 69% believe that information should be freely available, and 63% pointed that contributing is fun. 7% edit Wikipedia for professional reasons.
+ The number of named accounts is currently 18,401,074.[1] Only a minority of account holders are regular contributors, and only a minority of those users interact in discussions about the community. An unknown but relatively large number of unregistered Wikipedians also contribute to the site. 
+ [edit] User status 
+ Based on user rights, there are the following user groups[2]: [Purge] 
+ Administrators: 1,451
+Account creators: 158
+Autopatrollers: 2,868
+Bots: 732
+Bureaucrats: 35
+Checkusers: 40
+Confirmed users: 288
+Edit filter managers: 161
+File movers: 333
+Founders: 1
+Importers: 1
+IP block exemptions: 412
+Oversighters: 38
+Researchers: 8
+Reviewers: 5,753
+Rollbackers: 4,780
+Stewards: 0
+Transwiki importers: 0
+  It should be noted that some user groups (such as stewards) act globally and thus they do not get local flags and local rights. 
+ [edit] Editing patterns 
+ The highest number of unique users making at least one edit during any given month was in March 2007.[3] Since then, the number of active users declined and has now largely plateaued. For example, in December 2010, 34,048 users made more than five edits during the month and 3,478 made more than 100 edits during the month; in December 2011, 33,948 users made more than five edits during the month and 3,489 made more than 100 edits during the month.[4] 
+ There is a definite seasonal pattern to editor activity, with more editors active during the North American school year than during its summer break. 
+ About 250,000 new accounts are created every month. About 300,000 editors have edited Wikipedia more than 10 times. 134,269 have performed an edit within the last 30 days.[5] 
+ The Wikipedians with the 5,000 highest edit counts are listed here. 
+ [edit] Demographics 
+ Based on a survey of over 58,000 self-selected Wikipedians by a group at UNU-Merit published in March 2010, contributors can be split into four approximately equal age-groups: those under 18, those between 18 and 22, those from 22 to 30 and the remainder between 30 and 85.[6] About 23% of contributors have completed degree-level education, 26% are undergraduates and 45% have secondary education or less. 87% are men and 13% women. The survey included users of 22 language editions in 231 countries.[6] 
+ Various information about individual Wikipedians is available on the user pages of Wikipedians who choose to create them. 
+ [edit] Personality 
+ Researchers around the world have begun to identify key personality traits in Wikipedians. According to a study published in 2008, Wikipedia members are more likely than non-members to locate their 'real me' online—that is, to feel more comfortable expressing their "real" selves online than off.[7] This corresponds with more general findings that Internet communities tend to attract users who are introverted offline but more able to open up and feel empowered on the Web.[8][9] A gender difference was found in terms of extroversion: whereas female Wikipedia members were on average more introverted than female non-members, male members were just as extroverted as males in the control group. Wikipedians have also been found to be less agreeable, and less open, as defined by psychology’s Big Five personality traits.[7] 
+ [edit] Motivations for contributing 
+ A 2010 study found that although members may initially contribute to the site for pleasure, they are motivated primarily by an internal drive to feel efficacious and self-confident. Aside from potentially fueling a first-time contribution, enjoyment was found to have no significant impact on knowledge-sharing behavior in Wikipedia. It was found that Wikipedians are not primarily motivated by recognition or reputation.[10] 
+ [edit] Nomenclature 
+ It has been suggested that Wikipedist would be a more appropriate name, as an encyclopedist is someone who contributes to an encyclopedia. "Wikipedian", though, suggests being part of a group, community or demonym. So in this sense, Wikipedians are people who form The Wikipedia Community. The term "Wikimedian" is also widely used to include contributors to all the projects of the Wikimedia Foundation. 
+ [edit] Contribution styles 
+ Some Wikipedians welcome newcomers; some Wikipedians award those who they feel deserve awards. Some upload images or help others do so; some work on history articles; some clean up grammar; and still others work on reverting vandalism. Many take on all of these tasks. Whatever one decides to do, every Wikipedian is a valuable member of the community. 
+ Wikipedians who contribute mainly by writing and editing the contents of Wikipedia, without interacting much on Talk or administrative pages, are sometimes called exopedians, whereas those who spend significant time on such community interactions are contrasted as metapedians. A multitude of views and other contribution characteristics are represented well by common Wikipedia-related userboxes: Wikipedia:Userboxes/Wikipedia. 
+ [edit] See also 
+ Meta-Wiki
+ Categorisation
+ Other
+ [edit] References 
+ ^ This number is dynamicaly updated with the magic word NUMBEROFUSERS
+^ These numbers are dynamicaly updated with the magic word NUMBERINGROUP:groupname
+^ Ragesoss, Editing frequency statistics show decline in participation. Wikipedia:Signpost, January 3 2009
+^ Edit activity levels of registered users and bots per group of namespaces
+^ This number is dynamicaly updated with the magic word NUMBEROFACTIVEUSERS
+^ a b Collaborative Creativity Group, http://www.wikipediastudy.org/, retrieved 2011-03-22
+^ a b Amichai-Hamburger, Y. et al. "Personality Characteristics of Wikipedia Members", CyberPsychology &amp; Behavior, Vol. 11, No. 6 (2008).
+^ Amichai-Hamburger, Y., Wainapel G., Fox S. “On the Internet no one knows I’m an introvert: extroversion, neuroticism and Internet interaction.” CyberPsychology &amp; Behavior (2002).
+^ Amichai-Hamburger, Y., McKenna, K., Tal, S. “E-empowerment: Empowerment by the Internet.” Computers in Human Behavior, Vol. 24 (2008).
+^ Yang, H. and Lai, C. “Motivations of Wikipedia content contributors.” Computers in Human Behavior, Vol. 26 (2010).
+ [edit] External links 
+  

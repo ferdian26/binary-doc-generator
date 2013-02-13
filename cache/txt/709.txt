@@ -1,0 +1,164 @@
+  
+OpenBSD
+"Free, Functional &amp; Secure"
+Company / developer
+The OpenBSD Project
+OS family
+BSD
+Working state
+Current
+Source model
+Open source
+Initial release
+1 October 1996
+Latest stable release
+5.2 [edit]  (November 1, 2012; 3 months ago (2012-11-01)) [±]
+Latest unstable release
+5.2.1-current  (ongoing) [±]
+Package manager
+OpenBSD package tools and ports tree
+Supported platforms
+68000, Alpha, AMD64, i386, MIPS, PowerPC, SPARC 32/64, VAX, Zaurus and others[1]
+Kernel type
+Monolithic
+Userland
+BSD
+Default user interface
+Modified pdksh, FVWM 2.2.5 for X11
+License
+BSD, ISC
+Official website
+http://www.openbsd.org
+ OpenBSD is a Unix computer operating system descended from Berkeley Software Distribution (BSD), a Unix derivative developed at the University of California, Berkeley. It was forked from NetBSD by project leader Theo de Raadt in late 1995. As well as the operating system, the OpenBSD Project has produced portable versions of numerous subsystems, most notably PF, OpenSSH and OpenNTPD, which are very widely available as packages in other operating systems. 
+ The project is also widely known for the developers' insistence on open-source code and quality documentation, uncompromising position on software licensing, and focus on security and code correctness. The project is coordinated from de Raadt's home in Calgary, Alberta, Canada. Its logo and mascot is a pufferfish named Puffy. 
+ OpenBSD includes a number of security features absent or optional in other operating systems, and has a tradition in which developers audit the source code for software bugs and security problems. The project maintains strict policies on licensing and prefers the open-source BSD licence and its variants—in the past this has led to a comprehensive license audit and moves to remove or replace code under licences found less acceptable. 
+ As with most other BSD-based operating systems, the OpenBSD kernel and userland programs, such as the shell and common tools like cat and ps, are developed together in one source code repository. Third-party software is available as binary packages or may be built from source using the ports tree. Also like most modern BSD operating systems, it is capable of running binary code compiled for Linux in a compatible computer architecture at full speed in compatibility mode. 
+ The OpenBSD project maintains ports for 17 different hardware platforms, including the DEC Alpha, Intel i386, Hewlett-Packard PA-RISC, AMD AMD64 and Motorola 68000 processors, Apple's PowerPC machines, Sun SPARC and SPARC64-based computers, the VAX and the Sharp Zaurus.[1] 
+ [edit] Security 
+ OpenBSD's security enhancements, built-in cryptography and the pf packet filter suit it for use in the security industry, for example on firewalls,[2]intrusion-detection systems and VPN gateways. 
+ Proprietary systems from several manufacturers are based on OpenBSD, including devices from Armorlogic (Profense web application firewall), Calyptix Security, GeNUA mbH, RTMX Inc,[3] and .vantronix GmbH.[4] Later versions of Microsoft's Services for UNIX, an extension to the Windows operating system which provides some Unix-like functionality, use much OpenBSD code included in the Interix interoperability suite, developed by Softway Systems Inc., which Microsoft acquired in 1999.[5][6] Core Force, a security product for Windows, is based on OpenBSD's pf firewall.[7] 
+ [edit] Desktop 
+ OpenBSD ships with the X window system[8] and is suitable for use on the desktop.[9] Packages for popular desktop tools are available, including desktop environments GNOME, KDE, and Xfce; web browsers Konqueror, Mozilla Firefox and Chromium; and multimedia programs MPlayer, VLC media player and xine.[10] The Project also supports minimalist window management philosophies by including the cwm stacking window manager in the main distribution. 
+ [edit] Enterprise 
+ Open source software consultancy "M:tier" has deployed OpenBSD on servers, desktops and firewalls in corporate environments of many large Fortune 500 companies. [11] "M:tier" also sponsored the porting of open source groupware suite Zarafa to OpenBSD as an alternative to Microsoft Exchange.[12] 
+ [edit] Server 
+ OpenBSD features a full server suite and is easily configured as a mail server, web server, ftp server, DNS server, router, firewall, or NFS file server. Software providing support for other server protocols such as SMB (Samba) is available as packages. 
+ [edit] OpenBSD component projects 
+ Despite the small team size and relatively low usage of OpenBSD, the project has successfully spun off widely available portable versions of numerous parts of the base system, including: 
+ OpenBGPD and OpenOSPFD, which turn personal computers into network routers
+OpenNTPD, a simple alternative to ntp.org's Network Time Protocol (NTP) daemon
+Common Address Redundancy Protocol (CARP), a free alternative to CISCO's patented HSRP/VRRP server redundancy protocols
+OpenSMTPD, an implementation of the Simple Mail Transfer Protocol, currently still considered work in progress
+OpenSSH, a highly regarded implementation of the Secure Shell (ssh) protocol
+PF, a stateful firewall
+spamd, a spam filter designed to collaborate with the PF firewall, which has a greylisting capability
+tmux, a free, secure and maintainable alternative to the GNU Screen terminal multiplexer
+sndio, compact audio and MIDI framework
+  Some of the subsystems have been integrated into the core system of several other BSD projects, and all are available widely as packages for use in other Unix-like systems, and in some cases in Microsoft Windows. 
+ [edit] Development and release process 
+ Development is continuous, and team management is open and tiered. Anyone with appropriate skills may contribute, with commit rights being awarded on merit and de Raadt acting as coordinator.[13] Two official releases are made per year, with the version number incremented by 0.1, [14] and these are each supported for twelve months. Snapshot releases are also available at very frequent intervals. Maintenance patches for supported releases may be applied manually or by regularly updating the system against the patch branch of the CVS repository for that release. 
+ Alternatively a system administrator may opt to upgrade using a snapshot release and then regularly update the system against the "current" branch of the CVS repository, in order to gain pre-release access to recently added features. 
+ The standard GENERIC OpenBSD kernel, as maintained by the project, is strongly recommended for universal use, and customized kernels are not supported by the project, in line with the philosophy that 'attempts to customize or "optimize" the kernel causes more problems than they solve.' 
+ Packages outside the main system build are maintained by CVS through a ports tree and are the responsibility of the individual maintainers (known as porters). As well as keeping the current branch up to date, the porter of a package is expected to apply appropriate bug-fixes and maintenance fixes to branches of the package for supported releases. Ports are not subject to the same continuous rigorous auditing as the main system because the project lacks the manpower to do this. 
+ Binary packages are built centrally from the ports tree for each architecture. This process is applied for the current version, for each supported release, and for each snapshot. Administrators are recommended to use the package mechanism rather than build the package from the ports tree, unless they need to perform their own source changes. 
+ [edit] History and popularity 
+ In December 1994, NetBSD co-founder Theo de Raadt was asked to resign from his position as a senior developer and member of the NetBSD core team.[16] The reason for this is not wholly clear, although there are claims that it was due to personality clashes within the NetBSD project and on its mailing lists.[16] 
+ In October 1995, de Raadt founded OpenBSD, a new project forked from NetBSD 1.0. The initial release, OpenBSD 1.2, was made in July 1996, followed in October of the same year by OpenBSD 2.0.[17] Since then, the project has followed a schedule of a release every six months, each of which is maintained and supported for one year. The latest release, OpenBSD 5.2, appeared on November 1, 2012. 
+ On 25 July 2007, OpenBSD developer Bob Beck announced the formation of the OpenBSD Foundation,[18] a Canadian not-for-profit corporation formed to "act as a single point of contact for persons and organizations requiring a legal entity to deal with when they wish to support OpenBSD."[19] 
+ Just how widely OpenBSD is used is hard to ascertain: its developers neither publish nor collect usage statistics, and there are few other sources of information. In September 2005, the nascent BSD Certification Group performed a usage survey which revealed that 32.8% of BSD users (1420 of 4330 respondents) were using OpenBSD,[15] placing it second of the four major BSD variants, behind FreeBSD with 77% and ahead of NetBSD with 16.3%.[20] 
+ [edit] Open source and open documentation 
+ When OpenBSD was created, Theo de Raadt decided that the source should be easily available for anyone to read at any time, so, with the assistance of Chuck Cranor,[21] he set up a public, anonymous CVS server. This was the first of its kind in the software development world: at the time, the tradition was for only a small team of developers to have access to a project's source repository.[22] Cranor and de Raadt concluded that this practice "runs counter to the open source philosophy" and is inconvenient to contributors. De Raadt's decision allowed "users to take a more active role", and signaled the project's belief in open and public access to source code.[22] 
+ OpenBSD developers do not permit the inclusion of closed source binary drivers in the source tree and are reluctant to sign non-disclosure agreements. When no documentation was forthcoming before the deadline for the release of OpenBSD 3.7, support for Adaptec AAC RAID controllers was removed from the standard OpenBSD kernel because of issues concerning open documentation.[23] 
+ The OpenBSD policy on openness extends to hardware documentation: in the slides for a December 2006 presentation, de Raadt explained that without it "developers often make mistakes writing drivers", and pointed out that "the [oh my god, I got it to work] rush is harder to achieve, and some developers just give up".[24] He went on to say that vendor binary drivers are unacceptable to OpenBSD, that they have "no trust of vendor binaries running in our kernel" and that there is "no way to fix [them] ... when they break".[24] 
+ [edit] Licensing 
+ A goal of the OpenBSD project is to "maintain the spirit of the original Berkeley Unix copyrights", which permitted a "relatively un-encumbered Unix source distribution".[25] To this end, the Internet Systems Consortium (ISC) licence, a simplified version of the BSD licence with wording removed that is unnecessary under the Berne convention, is preferred for new code, but the MIT or BSD licences are accepted. The widely used GNU General Public License is considered overly restrictive in comparison with these.[26] 
+ In June 2001, triggered by concerns over Darren Reed's modification of IPFilter's licence wording, a systematic licence audit of the OpenBSD ports and source trees was undertaken.[27] Code in more than a hundred files throughout the system was found to be unlicensed, ambiguously licensed or in use against the terms of the licence. To ensure that all licences were properly adhered to, an attempt was made to contact all the relevant copyright holders: some pieces of code were removed, many were replaced, and others, including the multicast routing tools, mrinfo[28] and map-mbone,[29] which were licensed by Xerox for research only, were relicensed so that OpenBSD could continue to use them; also removed during this audit was all software produced by Daniel J. Bernstein. At the time, Bernstein requested that all modified versions of his code be approved by him prior to redistribution, a requirement to which OpenBSD developers were unwilling to devote time or effort.[30] The removal led to a clash with Bernstein who felt the removal of his software to be uncalled for. He cited the Netscape web browser as much less freely licensed and accused the OpenBSD developers of hypocrisy for permitting Netscape to remain while removing his software.[31] The OpenBSD project's stance was that Netscape, although not open source, had licence conditions that could be more easily met.[32] They asserted that Bernstein's demand for control of derivatives would lead to a great deal of additional work and that removal was the most appropriate way to comply with his requirements.[32] 
+ The OpenBSD team has developed software from scratch, or adopted suitable existing software, because of licence concerns. Of particular note is the development, after licence restrictions were imposed on IPFilter, of the pf packet filter, which first appeared[33] in OpenBSD 3.0 and is now available in DragonFly BSD, NetBSD and FreeBSD. OpenBSD developers have also replaced GPL licensed tools (such as diff, grep and pkg-config) with BSD licensed equivalents and founded new projects including the OpenBGPD routing daemon and OpenNTPD time service daemon.[34] Also developed from scratch was the globally used software package OpenSSH. 
+ [edit] Funding 
+ Although the operating system and its portable components are widely used in commercial products, de Raadt says that little of the funding for the project comes from the industry: "traditionally all our funding has come from user donations and users buying our CDs (our other products don't really make us much money). Obviously, that has not been a lot of money."[14] 
+ For a two year period in the early 2000s, the project received DARPA funding, which "paid the salaries of 5 people to work completely fulltime, bought about $30k in hardware, and paid for 3 hackathons." [14] 
+ De Raadt has expressed some concern about the asymmetry of funding: "I think that contributions should have come first from the vendors, secondly from the corporate users, and thirdly from individual users. But the response has been almost entirely the opposite, with almost a 15 to 1 dollar ratio in favor of the little people. Thanks a lot, little people!" [14] 
+ [edit] Security and code auditing 
+ Shortly after OpenBSD's creation, Theo de Raadt was contacted by a local security software company named Secure Networks, Inc. or SNI.[35][36] They were developing a "network security auditing tool" called Ballista (later renamed to Cybercop Scanner after SNI was purchased by Network Associates), which was intended to find and attempt to exploit possible software security flaws. This coincided well with de Raadt's own interest in security, so for a time the two cooperated, a relationship that was of particular usefulness leading up to the release of OpenBSD 2.3[37] and helped to define security as the focal point of the project.[38] 
+ OpenBSD includes features designed to improve security. These include API additions, such as the strlcat and strlcpy[39]functions; toolchain alterations, including a static bounds checker; memory protection techniques to guard against invalid accesses, such as ProPolice and the W^X (W xor X) page protection feature; and cryptography and randomization features.[40] 
+ To reduce the risk of a vulnerability or misconfiguration allowing privilege escalation, some programs have been written or adapted to make use of privilege separation, privilege revocation and chrooting. Privilege separation is a technique, pioneered on OpenBSD and inspired by the principle of least privilege, where a program is split into two or more parts, one of which performs privileged operations and the other—almost always the bulk of the code—runs without privilege.[41] Privilege revocation is similar and involves a program performing any necessary operations with the privileges it starts with then dropping them. Chrooting involves restricting an application to one section of the file system, prohibiting it from accessing areas that contain private or system files. Developers have applied these features to OpenBSD versions of common applications, including tcpdump and the Apache web server.[42] 
+ OpenBSD developers were instrumental in the birth of—and the project continues to develop—OpenSSH, a secure replacement for Telnet. OpenSSH is based on the original SSH suite and developed further by the OpenBSD team.[43] It first appeared in OpenBSD 2.6 and is now the most popular SSH implementation, available on many operating systems.[44] 
+ The project has a policy of continually auditing code for problems, work that developer Marc Espie has described as "never finished ... more a question of process than of a specific bug being hunted".[45] He went on to list several typical steps once a bug is found, including examining the entire source tree for the same and similar issues, "try[ing] to find out whether the documentation ought to be amended", and investigating whether "it's possible to augment the compiler to warn against this specific problem". 
+ [edit] Alleged FBI backdoor investigated 
+ On 11 December 2010, Gregory Perry sent an email to Theo de Raadt alleging that the FBI had paid some OpenBSD ex-developers 10 years previously to insert backdoors into the OpenBSD Cryptographic Framework. Theo de Raadt made the email public on 14 December by forwarding it to the openbsd-tech mailing list and suggested an audit of the IPsec codebase.[46][47] De Raadt's response was skeptical of the report and he invited all developers to independently review the relevant code. In the weeks that followed, bugs were fixed but no evidence of backdoors were found.[48] 
+ [edit] Slogan 
+ The OpenBSD website features a prominent reference to the security record of the default install. Until June 2002, the wording read "Five years without a remote hole in the default install!" An OpenSSH bug was then discovered that made it possible for a remote attacker to gain root in OpenBSD and in any of the many other systems running OpenSSH at the time. It was quickly fixed, as is normal with known security holes. [49][50] The slogan was modified to "One remote hole in the default install, in nearly 6 years!" In 2007 a network-related remote vulnerability was found, which was also quickly fixed. [51] The quote was subsequently altered to "Only two remote holes in the default install, in a heck of a long time!" As of December, 2012 this wording remains. 
+ This statement has been criticized because the default install contains few running services, and most users will start more services and install additional software.[52] The project states that the default install is intentionally minimal to ensure novice users "do not need to become security experts overnight",[53] which fits with open-source and code auditing practices argued to be important elements of a security system.[54] 
+ [edit] Distribution and marketing 
+ OpenBSD is available freely in various ways: the source can be retrieved by anonymous CVS,[55] and binary releases and development snapshots can be downloaded either by FTP or HTTP.[56] Prepackaged CD-ROM sets can be ordered online for a small fee, complete with an assortment of stickers and a copy of the release's theme song. These, with their artwork and other bonuses, are one of the project's few sources of income, funding hardware, bandwidth and other expenses.[57] 
+ In common with other operating systems, OpenBSD provides a package management system for easy installation and management of programs which are not part of the base operating system.[58] Packages are binary files which are extracted, managed and removed using the package tools. On OpenBSD, the source of packages is the ports system, a collection of Makefiles and other infrastructure required to create packages. In OpenBSD, the ports and base operating system are developed and released together for each version: this means that the ports or packages released with, for example, 4.6 are not suitable for use with 4.5 and vice versa.[58] 
+ OpenBSD at first used the BSD daemon mascot created by Phil Foglio, updated by John Lasseter and copyright Marshall Kirk McKusick. Subsequent releases saw variations, eventually settling on Puffy,[59] described as a pufferfish.[60] Since then Puffy has appeared on OpenBSD promotional material and featured in release songs and artwork. The promotional material of early OpenBSD releases did not have a cohesive theme or design but later the CD-ROMs, release songs, posters and tee-shirts for each release have been produced with a single style and theme, sometimes contributed to by Ty Semaka of the Plaid Tongued Devils.[61] These have become a part of OpenBSD advocacy, with each release expanding a moral or political point important to the project, often through parody.[62] Past themes have included: in OpenBSD 3.8, the Hackers of the Lost RAID, a parody of Indiana Jones linked to the new RAID tools featured as part of the release; The Wizard of OS, making its debut in OpenBSD 3.7, based on the work of Pink Floyd and a parody of The Wizard of Oz related to the project's recent wireless work; and OpenBSD 3.3's Puff the Barbarian, including an 80s rock-style song and parody of Conan the Barbarian, alluding to open documentation.[61] 
+ [edit] Bibliography 
+ [edit] See also 
+ [edit] References 
+ 
+ ^ a b "Platforms", OpenBSD, http://www.openbsd.org/plat.html, retrieved 2011-12-13
+^ McIntire, Tim (2006-08-08), "Take a closer look at OpenBSD", Developerworks (IBM), http://www.ibm.com/developerworks/aix/library/au-openbsd.html, retrieved 2011-12-13, "Because OpenBSD is both thin and secure, one of the most common OpenBSD implementation purposes is as a firewall."
+^ "RTMX O/S IEEE Real Time POSIX Operating Systems", RTMX Inc., http://www.rtmx.com/, retrieved 2011-12-13, "RTMX O/S is a product extension to OpenBSD Unix-like operating system with emphasis on embedded, dedicated applications."
+^ ".vantronix secure system", Compumatica secure networks GmbH, http://www.vantronix.com/, retrieved 2011-12-13, "The Next Generation Firewall is not a standalone device, it is a Router for operation in security critical environments with high requirements for availability, comprehensive support as well as reliable and trusted systems powered by OpenBSD."
+^ "Microsoft Acquires Softway Systems To Strengthen Future Customer Interoperability Solutions", Microsoft News Center (Microsoft), 1999-09-17, http://www.microsoft.com/en-us/news/press/1999/sept99/softwaypr.aspx
+^ Dohnert, Roberto J. (2004-01-21), "Review of Windows Services for UNIX 3.5", OSNews (David Adams), http://www.osnews.com/story/5751
+^ "Core Force", Core Labs, http://corelabs.coresecurity.com/index.php?module=Wiki&amp;action=view&amp;type=project&amp;name=Core_Force, retrieved 2011-12-13, "CORE FORCE provides inbound and outbound stateful packet filtering for TCP/IP protocols using a Windows port of OpenBSD's PF firewall, granular file system and registry access control and programs' integrity validation."
+^ "About Xenocara", Xenocara, http://xenocara.org/, retrieved 2011-12-13
+^ Tzanidakis, Manolis (2006-04-21), Using OpenBSD on the desktop, Linux.com, http://archive09.linux.com/articles/52930, retrieved 2012-03-09
+^ "The OpenBSD 4.9 Release", OpenBSD, http://www.openbsd.org/49.html, retrieved 2011-12-13, "Over 6,800 ports...Gnome 2.32.1, KDE 3.5.10."
+^ Jacoutot, Antoine (20110420), "A Puffy in the corporate aquarium", OpenBSD Journal (Daniel Hartmeier), http://undeadly.org/cgi?action=article&amp;sid=20110420080633
+^ m:tier Sponsor Zarafa port to OpenBSD, http://www.mtier.org/mtier_sponsor_opencon/openbsd_zarafa_port/
+^ Lucas, Michael W. Absolute OpenBSD, Unix for the Practical Paranoid (1st ed.) No Starch Press ISBN 1-886411-99-9 http://eduunix.ccut.edu.cn/index2/html/unix/Absolute.OpenBSD.UNIX.For.The.Practical.Paranoid.eBook-LiB/8014final/toc.html. Retrieved 2012-06-15
+^ a b c d Andrews, Jeremy (20060502), "Interview: Theo de Raadt", KernelTrap (Jeremy Andrews), http://kerneltrap.org/node/6550
+^ a b (PDF) 2005 BSD Usage Survey Report, The BSD Certification Group, 2005-10-31, http://www.bsdcertification.org/downloads/pr-20051031-usage-survey-en-en.pdf, retrieved 2012-09-16
+^ a b Glass, Adam (1994-12-23). "Theo De Raadt". netbsd-users mailing list. http://mail-index.netbsd.org/netbsd-users/1994/12/23/0000.html.
+^ de Raadt, Theo (1996-10-18). "The OpenBSD 2.0 release". openbsd-announce mailing list. http://www.monkey.org/openbsd/archive2/announce/199610/msg00001.html.
+^ "The OpenBSD Foundation", OpenBSD Foundation, http://www.openbsdfoundation.org, retrieved 2011-12-13
+^ Beck, Bob (2007-07-25). "Announcing: The OpenBSD Foundation". openbsd-misc mailing list. http://www.nabble.com/Announcing%3A-The-OpenBSD-Foundation-p11801927.html.
+^ Multiple selections were permitted as a user may use multiple BSD variants side by side.
+^ Cranor, Chuck D., Chuck Cranor's Home Page, http://chuck.cranor.org/, retrieved 2011-12-13, "I also hosted and helped create the first Anonymous CVS server on the Internet (the original anoncvs.openbsd.org, which was also known as eap.ccrc.wustl.edu)."
+^ a b de Raadt, Theo (1999-06-11), Opening the Source Repository with Anonymous CVS, USENIX, http://www.usenix.org/event/usenix99/full_papers/cranor_f/cranor_f.pdf, retrieved 2011-12-13
+^ de Raadt, Theo (2010-04-07), "Revision 1.406", OpenBSD CVS repository, http://www.openbsd.org/cgi-bin/cvsweb/src/sys/arch/i386/conf/GENERIC?rev=1.406
+^ a b de Raadt, Theo (2006-12-05), Presentation at OpenCON, http://www.openbsd.org/papers/opencon06-docs/index.html, retrieved 2011-12-13
+^ "Copyright Policy", OpenBSD, http://www.openbsd.org/policy.html, retrieved 2011-12-13
+^ Matzan, Jem (2005-06-15), "BSD cognoscenti on Linux", NewsForge (Linux.com), archived from the original on 2008-02-07, http://web.archive.org/web/20080207203248/http://www.linux.com/articles/45572
+^ Gasperson, Tina (2001-06-06), "OpenBSD and ipfilter still fighting over license disagreement", Linux.com, archived from the original on 2008-06-26, http://web.archive.org/web/20080626101129/http://www.linux.com/feature/12774
+^ "MRINFO(8)", OpenBSD Manual Pages, http://www.openbsd.org/cgi-bin/man.cgi?query=mrinfo, retrieved 2011-12-13
+^ "MAP-MBONE(8)", OpenBSD Manual Pages, http://www.openbsd.org/cgi-bin/man.cgi?query=map-mbone, retrieved 2011-12-13
+^ de Raadt, Theo (2001-08-24). "Re: Why were all DJB's ports removed? No more qmail?". openbsd-misc mailing list. http://archives.neohapsis.com/archives/openbsd/2001-08/2544.html.
+^ Bernstein, DJ (2001-08-27). "Re: Why were all DJB's ports removed? No more qmail?". openbsd-misc mailing list. http://archives.neohapsis.com/archives/openbsd/2001-08/2812.html.
+^ a b Espie, Marc (2001-08-28). "Re: Why were all DJB's ports removed? No more qmail?". openbsd-misc mailing list. http://archives.neohapsis.com/archives/openbsd/2001-08/2864.html.
+^ Hartmeier, Daniel, "Design and Performance of the OpenBSD Stateful Packet Filter (pf)", Systor AG, http://www.benzedrine.cx/pf-paper.html, retrieved 2011-12-13
+^ OpenBSD CVS logs showing import of diff, grep and pkg-config. OpenBGPD and OpenNTPD man pages from OpenBSD.
+^ Varghese, Sam (2004-10-08), "Staying on the cutting edge", The Age, http://www.theage.com.au/articles/2004/10/07/1097089476287.html, retrieved 2011-12-13
+^ Laird, Cameron; Staplin, George Peter (2003-07-17), "The Essence of OpenBSD", ONLamp, http://www.onlamp.com/pub/a/bsd/2003/07/17/openbsd_core_team.html, retrieved 2011-12-13
+^ de Raadt, Theo (2005-12-19). "2.3 release announcement". openbsd-misc mailing list. http://www.monkey.org/openbsd/archive/misc/9805/msg00308.html. "Without [SNI's] support at the right time, this release probably would not have happened"
+^ Wayner, Peter (2000-07-13), "18.3 Flames, Fights, and the Birth of OpenBSD", Free For All: How Linux and the Free Software Movement Undercut the High Tech Titans (1st ed.), HarperBusiness, ISBN 978-0-06-662050-3, http://www.jus.uio.no/sisu/free_for_all.peter_wayner/18.html#987, retrieved 2011-12-13
+^ Todd C., Miller; de Raadt, Theo (1999-06–06), "strlcpy and strlcat – consistent, safe, string copy and concatenation", Proceedings of the 1999 USENIX Annual Technical Conference (USENIX): pp. 175–178, http://www.usenix.org/events/usenix99/millert.html, retrieved 2011-12-13
+^ de Raadt, Theo; Hallqvist, Niklas; Grabowski, Artur; Keromytis, Angelos D. &amp; Provos, Niels (PDF), Cryptography in OpenBSD: An overview, http://www.openbsd.org/papers/crypt-paper.pdf, retrieved 2011-12-13
+^ Provos, Niels (2003-08-09), Privilege Separated OpenSSH, http://www.citi.umich.edu/u/provos/ssh/privsep.html, retrieved 2011-12-13
+^ OpenBSD CVS logs showing addition of privilege separation to tcpdump and httpd man page describing the chroot mechanism.
+^ "Project History and Credits", OpenSSH, http://www.openssh.com/history.html, retrieved 2011-12-13
+^ "SSH usage profiling", OpenSSH, http://www.openssh.com/usage/, retrieved 2011-12-13
+^ Biancuzzi, Federico (2004-03-18), "An Interview with OpenBSD's Marc Espie", ONLamp, http://www.onlamp.com/pub/a/bsd/2004/03/18/marc_espie.html, retrieved 2011-12-13
+^ de Raadt, Theo (2010-12-14). "Allegations regarding OpenBSD IPSEC". openbsd-tech mailing list. http://marc.info/?l=openbsd-tech&amp;m=129236621626462&amp;w=2.
+^ Holwerda, Thom (2010-12-14), "FBI Added Secret Backdoors to OpenBSD IPSEC", OSNews, http://www.osnews.com/story/24136/_FBI_Added_Secret_Backdoors_to_OpenBSD_IPSEC_, retrieved 2011-12-13
+^ Ryan, Paul (2010-12-23), "OpenBSD code audit uncovers bugs, but no evidence of backdoor", Ars Technica (Condé Nast Digital), http://arstechnica.com/open-source/news/2010/12/openbsd-code-audit-uncovers-bugs-but-no-evidence-of-backdoor.ars, retrieved 2011-01-09
+^ "OpenSSH Remote Challenge Vulnerability", Internet Security Systems Security Advisory (Internet Security Systems), 2002-06-26, http://www.iss.net/threats/advise123.html, retrieved 2011-12-13
+^ OpenSSH "Challenge-Response" authentication buffer overflow, Internet Security Systems, http://xforce.iss.net/xforce/xfdb/9169, retrieved 2011-12-13
+^ "OpenBSD's IPv6 mbufs remote kernel buffer overflow", Core Security Technologies – CoreLabs Advisory (Core Security Technologies), 2007-03-13, http://www.coresecurity.com/content/open-bsd-advisorie, retrieved 2011-12-13
+^ Brindle, Joshua (2008-03-30), "Secure doesn't mean anything", Security Blog, http://securityblog.org/brindle/2008/03/30/secure-doesnt-mean-anything/, retrieved 2011-12-13
+^ "Security", OpenBSD, http://www.openbsd.org/security.html, retrieved 2011-12-13, "Secure by Default"
+^ Wheeler, David A. (2003-03-03), "2.4. Is Open Source Good for Security?", Secure Programming for Linux and Unix HOWTO, http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/open-source-security.html, retrieved 2011-12-13
+^ "Anonymous CVS", OpenBSD, http://www.openbsd.org/anoncvs.html, retrieved 2011-12-13
+^ "Getting the OpenBSD distribution", OpenBSD, http://www.openbsd.org/ftp.html, retrieved 2011-12-13
+^ "Ordering OpenBSD products", OpenBSD, http://www.openbsd.org/orders.html, retrieved 2011-12-13, "The proceeds from sale of these products is the primary funding of the OpenBSD project."
+^ a b "15 – The OpenBSD packages and ports system", OpenBSD FAQ, http://www.openbsd.org/faq/faq15.html, retrieved 2011-12-13
+^ "The OpenBSD 2.7 Release", OpenBSD FAQ, http://www.openbsd.org/27.html, retrieved 2011-12-13
+^ Although in fact pufferfish do not possess spikes and images of Puffy are closer to a similar species, the porcupinefish.
+^ a b "Release Songs", OpenBSD FAQ, http://www.openbsd.org/lyrics.html, retrieved 2011-12-13
+^ Matzan, Jem (2006-12-01), "OpenBSD 4.0 review", Software In Review, http://www.softwareinreview.com/bsd/openbsd_4.0_review.html, retrieved 2011-12-13, "Each OpenBSD release has a graphical theme and a song that goes with it. The theme reflects a major concern that the OpenBSD programmers are addressing or bringing to light."
+  
+ [edit] External links 
+  

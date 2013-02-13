@@ -1,0 +1,177 @@
+  
+ Coordinates: 14h 29m 42.9487s, −62° 40′ 46.141″ 
+Proxima Centauri
+Observation dataEpoch J2000.0      Equinox J2000.0 (ICRS)
+Constellation
+Centaurus
+Pronunciation
+/ˈprɒksɪmə sɛnˈtɔriː/[nb 1]
+Right ascension
+14h 29m 42.9487s[1]
+Declination
+−62° 40′ 46.141″[1]
+Apparent magnitude (V)
+11.05[1]
+Characteristics
+Spectral type
+M5.5 Ve[1]
+Apparent magnitude (J)
+5.35 ± 0.02[1]
+U−B color index
+1.43[1]
+B−V color index
+1.90[1]
+Variable type
+Flare star
+Astrometry
+Radial velocity (Rv)
+−21.7 ± 1.8[2] km/s
+Proper motion (μ)
+RA: −3775.40[1] mas/yrDec.: 769.33[1] mas/yr
+Parallax (π)
+768.7 ± 0.3[3]mas
+Distance
+4.243 ± 0.002 ly
+(1.3009 ± 0.0005 pc)
+Absolute magnitude (MV)
+15.49[4]
+Details
+Mass
+0.123 ± 0.006[5]M☉
+Radius
+0.141 ± 0.007[6]R☉
+Luminosity (bolometric)
+0.0017[7]L☉
+Surface gravity (log g)
+5.20 ± 0.23[5]
+Temperature
+3,042 ± 117[5]K
+Metallicity [Fe/H]
+0.21[8]dex
+Rotation
+83.5 days[9]
+Rotational velocity (v sin i)
+2.7 ± 0.3[10] km/s
+Age
+4.85[11]Gyr
+Other designations
+Alpha Centauri C, CCDM J14396-6050C, GCTP 3278.00, GJ 551, HIP 70890, LFT 1110, LHS 49, LPM 526, LTT 5721, NLTT 37460, V645 Centauri[1]
+Database references
+SIMBAD
+data
+ Proxima Centauri (Latin proxima, meaning "next to" or "nearest to")[12] is a red dwarf star about 4.24 light-years distant inside the G-cloud in the constellation of Centaurus.[13][14] It was discovered in 1915 by Robert Innes, the Director of the Union Observatory in South Africa, and is the nearest known star to the Sun,[11] although it is too faint to be seen with the naked eye. Its distance to the second- and third-nearest stars, which form the bright binary Alpha Centauri, is 0.237 ± 0.011 ly (15,000 ± 700 AU).[15] Proxima Centauri is very likely part of a triple star system with Alpha Centauri A and B. 
+ Because of the proximity of this star, its distance from the Sun and angular diameter can be measured directly, from which it can be determined that its diameter is about one-seventh of that of the Sun.[11] Proxima Centauri's mass is about an eighth of the Sun's, and its average density is about 40 times that of the Sun.[nb 2] Although it has a very low average luminosity, Proxima is a flare star that undergoes random dramatic increases in brightness because of magnetic activity.[16] The star's magnetic field is created by convection throughout the stellar body, and the resulting flare activity generates a total X-ray emission similar to that produced by the Sun.[17] The mixing of the fuel at Proxima Centauri's core through convection and the star's relatively low energy-production rate suggest that it will be a main-sequence star for another four trillion years,[18] or nearly 300 times the current age of the universe.[19] 
+ Searches for companions orbiting Proxima Centauri have been unsuccessful, ruling out the presence of brown dwarfs and supermassive planets.[20][21] Precision radial velocity surveys have also ruled out the presence of super-Earths within the star's habitable zone.[22][nb 3] The detection of smaller objects will require the use of new instruments, such as the proposed James Webb Space Telescope.[23] Because Proxima Centauri is a red dwarf and a flare star, whether a planet orbiting this star could support life is disputed.[24][25] Nevertheless, because of the star's proximity to Earth, it has been proposed as a destination for interstellar travel.[26] 
+ [edit] Observation 
+ In 1915, Robert Innes, Director of the Union Observatory in Johannesburg, South Africa, discovered a star that had the same proper motion as Alpha Centauri.[27][28] He suggested it be named Proxima Centauri.[29] In 1917, at the Royal Observatory at the Cape of Good Hope, the Dutch astronomer Joan Voûte measured the star's trigonometric parallax and confirmed that Proxima Centauri was the same distance from the Sun as Alpha Centauri. It was also found to be the lowest-luminosity star known at the time.[30] The first accurate parallax determination of Proxima Centauri was made by American astronomer Harold L. Alden in 1928, who confirmed the earlier results with a parallax of 0.783 ± 0.005″.[27][29] 
+ In 1951, American astronomer Harlow Shapley announced that Proxima Centauri is a flare star. Examination of past photographic records showed that the star displayed a measurable increase in magnitude on about 8% of the images, making it the most active flare star then known.[31][32] The proximity of the star allows for detailed observation of its flare activity. In 1980, the Einstein Observatory produced a detailed X-ray energy curve of a stellar flare on Proxima Centauri. Further observations of flare activity were made with the EXOSAT and ROSAT satellites, and the X-ray emissions of smaller, solar-like flares were observed by the Japanese ASCA satellite in 1995.[33] Proxima Centauri has since been the subject of study by most X-ray observatories, including XMM-Newton and Chandra.[34] 
+ Because of Proxima Centauri's southern declination, it can only be viewed south of latitude 27° N.[nb 4] Red dwarfs such as Proxima Centauri are far too faint to be seen with the naked eye. Even from Alpha Centauri A or B, Proxima would only be seen as a fifth magnitude star.[35][36] It has an apparent visual magnitude of 11, so a telescope with an aperture of at least 8 cm (3.1 in.) is needed to observe this star even under ideal viewing conditions—under clear, dark skies with Proxima Centauri well above the horizon.[37] 
+ [edit] Characteristics 
+ Proxima Centauri is classified as a red dwarf star because it belongs to the main sequence on the Hertzsprung–Russell diagram and is of spectral class M5.5. It is further classified as a "late M-dwarf star", meaning that at M5.5, it falls to the low-mass extreme of M-type stars.[11] This star's absolute visual magnitude, or its visual magnitude as viewed from a distance of 10 parsecs, is 15.5.[4] Its total luminosity over all wavelengths is 0.17% that of the Sun,[7] although when observed in the wavelengths of visible light the eye is most sensitive to, it is only 0.0056% as luminous as the Sun.[38] More than 85% of its radiated power is at infrared wavelengths.[39] 
+ In 2002, optical interferometry with the Very Large Telescope (VLTI) found that the angular diameter of Proxima Centauri was 1.02 ± 0.08 milliarcsec. Because its distance is known, the actual diameter of Proxima Centauri can be calculated to be about 1/7 that of the Sun, or 1.5 times that of Jupiter.[28] The star's estimated mass is only 12.3% of a solar mass, or 129 Jupiter masses.[11] The mean density of a main-sequence star increases with decreasing mass,[40] and Proxima Centauri is no exception: it has a mean density of 56,800 kg/m3 (56.8 g/cm3), compared with the Sun's mean density of 1,409 kg/m3 (1.409 g/cm3).[nb 2] 
+ Because of its low mass, the interior of the star is completely convective, causing energy to be transferred to the exterior by the physical movement of plasma rather than through radiative processes. This convection means that the helium ash left over from the thermonuclear fusion of hydrogen does not accumulate at the core, but is instead circulated throughout the star. Unlike the Sun, which will only burn through about 10% of its total hydrogen supply before leaving the main sequence, Proxima Centauri will consume nearly all of its fuel before the fusion of hydrogen comes to an end.[18] 
+ Convection is associated with the generation and persistence of a magnetic field. The magnetic energy from this field is released at the surface through stellar flares that briefly increase the overall luminosity of the star. These flares can grow as large as the star and reach temperatures measured as high as 27 million K[34]—hot enough to radiate X-rays.[41] Indeed, the quiescent X-ray luminosity of this star, approximately (4–16) × 1026 erg/s ((4–16) × 1019 W), is roughly equal to that of the much larger Sun. The peak X-ray luminosity of the largest flares can reach 1028 erg/s (1021 W.)[34] 
+ The chromosphere of this star is active, and its spectrum displays a strong emission line of singly ionized magnesium at a wavelength of 280 nm.[42] About 88% of the surface of Proxima Centauri may be active, a percentage that is much higher than that of the Sun even at the peak of the solar cycle. Even during quiescent periods with few or no flares, this activity increases the corona temperature of Proxima Centauri to 3.5 million K, compared to the 2 million K of the Sun's corona.[43] However, the overall activity level of this star is considered low compared to other M-class dwarfs,[17] which is consistent with the star's estimated age of 4.85 × 109 years,[11] since the activity level of a red dwarf is expected to steadily wane over billions of years as its stellar rotation rate decreases.[44] The activity level also appears to vary with a period of roughly 442 days, which is shorter than the solar cycle of 11 years.[45] 
+ Proxima Centauri has a relatively weak stellar wind, resulting in no more than 20% of the Sun's mass loss rate from the solar wind. Because the star is much smaller than the Sun, however, the mass loss per unit surface area from Proxima Centauri may be eight times that from the solar surface.[46] 
+ A red dwarf with the mass of Proxima Centauri will remain on the main sequence for about four trillion years. As the proportion of helium increases because of hydrogen fusion, the star will become smaller and hotter, gradually transforming from red to blue. Near the end of this period it will become significantly more luminous, reaching 2.5% of the Sun's luminosity and warming up any orbiting bodies for a period of several billion years. Once the hydrogen fuel is exhausted, Proxima Centauri will then evolve into a white dwarf (without passing through the red giant phase) and steadily lose any remaining heat energy.[18] 
+ [edit] Distance and motion 
+ Based on the parallax of 768.7 ± 0.3 milliarcseconds, measured using the Hipparcos astrometry satellite,[47] and more precisely with the Fine Guidance Sensors on the Hubble Space Telescope,[3] Proxima Centauri is about 4.24 light years from the Sun, or 270,000 times more distant than the Earth is from the Sun. From Earth's vantage point, Proxima is separated by 2.18°[48] from Alpha Centauri, or four times the angular diameter of the full Moon.[49] Proxima also has a relatively large proper motion—moving 3.85 arcseconds per year across the sky.[50] It has a radial velocity toward the Sun of 21.7 km/s.[1] 
+ Among the known stars, Proxima Centauri has been the closest star to the Sun for about 32,000 years and will be so for about another 33,000 years, after which the closest star to the Sun will be Ross 248.[51] In 2001, J. García-Sánchez et al. predicted that Proxima will make its closest approach to the Sun, coming within 3.11 light years of the latter, in approximately 26,700 years.[2] A 2010 study by V. V. Bobylev predicted a closest approach distance of 2.90 ly in about 27,400 years.[52] Proxima Centauri is orbiting through the Milky Way at a distance from the Galactic Center that varies from 8.3 to 9.5 kpc, with an orbital eccentricity of 0.07.[53] 
+ Ever since the discovery of Proxima it has been suspected to be a true companion of the Alpha Centauri binary star system. At a distance to Alpha Centauri of just 0.21 ly (15,000 ± 700 astronomical units [AU]),[15] Proxima Centauri may be in orbit around Alpha Centauri, with an orbital period of the order of 500,000 years or more. For this reason, Proxima is sometimes referred to as Alpha Centauri C. Modern estimates, taking into account the small separation between and relative velocity of the stars, suggest that the chance of the observed alignment being a coincidence is roughly one in a million.[54] Data from the Hipparcos satellite, combined with ground-based observations, is consistent with the hypothesis that the three stars are truly a bound system. If so, Proxima would currently be near apastron, the farthest point in its orbit from the Alpha Centauri system. Such a triple Proxima Cen-alpha Cen A/B system can form naturally through a low-mass star being dynamically captured by a more massive binary of 1.5–2 solar masses within their embedded star cluster before the cluster disperses.[55] More accurate measurement of the radial velocity is needed to confirm this hypothesis.[15] 
+ If Proxima was bound to the Alpha Centauri system during its formation, the stars would be likely to share the same elemental composition. The gravitational influence of Proxima may also have stirred up the Alpha Centauri protoplanetary disks. This would have increased the delivery of volatiles such as water to the dry inner regions. Any terrestrial planets in the system may have been enriched by this material.[15] 
+ Six single stars, two binary star systems, and a triple star share a common motion through space with Proxima Centauri and the Alpha Centauri system. The space velocities of these stars are all within 10 km/s of Alpha Centauri's peculiar motion. Thus, they may form a moving group of stars, which would indicate a common point of origin,[56] such as in a star cluster. If it is determined that Proxima Centauri is not gravitationally bound to Alpha Centauri, then such a moving group would help explain their relatively close proximity.[57] 
+ Though Proxima Centauri is the nearest bona fide star, it is still possible that one or more as-yet undetected sub-stellar brown dwarfs may lie closer.[58] 
+ [edit] Possible companions 
+ If a massive planet is orbiting Proxima Centauri, some displacement of the star would occur over the course of each orbit. If the orbital plane of the planet is not perpendicular to the line of sight from the Earth, then this displacement would cause periodic changes in the radial velocity of Proxima Centauri. The fact that multiple measurements of the star's radial velocity have detected no such shifts has lowered the maximum mass that a possible companion to Proxima Centauri could possess.[3][20] The activity level of the star adds noise to the radial velocity measurements, limiting future prospects for detection of a companion using this method.[59] 
+ In 1998, an examination of Proxima Centauri using the Faint Object Spectrograph on board the Hubble Space Telescope appeared to show evidence of a companion orbiting at a distance of about 0.5 AU.[60] However, a subsequent search using the Wide Field Planetary Camera 2 failed to locate any companions.[21] Proxima Centauri, along with Alpha Centauri A and B, was among the "Tier 1" target stars for NASA's now-canceled Space Interferometry Mission (SIM), which would theoretically have been able to detect planets as small as three Earth-masses within two AU of a "Tier 1" target star.[23] 
+ [edit] Habitable zone 
+ The TV documentary Alien Worlds hypothesized that a life-sustaining planet could exist in orbit around Proxima Centauri or other red dwarf stars. Such a planet would lie within the habitable zone of Proxima Centauri, about 0.023–0.054 AU from the star, and would have an orbital period of 3.6–14 days.[61] A planet orbiting within this zone will experience tidal locking to the star, so that Proxima Centauri moves little in the planet's sky, and most of the surface experiences either day or night perpetually. However, the presence of an atmosphere could serve to redistribute the energy from the star-lit side to the far side of the planet.[24] 
+ Proxima Centauri's flare outbursts could erode the atmosphere of any planet in its habitable zone, but the documentary's scientists thought that this obstacle could be overcome (see continued theories). Gibor Basri of the University of California, Berkeley, even mentioned that "no one [has] found any showstoppers to habitability." For example, one concern was that the torrents of charged particles from the star's flares could strip the atmosphere off any nearby planet. However, if the planet had a strong magnetic field, the field would deflect the particles from the atmosphere; even the slow rotation of a tidally locked dwarf planet that spins once for every time it orbits its star would be enough to generate a magnetic field, as long as part of the planet's interior remained molten.[62] 
+ Other scientists, especially proponents of the Rare Earth hypothesis,[63] disagree that red dwarf stars can sustain life. The tide-locked rotation may result in a relatively weak planetary magnetic moment, leading to strong atmospheric erosion by coronal mass ejections from Proxima Centauri.[25] 
+ [edit] Interstellar travel 
+ Proxima Centauri has been suggested as a possible first destination for interstellar travel.[26] The star is in motion toward Earth at a rate of 21.7 km/s.[1] Ηowever, after 26,700 years, when it will come as close as 3.11 light-years it begin to move farther away.[2] If non-nuclear propulsion were used, a voyage of a spacecraft to a planet orbiting Proxima Centauri would probably require thousands of years.[64] For example, Voyager 1, which is now travelling 17.043 km/s (38,120 mph) relative to the Sun, would reach Proxima in 73,775 years, were the spacecraft traveling in the direction of that star. A slow-moving probe would have only several tens of thousands of years to catch Proxima Centauri near its closest approach, and could end up watching it recede into the distance.[65]Nuclear pulse propulsion might enable such interstellar travel with a trip timescale of a century, beginning within the next century, inspiring several studies such as Project Orion, Project Daedalus, and Project Longshot.[65] 
+ From Proxima Centauri, the Sun would appear as a bright 0.4-magnitude star in the constellation Cassiopeia.[66] 
+ [edit] See also 
+ [edit] References 
+ [edit] Explanatory notes 
+ 
+ ^ Proxima is pronounced /ˈprɒksɪmə/. Centauri may be pronounced /sɛnˈtɔriː/ or /sɛnˈtɔraɪ/.
+^ a b The density (ρ) is given by the mass divided by the volume. Relative to the Sun, therefore, the density is:
+where is the average solar density. See:
+^ a b This is actually an upper limit on the quantity m sin i, where i is the angle between the orbit normal and the line of sight. If the planetary orbits are close to face-on as observed from Earth, more massive planets could have evaded detection by the radial velocity method.
+^ For a star south of the zenith, the angle to the zenith is equal to the Latitude minus the Declination. The star is hidden from sight when the zenith angle is 90° or more, i.e. below the horizon. Thus, for Proxima Centauri:
+Highest latitude = 90° + −62.68° = 27.32°.
+See: Campbell, William Wallace (1899). The Elements of Practical Astronomy. London: Macmillan. pp. 109–110. http://books.google.com/?id=v2tEAAAAIAAJ. Retrieved 2008-08-12.
+  
+ [edit] Citations 
+ 
+ ^ a b c d e f g h i j k l "SIMBAD query result: V* V645 Cen – Flare Star". SIMBAD. Centre de Données astronomiques de Strasbourg. http://simbad.u-strasbg.fr/simbad/sim-id?Ident=proxima%20centauri. Retrieved 2008-08-11.—some of the data is located under "Measurements".
+^ a b c García-Sánchez, J.; Weissman, P. R.; Preston, R. A.; Jones, D. L.; Lestrade, J.-F.; Latham, D. W.; Stefanik, R. P.; Paredes, J. M. (2001). "Stellar encounters with the solar system". Astronomy and Astrophysics 379 (2): 634–659. Bibcode 2001A&amp;A...379..634G. doi:10.1051/0004-6361:20011330.
+^ a b c Benedict, G. Fritz et al. (1999). "Interferometric Astrometry of Proxima Centauri and Barnard's Star Using HUBBLE SPACE TELESCOPE Fine Guidance Sensor 3: Detection Limits for Substellar Companions". The Astronomical Journal 118 (2): 1086–1100. arXiv:astro-ph/9905318. Bibcode 1999astro.ph..5318B. doi:10.1086/300975.
+^ a b Kamper, K. W.; Wesselink, A. J. (1978). "Alpha and Proxima Centauri". Astronomical Journal 83: 1653–1659. Bibcode 1978AJ.....83.1653K. doi:10.1086/112378.
+^ a b c Ségransan, D. et al. (2003), "First radius measurements of very low mass stars with the VLTI", Astronomy and Astrophysics 397 (3): L5–L8, arXiv:astro-ph/0211647, Bibcode 2003A&amp;A...397L...5S, doi:10.1051/0004-6361:20021714
+^ Demory, B.-O. et al. (October 2009), "Mass-radius relation of low and very low-mass stars revisited with the VLTI", Astronomy and Astrophysics 505 (1): 205–215, arXiv:0906.0602, Bibcode 2009A&amp;A...505..205D, doi:10.1051/0004-6361/200911976
+^ a b See Table 1, Doyle, J. G.; Butler; Butler, C. J. (1990). "Optical and infrared photometry of dwarf M and K stars". Astronomy and Astrophysics 235: 335–339. Bibcode 1990A&amp;A...235..335D. and p. 57, Peebles, P. J. E. (1993). Principles of Physical Cosmology. Princeton, New Jersey: Princeton University Press. ISBN 0-691-01933-9.
+^ Schlaufman, K. C.; Laughlin, G. (September 2010), "A physically-motivated photometric calibration of M dwarf metallicity", Astronomy and Astrophysics 519, arXiv:1006.2850, Bibcode 2010A&amp;A...519A.105S, doi:10.1051/0004-6361/201015016
+^ Benedict, G. Fritz et al. (1998). "Photometry of Proxima Centauri and Barnard's Star Using Hubble Space Telescope Fine Guidance Sensor 3: A Search for Periodic Variations". The Astronomical Journal 116 (1): 429–439. arXiv:astro-ph/9806276. Bibcode 1998AJ....116..429B. doi:10.1086/300420.
+^ Torres, C. A. O. et al. (December 2006). "Search for associations containing young stars (SACY). I. Sample and searching method". Astronomy and Astrophysics 460 (3): 695–708. arXiv:astro-ph/0609258. Bibcode 2006A&amp;A...460..695T. doi:10.1051/0004-6361:20065602.
+^ a b c d e f Kervella, Pierre; Thevenin, Frederic (2003-03-15). "A Family Portrait of the Alpha Centauri System: VLT Interferometer Studies the Nearest Stars". ESO. http://www.eso.org/public/outreach/press-rel/pr-2003/pr-05-03.html. Retrieved 2007-07-09.
+^ "Latin Resources". Joint Association of Classical Teachers. http://www.jact.org/subjects/vocablist.htm. Retrieved 2007-07-15.
+^ http://interstellar.jpl.nasa.gov/interstellar/probe/introduction/neighborhood.html, Our Local Galactic Neighborhood, NASA
+^ http://www.centauri-dreams.org/?p=14203, Into the Interstellar Void, Centauri Dreams
+^ a b c d Wertheimer, Jeremy G.; Laughlin, Gregory (2006). "Are Proxima and α Centauri Gravitationally Bound?". The Astronomical Journal 132 (5): 1995–1997. arXiv:astro-ph/0607401. Bibcode 2006astro.ph..7401W. doi:10.1086/507771.
+^ Christian, D. J.; Mathioudakis, M.; Bloomfield, D. S.; Dupuis, J.; Keenan, F. P. (2004). "A Detailed Study of Opacity in the Upper Atmosphere of Proxima Centauri". The Astrophysical Journal 612 (2): 1140–1146. Bibcode 2004ApJ...612.1140C. doi:10.1086/422803.
+^ a b Wood, B. E.; Linsky, J. L.; Müller, H.-R.; Zank, G. P. (2001). "Observational Estimates for the Mass-Loss Rates of α Centauri and Proxima Centauri Using Hubble Space Telescope Lyα Spectra". The Astrophysical Journal 547 (1): L49–L52. arXiv:astro-ph/0011153. Bibcode 2001ApJ...547L..49W. doi:10.1086/318888. http://iopscience.iop.org/1538-4357/547/1/L49/pdf/1538-4357_547_1_L49.pdf. Retrieved 2007-07-09.
+^ a b c Adams, Fred C.; Laughlin, Gregory; Graves, Genevieve J. M. "Red Dwarfs and the End of the Main Sequence". Gravitational Collapse: From Massive Stars to Planets. Revista Mexicana de Astronomía y Astrofísica. pp. 46–49. http://www.astroscu.unam.mx/rmaa/RMxAC..22/PDF/RMxAC..22_adams.pdf. Retrieved 2008-06-24.
+^ Dunkley, J. et al. (2009). "Five-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Data Processing, Sky Maps, and Basic Results". The Astrophysical Journal Supplement Series 180 (2): 306–329. arXiv:0803.0586. Bibcode 2009ApJS..180..306D. doi:10.1088/0067-0049/180/2/306.
+^ a b Kürster, M. et al. (1999). "Precise radial velocities of Proxima Centauri. Strong constraints on a substellar companion". Astronomy &amp; Astrophysics Letters 344: L5–L8. arXiv:astro-ph/9903010. Bibcode 1999A&amp;A...344L...5K.
+^ a b Schroeder, Daniel J.; Golimowski, David A.; Brukardt, Ryan A.; Burrows, Christopher J.; Caldwell, John J.; Fastie, William G.; Ford, Holland C.; Hesman, Brigette; Kletskin, Ilona; Krist, John E.; Royle, Patricia; Zubrowski, Richard. A. (2000). "A Search for Faint Companions to Nearby Stars Using the Wide Field Planetary Camera 2". The Astronomical Journal 119 (2): 906–922. Bibcode 2000AJ....119..906S. doi:10.1086/301227.
+^ a b Endl, M. and Kürster, M. (2008). "Toward detection of terrestrial planets in the habitable zone of our closest neighbor: Proxima Centauri". Astronomy and Astrophysics 488 (3): 1149–1153. arXiv:0807.1452. Bibcode 2008A&amp;A...488.1149E. doi:10.1051/0004-6361:200810058.
+^ a b Watanabe, Susan (2006-10-18). "Planet-Finding by Numbers". NASA JPL. http://www.jpl.nasa.gov/news/features.cfm?feature=1209. Retrieved 2007-07-09.
+^ a b Tarter, Jill C. et al. (2007). "A Reappraisal of The Habitability of Planets around M Dwarf Stars". Astrobiology 7 (1): 30–65. arXiv:astro-ph/0609799. Bibcode 2007AsBio...7...30T. doi:10.1089/ast.2006.0124. PMID 17407403.
+^ a b Khodachenko, Maxim L. et al. (2007). "Coronal Mass Ejection (CME) Activity of Low Mass M Stars as An Important Factor for The Habitability of Terrestrial Exoplanets. I. CME Impact on Expected Magnetospheres of Earth-Like Exoplanets in Close-In Habitable Zones". Astrobiology 7 (1): 167–184. Bibcode 2007AsBio...7..167K. doi:10.1089/ast.2006.0127. PMID 17407406.
+^ a b Gilster, Paul (2004). Centauri Dreams: Imagining and Planning. Springer. ISBN 0-387-00436-X.
+^ a b Glass, I. S. (July 2007). "The Discovery of the Nearest Star". African Sky 11: 39. Bibcode 2007AfrSk..11...39G.
+^ a b Queloz, Didier (2002-11-29). "How Small are Small Stars Really? VLT Interferometer Measures the Size of Proxima Centauri and Other Nearby Stars". European Southern Observatory. http://www.eso.org/outreach/press-rel/pr-2002/pr-22-02.html. Retrieved 2007-07-09.
+^ a b Alden, Harold L. (1928). "Alpha and Proxima Centauri". Astronomical Journal 39 (913): 20–23. Bibcode 1928AJ.....39...20A. doi:10.1086/104871.
+^ Voûte, J. (1917). "A 13th magnitude star in Centaurus with the same parallax as α Centauri". Monthly Notices of the Royal Astronomical Society 77: 650–651. Bibcode 1917MNRAS..77..650V.
+^ Shapley, Harlow (1951). "Proxima Centauri as a Flare Star". Proceedings of the National Academy of Sciences of the United States of America 37 (1): 15–18. Bibcode 1951PNAS...37...15S. doi:10.1073/pnas.37.1.15. PMC 1063292. PMID 16588985. //www.ncbi.nlm.nih.gov/pmc/articles/PMC1063292/.
+^ Kroupa, Pavel; Burman, R. R.; Blair, D. G. (1989). "Photometric observations of flares on Proxima Centauri". PASA 8 (2): 119-122. Bibcode 1989PASAu...8..119K.
+^ Haisch, Bernhard; Antunes, A.; Schmitt, J. H. M. M. (1995). "Solar-Like M-Class X-ray Flares on Proxima Centauri Observed by the ASCA Satellite". Science 268 (5215): 1327–1329. Bibcode 1995Sci...268.1327H. doi:10.1126/science.268.5215.1327. PMID 17778978.
+^ a b c Guedel, M.; Audard, M.; Reale, F.; Skinner, S. L.; Linsky, J. L. (2004). "Flares from small to large: X-ray spectroscopy of Proxima Centauri with XMM-Newton". Astronomy and Astrophysics 416 (2): 713–732. arXiv:astro-ph/0312297. Bibcode 2004A&amp;A...416..713G. doi:10.1051/0004-6361:20031471.
+^ "Proxima Centauri UV Flux Distribution". ESA/Laboratory for Space Astrophysics and Theoretical Physics. http://sdc.cab.inta-csic.es/ines/Ines_PCentre/Demos/Fluxdist/pcentauri.html. Retrieved 2007-07-11.
+^ Kaler, Jim. "Rigil Kentaurus". University of Illinois. http://www.astro.uiuc.edu/~kaler/sow/rigil-kent.html. Retrieved 2008-08-03.
+^ Sherrod, P. Clay; Koed, Thomas L.; Aleichem, Thomas L. Sholem (2003). A Complete Manual of Amateur Astronomy: Tools and Techniques for Astronomical Observations. Courier Dover Publications. ISBN 0-486-42820-6.
+^ p. 8, Binney, James; Scott Tremaine (1987). Galactic Dynamics. Princeton, New Jersey: Princeton University Press. ISBN 0-691-08445-9.
+^ p. 357, Leggett, S. K. (1992). "Infrared colors of low-mass stars". Astrophysical Journal Supplement Series 82 (1): 351–394. Bibcode 1992ApJS...82..351L. doi:10.1086/191720.
+^ Zombeck, Martin V. (2007). Handbook of Space Astronomy and Astrophysics (Third ed.). Cambridge, UK: Cambridge University Press. pp. 109. ISBN 0-521-78242-2.
+^ Staff (2006-08-30). "Proxima Centauri: The Nearest Star to the Sun". Harvard-Smithsonian Center for Astrophysics. http://chandra.harvard.edu/photo/2004/proxima/. Retrieved 2007-07-09.
+^ E. F., Guinan; Morgan; Morgan, N. D. (1996). "Proxima Centauri: Rotation, Chromosperic Activity, and Flares". Bulletin of the American Astronomical Society 28: 942. Bibcode 1996BAAS...28S.942G.
+^ Wargelin, Bradford J.; Drake, Jeremy J. (2002). "Stringent X-Ray Constraints on Mass Loss from Proxima Centauri". The Astrophysical Journal 578 (1): 503–514. Bibcode 2002ApJ...578..503W. doi:10.1086/342270.
+^ Stauffer, J. R.; Hartmann, L. W. (1986). "Chromospheric activity, kinematics, and metallicities of nearby M dwarfs". Astrophysical Journal Supplement Series 61 (2): 531–568. Bibcode 1986ApJS...61..531S. doi:10.1086/191123.
+^ Cincunegui, C.; Díaz, R. F.; Mauas, P. J. D. (2007). "A possible activity cycle in Proxima Centauri". Astronomy and Astrophysics 461 (3): 1107–1113. arXiv:astro-ph/0703514. Bibcode 2007A&amp;A...461.1107C. doi:10.1051/0004-6361:20066027.
+^ Wood, B. E.; Linsky, J. L.; Muller, H.-R.; Zank, G. P. (2000). "Observational Estimates for the Mass-Loss Rates of Alpha Centauri and Proxima Centauri Using Hubble Space Telescope Lyman-alpha Spectra". Astrophysical Journal 537 (2): L49–L52. arXiv:astro-ph/0011153. Bibcode 2000ApJ...537..304W. doi:10.1086/309026.
+^ Perryman, M. A. C.; Lindegren, L.; Kovalevsky, J.; et al. (July 1997), "The Hipparcos Catalogue", Astronomy and Astrophysics 323: L49–L52, Bibcode 1997A&amp;A...323L..49P
+^ Kirkpatrick, J. Davy et al. (1999). "Brown Dwarf Companions to G-type Stars. I: Gliese 417B and Gliese 584C". The Astronomical Journal 121 (6): 3235–3253. arXiv:astro-ph/0103218. Bibcode 2001AJ....121.3235K. doi:10.1086/321085.
+^ Williams, D. R. (2006-02-10). "Moon Fact Sheet". NASA. http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html. Retrieved 2007-10-12.
+^ Benedict, G. F. et al. "Astrometric Stability and Precision of Fine Guidance Sensor #3: The Parallax and Proper Motion of Proxima Centauri" (PDF). Proceedings of the HST Calibration Workshop. pp. 380–384. http://clyde.as.utexas.edu/SpAstNEW/Papers_in_pdf/%7BBen93%7DEarlyProx.pdf. Retrieved 2007-07-11.
+^ Matthews, R. A. J. (1994). "The Close Approach of Stars in the Solar Neighborhood". Quarterly Journal of the Royal Astronomical Society 35: 1–9. Bibcode 1994QJRAS..35....1M.
+^ Bobylev, V. V. (March 2010). "Searching for stars closely encountering with the solar system". Astronomy Letters 36 (3): 220–226. arXiv:1003.2160. Bibcode 2010AstL...36..220B. doi:10.1134/S1063773710030060.
+^ Allen, C.; Herrera; Herrera, M. A. (1998). "The galactic orbits of nearby UV Ceti stars". Revista Mexicana de Astronomia y Astrofisica 34: 37–46. Bibcode 1998RMxAA..34...37A.
+^ Matthews, Robert; Gilmore, Gerard; Gilmore, Gerard (1993). "Is Proxima really in orbit about Alpha CEN A/B?". MNRAS 261: L5. Bibcode 1993MNRAS.261L...5M.
+^ Kroupa, Pavel (1995). "The dynamical properties of stellar systems in the Galactic disc". MNRAS 277: 1507. Bibcode 1995MNRAS.277.1507K.
+^ Johnston, Kathryn V.; Hernquist, Lars; Bolte, Michael (1995). "Fossil Signatures of Ancient Accretion Events in the Halo". The Astrophysical Journal 465: 278. arXiv:astro-ph/9602060. Bibcode 1996ApJ...465..278J. doi:10.1086/177418.
+^ Anosova, J.; Orlov; Pavlova; Orlov, V. V.; Pavlova, N. A. (1994). "Dynamics of nearby multiple stars. The Alpha Centauri system". Astronomy and Astrophysics 292 (1): 115–118. Bibcode 1994A&amp;A...292..115A.
+^ "WISE Satellite Set to Map the Infrared Universe". Scientific American. December 9, 2009. http://www.scientificamerican.com/article.cfm?id=wise-infrared-satellite. Retrieved 2009-12-10.
+^ Saar, Steven H.; Donahue, Robert A. (1997). "Activity-related Radial Velocity Variation in Cool Stars". Astrophysical Journal 485 (1): 319–326. Bibcode 1997ApJ...485..319S. doi:10.1086/304392.
+^ Schultz, A. B.; Hart, H. M.; Hershey, J. L.; Hamilton, F. C.; Kochte, M.; Bruhweiler, F. C.; Benedict, G. F.; Caldwell, John; Cunningham, C.; Wu, Nailong; Franz, O. G.; Keyes, C. D.; Brandt, J. C. (1998). "A possible companion to Proxima Centauri". Astronomical Journal 115 (1): 345–350. Bibcode 1998AJ....115..345S. doi:10.1086/300176.
+^ Endl, M.; Kuerster, M.; Rouesnel, F.; Els, S.; Hatzes, A. P.; Cochran, W. D. (June 18–21, 2002). "Extrasolar Terrestrial Planets: Can We Detect Them Already?". In Drake Deming. Conference Proceedings, Scientific Frontiers in Research on Extrasolar Planets. Washington, DC. pp. 75–79. arXiv:astro-ph/0208462.
+^ Alpert, Mark (November 2005). "Red Star Rising". Scientific American. http://www.sciam.com/article.cfm?id=red-star-rising. Retrieved 2008-05-19.
+^ Ward, Peter D.; Brownlee, Donald (2000). Rare Earth: Why Complex Life is Uncommon in the Universe. Springer Publishing. ISBN 0-387-98701-0.
+^ Crawford, I. A. (September 1990). "Interstellar Travel: A Review for Astronomers". Quarterly Journal of the Royal Astronomical Society 31: 377–400. Bibcode 1990QJRAS..31..377C.
+^ a b Beals, K. A.; Beaulieu, M.; Dembia, F. J.; Kerstiens, J.; Kramer, D. L.; West, J. R.; Zito, J. A. (1988). "Project Longshot, an Unmanned Probe to Alpha Centauri" (PDF). NASA-CR-184718. U. S. Naval Academy. http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19890007533_1989007533.pdf. Retrieved 2008-06-13.
+^ The coordinates of the Sun would be diametrically opposite Proxima, at α=02h 29m 42.9487s, δ=+62° 40′ 46.141″. The absolute magnitude Mv of the Sun is 4.83, so at a parallax π of 0.77199 the apparent magnitude m is given by 4.83 − 5(log10(0.77199) + 1) = 0.40. See: Tayler, Roger John (1994). The Stars: Their Structure and Evolution. Cambridge University Press. p. 16. ISBN 0-521-45885-4.
+  
+ [edit] External links 
+In left column are stellar classes of primary members of star systems. Bold are systems containing at least one component with absolute magnitude of +8.5 or brighter. Italic are systems without known trigonometric parallax.
+  

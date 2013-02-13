@@ -1,0 +1,180 @@
+  Ununoctium
+118Uuo
+Appearance
+unknown
+General properties
+Name, symbol, number
+ununoctium, Uuo, 118
+Pronunciation
+i/uːn.uːnˈɒktiəm/oon-oon-OK-tee-əm
+Metallic category
+unknown
+Group, period, block
+18, 7, p
+Standard atomic weight
+[294]
+Electron configuration
+[Rn] 5f14 6d10 7s2 7p6(predicted)[1][2]
+2, 8, 18, 32, 32, 18, 8 (predicted)
+History
+Discovery
+Joint Institute for Nuclear Research and Lawrence Livermore National Laboratory (2002)
+Physical properties
+Phase
+solid (predicted)[1]
+Density (near r.t.)
+(predicted) 13.65[3][better source needed] g·cm−3
+Boiling point
+(extrapolated) 350±30[1] K, 80±30 °C, 170±50 °F
+Critical point
+(extrapolated) 439[4] K, 6.8[4] MPa
+Heat of fusion
+(extrapolated) 23.5[4]kJ·mol−1
+Heat of vaporization
+(extrapolated) 19.4[4] kJ·mol−1
+Atomic properties
+Oxidation states
+(predicted) −1,[2] 0, +1,[5]+2[6], +4[6], +6[2]
+Ionization energies
+1st: (extrapolated) 839.4[2] kJ·mol−1
+2nd: (extrapolated) 1450[7] kJ·mol−1
+Atomic radius
+(predicted) 152[3][better source needed]pm
+Covalent radius
+(predicted) 157[8] pm
+Miscellanea
+CAS registry number
+54144-19-3[9]
+Most stable isotopes
+Main article: Isotopes of ununoctium
+· r
+ Ununoctium is the temporary IUPAC name[11] for the transactinide element having the atomic number 118 and temporary element symbol Uuo. It is also known as eka-radon or element 118, and on the periodic table of the elements it is a p-block element and the last one of the 7th period. Ununoctium is currently the only synthetic member of Group 18. It has the highest atomic number and highest atomic mass of all the elements discovered so far. 
+ The radioactive ununoctium atom is very unstable, and since 2002, only three or possibly four atoms of the isotope 294Uuo have been detected.[12] While this allowed for very little experimental characterization of its properties and possible compounds, theoretical calculations have resulted in many predictions, including some unexpected ones. For example, although ununoctium is a member of Group 18, it may possibly not be a noble gas, unlike all the other Group 18 elements.[1] It was formerly thought to be a gas but is now predicted to be a solid under normal conditions due to relativistic effects.[1] 
+ [edit] History 
+ [edit] Unsuccessful synthesis attempts 
+ In late 1998, Polish physicist Robert Smolańczuk published calculations on the fusion of atomic nuclei towards the synthesis of superheavy atoms, including ununoctium.[13] His calculations suggested that it might be possible to make ununoctium by fusing lead with krypton under carefully controlled conditions.[13] 
+ In 1999, researchers at Lawrence Berkeley National Laboratory made use of these predictions and announced the discovery of livermorium and ununoctium, in a paper published in Physical Review Letters,[14] and very soon after the results were reported in Science.[15] The researchers reported to have performed the reaction 
+ 86
+36Kr + 208
+82Pb → 293
+118Uuo + n.
+  The following year, they published a retraction after researchers at other laboratories were unable to duplicate the results and the Berkeley lab itself was unable to duplicate them as well.[16] In June 2002, the director of the lab announced that the original claim of the discovery of these two elements had been based on data fabricated by principal author Victor Ninov.[17][18] 
+ [edit] Discovery reports 
+ The first decay of atoms of ununoctium was observed at the Joint Institute for Nuclear Research (JINR) by Yuri Oganessian and his group in Dubna, Russia, in 2002.[19] On October 9, 2006, researchers from JINR and Lawrence Livermore National Laboratory of California, USA, working at the JINR in Dubna, announced[10] that they had indirectly detected a total of three (possibly four) nuclei of ununoctium-294 (one or two in 2002[20] and two more in 2005) produced via collisions of californium-249 atoms and calcium-48 ions:[21][22][23][24][25] 
+ 249
+98Cf + 48
+20Ca → 294
+118Uuo + 3 n.
+ 
+ In 2011, IUPAC evaluated the 2006 results of the Dubna-Livermore collaboration and concluded: "The three events reported for the Z = 118 isotope have very good internal redundancy but with no anchor to known nuclei do not satisfy the criteria for discovery".[26] 
+ Because of the very small fusion reaction probability (the fusion cross section is ~0.3–0.6 pb = (3–6)×10−41 m2) the experiment took 4 months and involved a beam dose of 4×1019calcium ions that had to be shot at the californium target to produce the first recorded event believed to be the synthesis of ununoctium.[9] Nevertheless, researchers are highly confident that the results are not a false positive, since the chance that the detections were random events was estimated to be less than one part in 100,000.[27] 
+ In the experiments, the alpha-decay of three atoms of ununoctium was observed. A fourth decay by direct spontaneous fission was also proposed. A half-life of 0.89 ms was calculated: 294Uuo decays into 290Lv by alpha decay. Since there were only three nuclei, the half-life derived from observed lifetimes has a large uncertainty: 0.89+1.07
+−0.31 ms.[10] 
+ 294
+118Uuo → 290
+116Lv + 4
+2He
+  The identification of the 294Uuo nuclei was verified by separately creating the putative daughter nucleus 290Lv directly by means of a bombardment of 245Cm with 48Ca ions, 
+ 245
+96Cm + 48
+20Ca → 290
+116Lv + 3 n,
+  and checking that the 290Lv decay matched the decay chain of the 294Uuo nuclei.[10] The daughter nucleus 290Lv is very unstable, decaying with a lifetime of 14 milliseconds into 286Fl, which may experience either spontaneous fission or alpha decay into 282Cn, which will undergo spontaneous fission.[10] 
+ In a quantum-tunneling model, the alpha decay half-life of 294Uuo was predicted to be 0.66+0.23
+−0.18 ms[28] with the experimental Q-value published in 2004.[29] Calculation with theoretical Q-values from the macroscopic-microscopic model of Muntian–Hofman–Patyk–Sobiczewski gives somewhat low but comparable results.[30] 
+ Following the success in obtaining ununoctium, the discoverers have started similar experiments in the hope of creating unbinilium (element 120) from 58Fe and 244Pu.[31] Isotopes of unbinilium are predicted to have alpha decay half-lives of the order of microseconds.[32][33] 
+ [edit] Naming 
+ Until the 1960s ununoctium was known as eka-emanation (emanation is the old name for radon).[34] In 1979 the IUPAC published recommendations according to which the element was to be called ununoctium,[35] a systematic element name, as a placeholder until the discovery of the element is confirmed and the IUPAC decides on a name. 
+ Before the retraction in 2002, the researchers from Berkeley had intended to name the element ghiorsium (Gh), after Albert Ghiorso (a leading member of the research team).[36] 
+ The Russian discoverers reported their synthesis in 2006. In 2007, the head of the Russian institute stated the team were considering two names for the new element: flyorium (Fy), in honor of Georgy Flyorov, the founder of the research laboratory in Dubna; and moskovium (Mk), in recognition of the Moscow Oblast where Dubna is located.[37] He also stated that although the element was discovered as an American collaboration, who provided the californium target, the element should rightly be named in honor of Russia since the Flerov Laboratory of Nuclear Reactions at JINR was the only facility in the world which could achieve this result.[38] These names were later proposed for element 114 (flerovium) and element 116 (moscovium).[39] However, the final name proposed for element 116 was instead livermorium.[40] 
+ No name has yet been officially suggested for the element. According to current guidelines from IUPAC, the ultimate name for all new elements should end in "-ium", which means the name for ununoctium may end in "-ium", not "-on", even if ununoctium turns out to be a noble gas, which traditionally have names ending in "-on" (with the exception of helium, which was not known to be a noble gas when it was discovered).[41] 
+ [edit] Characteristics 
+ [edit] Nucleus stability and isotopes 
+ The stability of nuclei decreases greatly with the increase in atomic number after plutonium, the heaviest primordial element, so that all isotopes with an atomic number above 101 decay radioactively with a half-life under a day, with an exception of dubnium-268. No elements with atomic numbers above 82 (after lead) have stable isotopes.[42] Nevertheless, because of reasons not very well understood yet, there is a slight increased nuclear stability around atomic numbers 110–114, which leads to the appearance of what is known in nuclear physics as the "island of stability". This concept, proposed by University of California professor Glenn Seaborg, explains why superheavy elements last longer than predicted.[43] Ununoctium is radioactive and has a half-life that appears to be less than a millisecond. Nonetheless, this is still longer than some predicted values,[28][44] thus giving further support to the idea of this "island of stability".[45] 
+ Calculations using a quantum-tunneling model predict the existence of several neutron-rich isotopes of ununoctium with alpha-decay half-lives close to 1 ms.[32][33] 
+ Theoretical calculations done on the synthetic pathways for, and the half-life of, other isotopes have shown that some could be slightly more stable than the synthesized isotope 294Uuo, most likely 293Uuo, 295Uuo, 296Uuo, 297Uuo, 298Uuo, 300Uuo and 302Uuo.[28][46] Of these, 297Uuo might provide the best chances for obtaining longer-lived nuclei,[28][46] and thus might become the focus of future work with this element. Some isotopes with many more neutrons, such as some located around 313Uuo could also provide longer-lived nuclei.[47] 
+ [edit] Calculated atomic and physical properties 
+ Ununoctium is a member of group 18, the zero-valence elements. The members of this group are usually inert to most common chemical reactions (for example, combustion) because the outer valence shell is completely filled with eight electrons. This produces a stable, minimum energy configuration in which the outer electrons are tightly bound.[48] It is thought that similarly, ununoctium has a closed outer valence shell in which its valence electrons are arranged in a 7s27p6configuration.[1] 
+ Consequently, some expect ununoctium to have similar physical and chemical properties to other members of its group, most closely resembling the noble gas above it in the periodic table, radon.[49] Following the periodic trend, ununoctium would be expected to be slightly more reactive than radon. However, theoretical calculations have shown that it could be quite reactive, so that it probably cannot be considered a noble gas.[6] In addition to being far more reactive than radon, ununoctium may be even more reactive than elements flerovium and copernicium.[1] The reason for the apparent enhancement of the chemical activity of ununoctium relative to radon is an energetic destabilization and a radial expansion of the last occupied 7p-subshell.[1][a] More precisely, considerable spin–orbit interactions between the 7p electrons with the inert 7s2 electrons, effectively lead to a second valence shell closing at flerovium, and a significant decrease in stabilization of the closed shell of element 118.[1] It has also been calculated that ununoctium, unlike other noble gases, binds an electron with release of energy—or in other words, it exhibits positive electron affinity.[50][51][b] 
+ Ununoctium is expected to have by far the broadest polarizability of all elements before it in the periodic table, and almost twofold of radon.[1] By extrapolating from the other noble gases, it is expected that ununoctium has a boiling point between 320 and 380 K.[1] This is very different from the previously estimated values of 263 K[7] or 247 K.[52] Even given the large uncertainties of the calculations, it seems highly unlikely that ununoctium would be a gas under standard conditions,[1][c] and as the liquid range of the other gases is very narrow, between 2 and 9 kelvins, this element should be solid at standard conditions. If ununoctium forms a gas under standard conditions nevertheless, it would be one of the densest gaseous substances at standard conditions (even if it is monatomic like the other noble gases). 
+ Because of its tremendous polarizability, ununoctium is expected to have an anomalously low ionization energy (similar to that of lead which is 70% of that of radon[5] and significantly smaller than that of flerovium[53]) and a standard state condensed phase.[1] 
+ [edit] Predicted compounds 
+ No compounds of ununoctium have been synthesized yet, but calculations on theoretical compounds have been performed since 1964.[34] It is expected that if the ionization energy of the element is high enough, it will be difficult to oxidize and therefore, the most common oxidation state will be 0 (as for other noble gases).[54] 
+ Calculations on the dimeric molecule Uuo2 showed a bonding interaction roughly equivalent to that calculated for Hg2, and a dissociation energy of 6 kJ/mol, roughly 4 times of that of Rn2.[1] But most strikingly, it was calculated to have a bond length shorter than in Rn2 by 0.16 Å, which would be indicative of a significant bonding interaction.[1] On the other hand, the compound UuoH+ exhibits a dissociation energy (in other words proton affinity of Uuo) that is smaller than that of RnH+.[1] 
+ The bonding between ununoctium and hydrogen in UuoH is predicted to be very limp and can be regarded as a pure van der Waals interaction rather than a true chemical bond.[5] On the other hand, with highly electronegative elements, ununoctium seems to form more stable compounds than for example copernicium or flerovium.[5] The stable oxidation states +2 and +4 have been predicted to exist in the fluorides UuoF2 and UuoF4.[55] This is a result of the same spin-orbit interactions that make ununoctium unusually reactive. For example, it was shown that the reaction of ununoctium with F2 to form the compound UuoF2 would release an energy of 106 kcal/mol of which about 46 kcal/mol come from these interactions.[5] For comparison, the spin-orbit interaction for the similar molecule RnF2 is about 10 kcal/mol out of a formation energy of 49 kcal/mol.[5] The same interaction stabilizes the tetrahedral Td configuration for UuoF4, as distinct from the square planar D4h one of XeF4 which RnF4 is also expected to have.[55] The Uuo–F bond will most probably be ionic rather than covalent, rendering the UuoFn compounds non-volatile.[6][56] UuoF2 is predicted to be partially ionic due to ununoctium's high electropositivity.[57] Unlike the other noble gases, ununoctium was predicted to be sufficiently electropositive[57] to form a Uuo–Cl bond with chlorine.[6] 
+ [edit] See also 
+ 
+ ^ The actual quote is "The reason for the apparent enhancement of chemical activity of element 118 relative to radon is the energetic destabilization and radial expansion of its occupied 7p3/2spinor shell."
+^ Nevertheless, quantum electrodynamic corrections have been shown to be quite significant in reducing this affinity by decreasing the binding in the anion Uuo− by 9%, thus confirming the importance of these corrections in superheavy elements. See Pyykkö.
+^ It is debatable if the name of the group "noble gases" will be changed if ununoctium is shown to be non-volatile.
+  
+ [edit] References 
+ 
+ ^ a b c d e f g h i j k l m n o p Nash, Clinton S. (2005). "Atomic and Molecular Properties of Elements 112, 114, and 118". Journal of Physical Chemistry A 109 (15): 3493–3500. doi:10.1021/jp050736o. PMID 16833687.
+^ a b c d Haire, Richard G. (2006). "Transactinides and the future elements". In Morss; Edelstein, Norman M.; Fuger, Jean. The Chemistry of the Actinide and Transactinide Elements (3rd ed.). Dordrecht, The Netherlands: Springer Science+Business Media. p. 1724. ISBN 1-4020-3555-1.
+^ a b "Moskowium". Apsidium. http://www.apsidium.com/elements/118.htm. Retrieved 2008-01-18.[dead link]
+^ a b c d Eichler, R.; Eichler, B., Thermochemical Properties of the Elements Rn, 112, 114, and 118, Paul Scherrer Institut, http://lch.web.psi.ch/files/anrep03/06.pdf, retrieved 2010-10-23
+^ a b c d e f Han, Young-Kyu; Bae, Cheolbeom; Son, Sang-Kil; Lee, Yoon Sup (2000). "Spin–orbit effects on the transactinide p-block element monohydrides MH (M=element 113–118)". Journal of Chemical Physics 112 (6): 2684. Bibcode 2000JChPh.112.2684H. doi:10.1063/1.480842.
+^ a b c d e Kaldor, Uzi; Wilson, Stephen (2003). Theoretical Chemistry and Physics of Heavy and Superheavy Elements. Springer. p. 105. ISBN 140201371X. http://books.google.com/books?id=0xcAM5BzS-wC&amp;printsec=frontcover&amp;dq=element+118+properties#PPA105,M1. Retrieved 2008-01-18.
+^ a b Seaborg, Glenn Theodore (1994). Modern Alchemy. World Scientific. p. 172. ISBN 9810214405. http://books.google.com/books?id=e53sNAOXrdMC&amp;printsec=frontcover#PPA172,M1. Retrieved 2008-01-18.
+^ Chemical Data. Ununoctium - Uuo, Royal Chemical Society
+^ a b "Ununoctium". WebElements Periodic Table. http://www.webelements.com/webelements/elements/text/Uuo/key.html. Retrieved 2007-12-09.
+^ a b c d e f Oganessian, Yu. Ts.; Utyonkov, V.K.; Lobanov, Yu.V.; Abdullin, F.Sh.; Polyakov, A.N.; Sagaidak, R.N.; Shirokovsky, I.V.; Tsyganov, Yu.S.; Voinov, Yu.S.; Gulbekian, G.G.; Bogomolov, S.L.; B. N. Gikal, A. N. Mezentsev, S. Iliev; Subbotin, V.G.; Sukhov, A.M.; Subotic, K; Zagrebaev, V.I.; Vostokin, G.K.; Itkis, M. G.; Moody, K.J; Patin, J.B.; Shaughnessy, D.A.; Stoyer, M.A.; Stoyer, N.J.; Wilk, P.A.; Kenneally, J.M.; Landrum, J.H.; Wild, J.H.; and Lougheed, R.W. (2006-10-09). "Synthesis of the isotopes of elements 118 and 116 in the 249Cf and 245Cm+48Ca fusion reactions". Physical Review C 74 (4): 044602. Bibcode 2006PhRvC..74d4602O. doi:10.1103/PhysRevC.74.044602. http://link.aps.org/abstract/PRC/v74/e044602. Retrieved 2008-01-18.
+^ Wieser, M.E. (2006). "Atomic weights of the elements 2005 (IUPAC Technical Report)". Pure Appl. Chem. 78 (11): 2051–2066. doi:10.1351/pac200678112051.
+^ "The Top 6 Physics Stories of 2006". Discover Magazine. 2007-01-07. http://discovermagazine.com/2007/jan/physics/article_view?b_start:int=1&amp;-C=. Retrieved 2008-01-18.
+^ a b Smolanczuk, R. (1999). "Production mechanism of superheavy nuclei in cold fusion reactions". Physical Review C 59 (5): 2634–2639. Bibcode 1999PhRvC..59.2634S. doi:10.1103/PhysRevC.59.2634.
+^ Ninov, Viktor; et al. (1999). "Observation of Superheavy Nuclei Produced in the Reaction of 86Kr with 208Pb". Physical Review Letters 83 (6): 1104–1107. Bibcode 1999PhRvL..83.1104N. doi:10.1103/PhysRevLett.83.1104.
+^ Service, R. F. (1999). "Berkeley Crew Bags Element 118". Science 284 (5421): 1751. doi:10.1126/science.284.5421.1751.
+^ Public Affairs Department (2001-07-21). "Results of element 118 experiment retracted". Berkeley Lab. http://enews.lbl.gov/Science-Articles/Archive/118-retraction.html. Retrieved 2008-01-18.
+^ Dalton, Rex (2002). "Misconduct: The stars who fell to Earth". Nature 420 (6917): 728–729. doi:10.1038/420728a. PMID 12490902.
+^ Element 118 disappears two years after it was discovered. Physicsworld.com. Retrieved on 2012-04-02.
+^ Oganessian, Yu. T. et al. (2002). "Results from the first 249Cf+48Ca experiment". JINR Communication (JINR, Dubna). http://www.jinr.ru/publish/Preprints/2002/287(D7-2002-287)e.pdf.
+^ Oganessian, Yu. T. et al. (2002). "Element 118: results from the first 249Cf + 48Ca experiment". Communication of the Joint Institute for Nuclear Research. http://web.archive.org/web/20110722060249/http://159.93.28.88/linkc/118/anno.html.
+^ "Livermore scientists team with Russia to discover element 118". Livermore press release. 2006-12-03. https://www.llnl.gov/news/newsreleases/2006/NR-06-10-03.html. Retrieved 2008-01-18.
+^ Oganessian, Yu. T. (2006). "Synthesis and decay properties of superheavy elements". Pure Appl. Chem. 78 (5): 889–904. doi:10.1351/pac200678050889.
+^ Sanderson, K. (2006). "Heaviest element made – again". Nature News (Nature). doi:10.1038/news061016-4.
+^ Schewe, P. and Stein, B. (2006-10-17). "Elements 116 and 118 Are Discovered". Physics News Update. American Institute of Physics. http://www.aip.org/pnu/2006/797.html. Retrieved 2008-01-18.
+^ Weiss, R. (2006-10-17). "Scientists Announce Creation of Atomic Element, the Heaviest Yet". Washington Post. http://www.washingtonpost.com/wp-dyn/content/article/2006/10/16/AR2006101601083.html. Retrieved 2008-01-18.
+^ Barber, Robert C.; Karol, Paul J.; Nakahara, Hiromichi; Vardaci, Emanuele; Vogt, Erich W. (2011). "Discovery of the elements with atomic numbers greater than or equal to 113 (IUPAC Technical Report)". Pure and Applied Chemistry: 1. doi:10.1351/PAC-REP-10-05-01.
+^ "Element 118 Detected, With Confidence". Chemical and Engineering news. 2006-10-17. http://pubs.acs.org/cen/news/84/i43/8443element118.html. Retrieved 2008-01-18. ""I would say we're very confident.""
+^ a b c d Chowdhury, Roy P.; Samanta, C.; Basu, D. N. (2006). "α decay half-lives of new superheavy elements". Phys. Rev. C 73: 014612. arXiv:nucl-th/0507054. Bibcode 2006PhRvC..73a4612C. doi:10.1103/PhysRevC.73.014612.
+^ Oganessian, Yu. T. et al. (2004). "Measurements of cross sections and decay properties of the isotopes of elements 112, 114, and 116 produced in the fusion reactions 233, 238U, 242Pu, and 248Cm+48Ca". Phys. Rev. C 70 (6): 064609. Bibcode 2004PhRvC..70f4609O. doi:10.1103/PhysRevC.70.064609.
+^ Samanta, C.; Chowdhury, R. P.; Basu, D.N. (2007). "Predictions of alpha decay half-lives of heavy and superheavy elements". Nucl. Phys. A 789: 142–154. arXiv:nucl-th/0703086. Bibcode 2007NuPhA.789..142S. doi:10.1016/j.nuclphysa.2007.04.001.
+^ "A New Block on the Periodic Table" (PDF). Lawrence Livermore National Laboratory. April 2007. https://www.llnl.gov/str/April07/pdfs/04_07.4.pdf. Retrieved 2008-01-18.
+^ a b Chowdhury, Roy P.; Samanta, C.; Basu, D. N. (2008). "Search for long lived heaviest nuclei beyond the valley of stability". Physical Reviews C 77 (4): 044603. arXiv:0802.3837. Bibcode 2008PhRvC..77d4603C. doi:10.1103/PhysRevC.77.044603.
+^ a b Chowdhury, R. P.; Samanta, C.; Basu, D.N. (2008). "Nuclear half-lives for α -radioactivity of elements with 100 ≤ Z ≤ 130". At. Data &amp; Nucl. Data Tables 94 (6): 781–806. arXiv:0802.4161. Bibcode 2008ADNDT..94..781C. doi:10.1016/j.adt.2008.01.003.
+^ a b Grosse, A. V. (1965). "Some physical and chemical properties of element 118 (Eka-Em) and element 86 (Em)". Journal of Inorganic and Nuclear Chemistry (Elsevier Science Ltd.) 27 (3): 509–19. doi:10.1016/0022-1902(65)80255-X.
+^ Chatt, J. (1979). "Recommendations for the Naming of Elements of Atomic Numbers Greater than 100". Pure Appl. Chem. 51 (2): 381–384. doi:10.1351/pac197951020381.
+^ "Discovery of New Elements Makes Front Page News". Berkeley Lab Research Review Summer 1999. 1999. http://lbl.gov/Science-Articles/Research-Review/Magazine/1999/departments/breaking_news.shtml. Retrieved 2008-01-18.
+^ "New chemical elements discovered in Russia`s Science City". 2007-02-12. http://news.rin.ru/eng/news/9886/9/6/. Retrieved 2008-02-09.
+^ Yemel'yanova, Asya (2006-12-17). "118-й элемент назовут по-русски (118th element will be named in Russian)" (in Russian). vesti.ru. http://www.vesti.ru/doc.html?id=113947. Retrieved 2008-01-18.
+^ "Российские физики предложат назвать 116 химический элемент московием (Russian Physicians Will Suggest to Name Element 116 Moscovium)" (in Russian). rian.ru. 2011. http://ria.ru/science/20110326/358081075.html. Retrieved 2011-05-08.
+^ "News: Start of the Name Approval Process for the Elements of Atomic Number 114 and 116". International Union of Pure and Applied Chemistry. http://www.iupac.org/news/news-detail/article/start-of-the-name-approval-process-for-the-elements-of-atomic-number-114-and-116.html. Retrieved 2 December 2011.
+^ Koppenol, W. H. (2002). "Naming of new elements (IUPAC Recommendations 2002)". Pure and Applied Chemistry 74 (5): 787. doi:10.1351/pac200274050787. http://media.iupac.org/publications/pac/2002/pdf/7405x0787.pdf.
+^ Marcillac, Pierre de; Noël Coron, Gérard Dambier, Jacques Leblanc, and Jean-Pierre Moalic (April 2003). "Experimental detection of α-particles from the radioactive decay of natural bismuth". Nature 422 (6934): 876–878. Bibcode 2003Natur.422..876D. doi:10.1038/nature01541. PMID 12712201.
+^ Kulik, Glenn D. (2002). Van Nostrand's scientific encyclopedia (9 ed.). Wiley-Interscience. ISBN 978-0-471-33230-5. OCLC 223349096.
+^ Oganessian, Yu. T. (2007). "Heaviest nuclei from 48Ca-induced reactions". Journal of Physics G: Nuclear and Particle Physics 34 (4): R165–R242. Bibcode 2007JPhG...34..165O. doi:10.1088/0954-3899/34/4/R01.
+^ "New Element Isolated Only Briefly". The Daily Californian. 2006-10-18. http://web.archive.org/web/20081008102331/http://www.dailycal.org/printable.php?id=21871. Retrieved 2008-01-18.[dead link]
+^ a b Royer, G.; Zbiri, K.; Bonilla, C. (2004). "Entrance channels and alpha decay half-lives of the heaviest elements". Nuclear Physics A 730 (3–4): 355–376. arXiv:nucl-th/0410048. Bibcode 2004NuPhA.730..355R. doi:10.1016/j.nuclphysa.2003.11.010.
+^ Duarte, S. B.; Tavares, O. A. P.; Gonçalves, M.; Rodríguez, O.; Guzmán, F.; Barbosa, T. N.; García, F.; Dimarco, A. (2004). "Half-life predictions for decay modes of superheavy nuclei". Journal of Physics G: Nuclear and Particle Physics 30 (10): 1487–1494. Bibcode 2004JPhG...30.1487D. doi:10.1088/0954-3899/30/10/014.
+^ Bader, Richard F.W. "An Introduction to the Electronic Structure of Atoms and Molecules". McMaster University. http://miranda.chemistry.mcmaster.ca/esam/. Retrieved 2008-01-18.
+^ "Ununoctium (Uuo) – Chemical properties, Health and Environmental effects". Lenntech. Archived from the original on January 16, 2008. http://web.archive.org/web/20080116172028/http://lenntech.com/Periodic-chart-elements/Uuo-en.htm. Retrieved 2008-01-18.
+^ Goidenko, Igor; Labzowsky, Leonti; Eliav, Ephraim; Kaldor, Uzi; Pyykko¨, Pekka (2003). "QED corrections to the binding energy of the eka-radon (Z=118) negative ion". Physical Review A 67 (2): 020102(R). Bibcode 2003PhRvA..67b0102G. doi:10.1103/PhysRevA.67.020102.
+^ Eliav, Ephraim; Kaldor, Uzi; Ishikawa, Y; Pyykkö, P (1996). "Element 118: The First Rare Gas with an Electron Affinity". Physical Review Letters 77 (27): 5350–5352. Bibcode 1996PhRvL..77.5350E. doi:10.1103/PhysRevLett.77.5350. PMID 10062781.
+^ Takahashi, N. (2002). "Boiling points of the superheavy elements 117 and 118". Journal of Radioanalytical and Nuclear Chemistry 251 (2): 299–301. doi:10.1023/A:1014880730282.
+^ Nash, Clinton S.; Bursten, Bruce E. (1999). "Spin-Orbit Effects, VSEPR Theory, and the Electronic Structures of Heavy and Superheavy Group IVA Hydrides and Group VIIIA Tetrafluorides. A Partial Role Reversal for Elements 114 and 118". Journal of Physical Chemistry A 1999 (3): 402–410. doi:10.1021/jp982735k.
+^ "Ununoctium: Binary Compounds". WebElements Periodic Table. http://webelements.com/webelements/elements/text/Uuo/comp.html. Retrieved 2008-01-18.
+^ a b Han, Young-Kyu; Lee, Yoon Sup (1999). "Structures of RgFn (Rg = Xe, Rn, and Element 118. n = 2, 4.) Calculated by Two-component Spin-Orbit Methods. A Spin-Orbit Induced Isomer of (118)F4". Journal of Physical Chemistry A 103 (8): 1104–1108. doi:10.1021/jp983665k.
+^ Pitzer, Kenneth S. (1975). "Fluorides of radon and element 118". Journal of the Chemical Society, ChemicalCommunications (18): 760–761. doi:10.1039/C3975000760b.
+^ a b Seaborg (ca. 2006). "transuranium element (chemical element)". Encyclopædia Britannica. http://www.britannica.com/EBchecked/topic/603220/transuranium-element. Retrieved 2010-03-16.
+  
+ [edit] External links 
+ Element 118: experiments on discovery, archive of discoverers' official web page
+Chemistry Blog: Independent analysis of 118 claim
+WebElements: Ununoctium
+It's Elemental: Ununoctium
+On the Claims for Discovery of Elements 110, 111, 112, 114, 116, and 118 (IUPAC Technical Report)
+"Element 118, Heaviest Ever, Reported for 1,000th of a Second", NYTimes.com.
+Eric Scerri, The Periodic Table, Its Story and Its Significance, Oxford University Press, New York, 2007.
+ 
+  

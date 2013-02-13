@@ -1,0 +1,150 @@
+  Barnard's Star
+Observation dataEpoch J2000.0      Equinox J2000.0
+Constellation
+Ophiuchus
+Pronunciation
+/ˈbɑrnərd/
+Right ascension
+17h 57m 48.49803s[1]
+Declination
++04° 41′ 36.2072″[1]
+Apparent magnitude (V)
+9.54[1]
+Characteristics
+Spectral type
+M4Ve[1]
+Apparent magnitude (B)
+~11.28[1]
+Apparent magnitude (V)
+~9.54[1]
+Apparent magnitude (R)
+~8.7[1]
+Apparent magnitude (I)
+~7.9[1]
+Apparent magnitude (J)
+~5.24[1]
+Apparent magnitude (H)
+~4.83[1]
+Apparent magnitude (K)
+~4.52[1]
+U−B color index
+1.28[2]
+B−V color index
+1.74[2]
+Variable type
+BY Draconis
+Astrometry
+Radial velocity (Rv)
+-110.6 ± 0.2[3] km/s
+Proper motion (μ)
+RA: -798.71[1] mas/yrDec.: 10337.77[1] mas/yr
+Parallax (π)
+545.4 ± 0.3[4]mas
+Distance
+5.980 ± 0.003 ly
+(1.834 ± 0.001 pc)
+Absolute magnitude (MV)
+13.22[2]
+Details
+Mass
+0.144[5]M☉
+Radius
+0.196 ± 0.008[6]R☉
+Luminosity (bolometric)
+0.0035[7]L☉
+Luminosity (visual, LV)
+0.0004[7]L☉
+Temperature
+3,134 ± 102[7]K
+Metallicity
+10-32% Sun[8]
+Rotation
+130.4 d[9]
+Age
+About 10[10]Gyr
+Other designations
+"Barnard's Runaway Star", "Greyhound of the Skies",[11]BD+04°3561a, GCTP 4098.00, Gl 140-024, Gliese 699, HIP 87937, LFT 1385, LHS 57, LTT 15309, Munich 15040, Proxima Ophiuchi,[12]V2500 Ophiuchi, Velox Barnardi,[13]Vyssotsky 799
+Database references
+SIMBAD
+data
+ARICNS
+data
+ Barnard's Star (pron.: /ˈbɑrnərd/), also known occasionally as Barnard's "Runaway" Star,[14] is a very low-mass red dwarf star about six light-years away from Earth in the constellation of Ophiuchus, the Snake-holder. Barnard's Star is the fourth-closest known individual star to the Sun, after the three components of the Alpha Centauri system. Despite its proximity, Barnard's Star, at a dim apparent magnitude of about nine, is not visible with the unaided eye; however, it is much brighter in the infrared than it is in visible light. The star is named for American astronomer E.E. Barnard. He was not the first to observe the star, but in 1916 he measured its proper motion as 10.3 arcseconds per year, which remains the largest-known proper motion of any star relative to the Sun.[15] 
+ Barnard's Star has been the subject of much study, and it has probably received more attention from astronomers than any other class M dwarf star due to its proximity and favorable location for observation near the celestial equator.[7] Historically, research on Barnard's Star has focused on measuring its stellar characteristics, its astrometry, and also refining the limits of possible extrasolar planets. Although Barnard's Star is an ancient star, some observations suggest that it still experiences star flare events. 
+ Barnard's Star has also been the subject of some controversy. For a decade, from the early 1960s to the early 1970s, Peter van de Kamp claimed that there was a gas giant planet (or planets) in orbit around it. While the presence of small terrestrial planets around the star remains a possibility, Van de Kamp's specific claims of large gas giant planets were refuted in the mid-1970s. 
+ Barnard's Star is also notable as the target for Project Daedalus, a study on the possibility of fast, unmanned travel to nearby star systems. 
+ [edit] Overview 
+ Barnard's Star is a red dwarf of the dim spectral type M4, and it is too faint to see without a telescope. Its apparent magnitude is 9.54.[1] This compares with a magnitude of −1.5 for Sirius – the brightest star in the night sky – and about 6.0 for the faintest visible objects with the naked eye (this magnitude scale is logarithmic, and so the magnitude of 9.54 is only about 1/27th of the brightness of the faintest star that can be seen with the naked eye under good viewing conditions). 
+ At seven to 12 billion years of age, Barnard's Star is considerably older than the Sun, and it might be among the oldest stars in the Milky Way galaxy.[10] Barnard's Star has lost a great deal of rotational energy, and the periodic slight changes in its brightness indicate that it rotates just once every 130 days (compared with just over 25 days for the Sun).[9] Given its age, Barnard's Star was long assumed to be quiescent in terms of stellar activity. However in 1998, astronomers observed an intense stellar flare, surprisingly showing that Barnard's Star is a flare star.[16] Barnard's Star has the variable star designation V2500 Ophiuchi. In 2003, Barnard's Star presented the first detectable change in the radial velocity of a star caused by its motion. Further variability in the radial velocity of Barnard's Star was attributed to its stellar activity.[17] 
+ The proper motion of Barnard's Star corresponds to a relative lateral speed ("sideways" relative to our line of sight to the Sun) of 90 km/s. The 10.3 seconds of arc it travels annually amounts to a quarter of a degree in a human lifetime, roughly half the angular diameter of the full Moon.[18] 
+ The radial velocity of Barnard's Star towards the Sun can be measured by its blue shift. Two measurements are given in catalogues: 106.8 km/s in SIMBAD, which refers to a 1967 compilation of older measurements, and 110.8 km/s in ARICNS and similar values in all modern astronomical references. These measurements, combined with proper motion, suggest a true velocity relative to the Sun of 139.7 and 142.7 km/s, respectively.[19] Barnard's Star will make its closest approach to the Sun around AD 9,800, when it approaches to within about 3.75 light-years.[5] However, at that time, Barnard's Star will not be the nearest star, since Proxima Centauri will have moved even closer to the Sun.[20] Barnard's Star will still be too dim to be seen with the naked eye at the time of its closest approach, since its apparent magnitude will be about 8.5 then. After that it will gradually recede from the Sun. 
+ Barnard's Star has approximately 14% of a solar mass,[5] and it has a radius 15% to 20% of that of the Sun.[21] In 2003, its radius was estimated as 0.20±0.008 of the solar radius, at the high end of the ranges that were typically calculated in the past, indicating that previous estimates of the radius of Barnard's Star probably underestimated the actual value.[7] Thus, although Barnard's Star has roughly 150 times the mass of Jupiter, its radius is only 1.5 to 2.0 times larger, reflecting the tendency of objects in the brown dwarf range to be about the same size. Its effective temperature is 3,134(±102) kelvin, and it has a visual luminosity just 4/10,000ths of solar luminosity, corresponding to a bolometric luminosity of 34.6/10,000ths.[7] Barnard's Star is so faint that if it were at the same distance from Earth as the Sun is, it would appear only 100 times brighter than a full moon, comparable to the brightness of the Sun at 80 Astronomical Units.[22] 
+ In a broad survey of the metallicity of M-class dwarf stars, Barnard's Star's was placed between −0.5 and −1.0 on the metallicity scale, which is roughly 10 to 32% of the value for the Sun.[8] Metallicity, the proportion of stellar mass made up of elements heavier than helium, helps classify stars relative to the galactic population. Barnard's Star seems to be typical of the old, red dwarf population II stars, yet these are also generally metal-poor halo stars. While sub-solar, Barnard's Star's metallicity is higher than a halo star and is in keeping with the low end of the metal-rich disk star range; this, plus its high space motion, have led to the designation "Intermediate Population II star", between a halo and disk star.[8][17] 
+ [edit] Claims of a planetary system 
+ For a decade from 1963 to about 1973, a substantial number of astronomers accepted a claim by Peter van de Kamp that he had detected, by using astrometry, a perturbation in the proper motion of Barnard's Star consistent with its having one or more planets comparable in mass with Jupiter. Van de Kamp had been observing the star from 1938, attempting, with colleagues at the Swarthmore College observatory, to find minuscule variations of one micrometre in its position on photographic plates consistent with orbital perturbations (wobbles) in the star that would indicate a planetary companion; this involved as many as ten people averaging their results in looking at plates, to avoid systemic, individual errors.[23] Van de Kamp's initial suggestion was a planet having about 1.6 the Jovian mass at a distance of 4.4 AU in a slightly eccentric orbit,[24] and these measurements were apparently refined in a 1969 paper.[25] Later that year, Van de Kamp suggested that there were two planets of 1.1 and 0.8 Jovian masses.[26] 
+ Other astronomers subsequently repeated Van de Kamp's measurements, and two important papers in 1973 undermined the claim of a planet or planets. George Gatewood and Heinrich Eichhorn, at a different observatory and using newer plate measuring techniques, failed to verify the planetary companion.[27] Another paper published by John L. Hershey four months earlier, also using the Swarthmore observatory, found that changes in the astrometric field of various stars correlated to the timing of adjustments and modifications that had been carried out on the refractor telescope's objective lens;[28] the planetary "discovery" was an artifact of maintenance and upgrade work. The affair has been discussed as part of a broader scientific review.[29] 
+ Van de Kamp never acknowledged any error and published a further confirmation of two planets' existence as late as 1982;[30] he died in 1995. Wulff Heintz, Van de Kamp's successor at Swarthmore and an expert on double stars, questioned his findings and began publishing criticisms from 1976 onwards. The two men were reported to have become estranged from each other because of this.[31] 
+ [edit] Refining planetary boundaries 
+ While not completely ruling out the possibility of planets, null results for planetary companions continued throughout the 1980s and 1990s, the latest based on interferometric work with the Hubble Space Telescope in 1999.[32] By refining the values of a star's motion, the mass and orbital boundaries for possible planets are tightened: in this way astronomers are often able to describe what types of planets cannot orbit a given star. 
+ M dwarfs such as Barnard's Star are more easily studied than larger stars in this regard because their lower masses render perturbations more obvious.[33] Gatewood was thus able to show in 1995 that planets with 10 times the mass of Jupiter (the lower limit for brown dwarfs) were impossible around Barnard's Star,[29] in a paper which helped refine the negative certainty regarding planetary objects in general.[34] In 1999, work with the Hubble Space Telescope further excluded planetary companions of 0.8 times the mass of Jupiter with an orbital period of less than 1,000 days (Jupiter's orbital period is 4,332 days),[32] while Kuerster determined in 2003 that within the habitable zone around Barnard's Star, planets are not possible with an "M sin i" value[35] greater than 7.5 times the mass of the Earth, or with a mass greater than 3.1 times the mass of Neptune (much lower than van de Kamp's smallest suggested value).[17] 
+ Even though this research has greatly restricted the possible properties of planets around Barnard's Star, it has not ruled them out completely; terrestrial planets would be difficult to detect. NASA's Space Interferometry Mission, which was to begin searching for extrasolar Earth-like planets, was reported to have chosen Barnard's Star as an early search target.[22] However, this mission was shut down in 2010.[36]ESA's similar Darwin interferometry mission had the same goal, but was stripped of funding in 2007.[37] 
+ [edit] Project Daedalus 
+ Excepting the planet controversy, the best known study of Barnard's Star was part of Project Daedalus. Undertaken between 1973 and 1978, it suggested that rapid, unmanned travel to another star system is possible with existing or near-future technology.[38] Barnard's Star was chosen as a target, partly because it was believed to have planets.[39] 
+ The theoretical model suggested that a nuclear pulse rocket employing nuclear fusion (specifically, electron bombardment of deuterium and helium-3) and accelerating for four years could achieve a velocity of 12% of the speed of light. The star could then be reached in 50 years, within a human lifetime.[39] Along with detailed investigation of the star and any companions, the interstellar medium would be examined and baseline astrometric readings performed.[38] 
+ The initial Project Daedalus model sparked further theoretical research. In 1980, Robert Freitas suggested a more ambitious plan: a self-replicating spacecraft intended to search for and make contact with extraterrestrial life.[40] Built and launched in Jovian orbit, it would reach Barnard's Star in 47 years under parameters similar to those of the original Project Daedalus. Once at the star, it would begin automated self-replication, constructing a factory, initially to manufacture exploratory probes and eventually to create a copy of the original spacecraft after 1,000 years.[40] 
+ [edit] The flare in 1998 
+ The observation of a stellar flare on Barnard's Star has added another element of interest to its study. Noted by William Cochran, University of Texas at Austin, based on changes in the spectral emissions on July 17, 1998 (during an unrelated search for planetary "wobbles"), it was four more years before the flare was fully analyzed. At that point Diane Paulson et al., now of Goddard Space Flight Center, suggested that the flare's temperature was 8000 K, more than twice the normal temperature of the star, although simply analyzing the spectra cannot precisely determine the flare's total output.[41] Given the essentially random nature of flares, she noted "the star would be fantastic for amateurs to observe".[16] 
+ The flare was surprising because intense stellar activity is not expected around stars of such age. Flares are not completely understood, but are believed to be caused by strong magnetic fields which suppress plasma convection and lead to sudden outbursts: strong magnetic fields occur in rapidly rotating stars, while old stars tend to rotate slowly. An event of such magnitude around Barnard's Star is thus presumed to be a rarity.[41] Research on the star's periodicity, or changes in stellar activity over a given timescale, also suggest it ought to be quiescent; 1998 research showed weak evidence for periodic variation in Barnard's Star's brightness, noting only one possible starspot over 130 days.[9] 
+ Stellar activity of this sort has created interest in using Barnard's Star as a proxy to understand similar stars. Photometric studies of its X-ray and UV emissions are hoped to shed light on the large population of old M dwarfs in the galaxy. Such research has astrobiological implications: given that the habitable zones of M dwarfs are close to the star, any planets would be strongly influenced by solar flares, winds, and plasma ejection events.[10] 
+ [edit] The star's neighborhood 
+ Barnard's Star shares much the same neighborhood as the Sun. The neighbors of Barnard's Star are generally of red dwarf size, the smallest and most common star type. Its closest neighbor is currently the red dwarf Ross 154, at 1.66 parsecs or 5.41 light years distance. The Sun and Alpha Centauri are, respectively, the next closest systems.[22] From Barnard's Star, the Sun would appear on the diametrically opposite side of the sky at coordinates RA=5h 57m 48.5s, Dec=−04° 41′ 36″, in the eastern part of the constellation Monoceros. The absolute magnitude of the Sun is 4.83 and at a distance of 1.834 parsecs, it would be an impressively bright first-magnitude star, like Pollux is from the Earth.[42] 
+ [edit] See also 
+ [edit] Notes and references 
+ 
+ ^ a b c d e f g h i j k l m n "SIMBAD Query Result: V* V2500 Oph -- Variable of BY Dra type". SIMBAD. Centre de Données astronomiques de Strasbourg. http://simbad.u-strasbg.fr/simbad/sim-id?Ident=V*+V2500+Oph. Retrieved October 16, 2007.
+^ a b c "ARICNS 4C01453". ARI Database for Nearby Stars. Astronomisches Rechen-Institut Heidelberg. March 4, 1998. http://www.ari.uni-heidelberg.de/datenbanken/aricns/cnspages/4c01453.htm. Retrieved October 17, 2007.
+^ Bobylev, Vadim V. (March 2010). "Searching for Stars Closely Encountering with the Solar System". Astronomy Letters 36 (3): 220–226. arXiv:1003.2160. Bibcode 2010AstL...36..220B. doi:10.1134/S1063773710030060.
+^ This parallax measurement and the subsequent distance calculation are taken from Benedict et al. (1999). SIMBAD suggests a parallax of 549.3 mas and thus a slightly lesser distance from the Sun of 5.94 ly.
+^ a b c Bobylev, V. V. (March 2010), "Searching for stars closely encountering with the solar system", Astronomy Letters 36 (3): 220–226, arXiv:1003.2160, Bibcode 2010AstL...36..220B, doi:10.1134/S1063773710030060
+^ Demory, B.-O. et al. (October 2009), "Mass-radius relation of low and very low-mass stars revisited with the VLTI", Astronomy and Astrophysics 505 (1): 205–215, arXiv:0906.0602, Bibcode 2009A&amp;A...505..205D, doi:10.1051/0004-6361/200911976
+^ a b c d e f Dawson, P. C.; De Robertis, M. M. (2004). "Barnard's Star and the M Dwarf Temperature Scale". The Astronomical Journal 127 (5): 2909. doi:10.1086/383289. http://iopscience.iop.org/1538-3881/127/5/2909/203416.text.html. edit
+^ a b c Gizis, John E. (February 1997). "M-Subdwarfs: Spectroscopic Classification and the Metallicity Scale". The Astronomical Journal 113 (2): 820. arXiv:astro-ph/9611222. Bibcode 1997AJ....113..806G. doi:10.1086/118302.
+^ a b c Benedict, G. Fritz; McArthur, Barbara; Nelan, E.; Story, D.; Whipple, A. L.; Shelus, P. J.; Jefferys, W. H.; Hemenway, P. D. et al. (1998). "Photometry of Proxima Centauri and Barnard's star using Hubble Space Telescope fine guidance senso 3". The Astronomical Journal 116 (1): 429. arXiv:astro-ph/9806276. Bibcode 1998AJ....116..429B. doi:10.1086/300420.
+^ a b c Riedel, A. R.; Guinan, E. F.; DeWarf, L. E.; Engle, S. G.; McCook, G. P. (May 2005). "Barnard's Star as a Proxy for Old Disk dM Stars: Magnetic Activity, Light Variations, XUV Irradiances, and Planetary Habitable Zones". Bulletin of the American Astronomical Society 37: 442. Bibcode 2005AAS...206.0904R.
+^ "Barnard's Star and its Perturbations". Spaceflight (British Interplanetary Society) 11–12: 170. 1969.
+^ Perepelkin, E. (April 1927). "Einweißer Stern mit bedeutender absoluter Größe" (in German). Astronomische Nachrichten 230: 77. Bibcode 1927AN....230...77P.
+^ Rukl, Antonin (1999). Constellation Guidebook. Sterling Publishing. p. 158. ISBN 0-8069-3979-6.
+^ The name was attested just a year after its discovery: "Parallax of Barnard's "Runaway" Star". Nature 99 (2484): 293–293. June 1917. Bibcode 1917Natur..99..293.. doi:10.1038/099293a0.
+^ Barnard, E. E. (1916). "A small star with large proper motion". Astronomical Journal 29 (695): 181. Bibcode 1916AJ.....29..181B. doi:10.1086/104156.
+^ a b Croswell, Ken (November 2005). "A Flare for Barnard's Star". Astronomy Magazine. Kalmbach Publishing Co. http://www.astronomy.com/asy/default.aspx?c=a&amp;id=3658. Retrieved 2006-08-10.
+^ a b c Kürster, M.; Endl, M.; Rouesnel, F.; Els, S.; Kaufer, A.; Brillant, S.; Hatzes, A. P.; Saar, S. H. et al. (2003). "The low-level radial velocity variability in Barnard's Star". Astronomy and Astrophysics 403 (6): 1077. arXiv:astro-ph/0303528. Bibcode 2003A&amp;A...403.1077K. doi:10.1051/0004-6361:20030396.
+^ Kaler, James B. (November 2005). "Barnard's Star (V2500 Ophiuchi)". Stars. James B. Kaler. Archived from the original on 5 September 2006. http://www.astro.uiuc.edu/~kaler/sow/barnard.html. Retrieved September 7, 2006.
+^ tv = (902 + 106.82)½ = 139.7, or tv = (902 + 110.82)½ = 142.7. Stars with a large proper motion naturally have large true velocities relative to the Sun, but proper motion is also a function of the distance from the Sun. While Barnard's Star has the largest proper motion, the largest known true velocity of another star in the Milky Way belongs to Wolf 424 at 555 km/s.
+^ Matthews, R. A. J.; Weissman, P. R.; Preston, R. A.; Jones, D. L.; Lestrade, J.-F.; Latham, D. W.; Stefanik, R. P.; Paredes, J. M. (1994). "The Close Approach of Stars in the Solar Neighborhood". Quarterly Journal of the Royal Astronomical Society 35: 1–9. Bibcode 1994QJRAS..35....1M.
+^ Ochsenbein, F. (March 1982). "A list of stars with large expected angular diameters". Astronomy and Astrophysics Supplement Series 47: 523–531. Bibcode 1982A&amp;AS...47..523O.
+^ a b c "Barnard's Star". Sol Station. Archived from the original on 20 August 2006. http://www.solstation.com/stars/barnards.htm. Retrieved August 10, 2006.
+^ "The Barnard's Star Blunder". Astrobiology Magazine. July 2005. http://www.astrobio.net/news/article1635.html. Retrieved August 9, 2006.[dead link]
+^ Van de Kamp, Peter. (1963). "Astrometric study of Barnard's star from plates taken with the 24-inch Sproul refractor". Astronomical Journal 68 (7): 515. Bibcode 1963AJ.....68..515V. doi:10.1086/109001. Archived
+^ Van de Kamp, Peter. (1969). "Parallax, proper motion acceleration, and orbital motion of Barnard's Star". Astronomical Journal 74 (2): 238. Bibcode 1969AJ.....74..238V. doi:10.1086/110799.
+^ Van de Kamp, Peter. (1969). "Alternate dynamical analysis of Barnard's star". Astronomical Journal 74 (8): 757. Bibcode 1969AJ.....74..757V. doi:10.1086/110852.
+^ Gatewood, George, and Eichhorn, H. (1973). "An unsuccessful search for a planetary companion of Barnard's star (BD +4 3561)". Astronomical Journal 78 (10): 769. Bibcode 1973AJ.....78..769G. doi:10.1086/111480.
+^ John L. Hershey (1973). "Astrometric analysis of the field of AC +65 6955 from plates taken with the Sproul 24-inch refractor". Astronomical Journal 78 (6): 421. Bibcode 1973AJ.....78..421H. doi:10.1086/111436.
+^ a b Bell, George H. (April 2001). "The Search for the Extrasolar Planets: A Brief History of the Search, the Findings and the Future Implications, Section 2". Arizona State University. Archived from the original on 13 August 2006. http://www.public.asu.edu/~sciref/exoplnt.htm#section2. Retrieved August 10, 2006. Full description of the Van de Kamp planet controversy. Archived
+^ Van de Kamp, Peter. (1982). "The planetary system of Barnard's star". Vistas in Astronomy 26 (2): 141. Bibcode 1982VA.....26..141V. doi:10.1016/0083-6656(82)90004-6.
+^ Kent, Bill (2001). "Barnard's Wobble". Bulletin. Swarthmore College. http://media.swarthmore.edu/bulletin/wp-content/archived_issues_pdf/Bulletin_2001_03.pdf. Retrieved June 2, 2010. Archived
+^ a b Benedict; McArthur, Barbara; Chappell, D. W.; Nelan, E.; Jefferys, W. H.; Van Altena, W.; Lee, J.; Cornell, D. et al. (August 1999). "Interferometric Astrometry of Proxima Centauri and Barnard's Star Using Hubble Space Telescope Fine Guidance Sensor 3: Detection Limits for sub-Stellar Companions". The Astronomical Journal 118 (2): 1086–1100. arXiv:astro-ph/9905318. Bibcode 1999astro.ph..5318B. doi:10.1086/300975. http://www.iop.org/EJ/article/1538-3881/118/2/1086/990089.text.html.
+^ Michael Endl, William D. Cochran, Robert G. Tull, and Phillip J. MacQueen. (2003). "A Dedicated M Dwarf Planet Search Using the Hobby-Eberly Telescope". The Astronomical Journal 126 (12): 3099. arXiv:astro-ph/0308477. Bibcode 2003AJ....126.3099E. doi:10.1086/379137. http://www.journals.uchicago.edu/doi/full/10.1086/379137. Retrieved August 18, 2006.
+^ George D. Gatewood (1995). "A study of the astrometric motion of Barnard's star". Journal Astrophysics and Space Science 223 (1): 91–98. Bibcode 1995Ap&amp;SS.223...91G. doi:10.1007/BF00989158. http://www.springerlink.com/content/q722p32q2h28kp50/.
+^ "M sin i" means the mass of the planet times the sine of the angle of inclination of its orbit, and hence provides the minimum mass for the planet.
+^ Marr, James (8 November 2010). "Updates from the Project Manager". NASA. http://planetquest.jpl.nasa.gov/SIM/projectNews/projectManagerUpdates/. Retrieved January 5, 2011.[dead link]
+^ "Darwin factsheet: Finding Earth-like planets". European Space Agency. October 23, 2009. http://www.esa.int/esaSC/SEMZ0E1A6BD_index_0.html. Retrieved September 12, 2011.
+^ a b Bond, A., and Martin, A.R. (1976). "Project Daedalus — The mission profile". Journal of the British Interplanetary Society 29 (2): 101. Bibcode 1976JBIS...29..101B. http://md1.csa.com/partners/viewrecord.php?requester=gs&amp;collection=TRD&amp;recid=A7618970AH&amp;q=project+daedalus&amp;uid=788304424&amp;setcookie=yes. Retrieved August 15, 2006.
+^ a b Darling, David (July 2005). "Daedalus, Project". The Encyclopedia of Astrobiology, Astronomy, and Spaceflight. Archived from the original on 31 August 2006. http://www.daviddarling.info/encyclopedia/D/Daedalus.html. Retrieved August 10, 2006.
+^ a b Freitas, Robert A., Jr. (July 1980). "A Self-Reproducing Interstellar Probe". Journal of the British Interplanetary Society 33: 251–264. Bibcode 1980JBIS...33..251F. http://www.rfreitas.com/Astro/ReproJBISJuly1980.htm. Retrieved October 1, 2008.
+^ a b Paulson, Diane B.; Allred, Joel C.; Anderson, Ryan B.; Hawley, Suzanne L.; Cochran, William D.; Yelda, Sylvana (2006). "Optical Spectroscopy of a Flare on Barnard's Star". Publications of the Astronomical Society of the Pacific 118 (1): 227. arXiv:astro-ph/0511281. Bibcode 2006PASP..118..227P. doi:10.1086/499497.
+^ The Sun’s apparent magnitude from Barnard’s Star, assuming negligible extinction: .
+  
+ [edit] External links 
+ Coordinates: 17h 57m 48.5s, +04° 41′ 36″ 
+In left column are stellar classes of primary members of star systems. Bold are systems containing at least one component with absolute magnitude of +8.5 or brighter. Italic are systems without known trigonometric parallax.
+  

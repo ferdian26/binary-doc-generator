@@ -1,0 +1,257 @@
+  
+Hydrochloric acid
+Other names
+Muriatic acid[1]
+Spirits of salt[2]
+Identifiers
+CAS number
+7647-01-0
+ChemSpider
+10633809
+UNII
+QTT17582CB Y
+EC number
+231-791-2
+ChEMBL
+CHEMBL1231821
+ATC code
+A09AB03,B05XA13
+Properties
+Appearance
+Colourless, transparent liquid
+Hazards
+MSDS
+External MSDS
+EU Index
+017-002-01-X
+R-phrases
+R34, R37
+S-phrases
+(S1/2), S26, S45
+Related compounds
+Related compounds
+Supplementary data page
+Structure and
+properties
+n, εr, etc.
+Thermodynamic
+data
+Phase behaviour
+Solid, liquid, gas
+Spectral data
+UV, IR, NMR, MS
+ Y (verify) (what is: Y/N?)
+Except where noted otherwise, data are given for materials in their standard state (at 25 °C, 100 kPa)
+Infobox references
+ Hydrochloric acid is a clear, colourless solution of hydrogen chloride (HCl) in water. It is a highly corrosive, strong mineral acid with many industrial uses. Hydrochloric acid is found naturally in gastric acid. 
+ Historically called muriatic acid, and spirits of salt, hydrochloric acid was produced from vitriol (sulfuric acid) and common salt. It first appeared during the Renaissance, and then it was used by chemists such as Glauber, Priestley and Davy in their scientific research. 
+ With major production starting in the Industrial Revolution, hydrochloric acid is used in the chemical industry as a chemical reagent in the large-scale production of vinyl chloride for PVC plastic, and MDI/TDI for polyurethane. It has numerous smaller-scale applications, including household cleaning, production of gelatin and other food additives, descaling, and leather processing. About 20 million tonnes of hydrochloric acid are produced annually. 
+ [edit] Etymology 
+ Hydrochloric acid was known to European alchemists as spirits of salt or acidum salis (salt acid). Both names are still used, especially in non-English languages, such as German: Salzsäure and Dutch: Zoutzuur. Gaseous HCl was called marine acid air. The old (pre-systematic) name muriatic acid has the same origin (muriatic means "pertaining to brine or salt"), and this name is still sometimes used.[1][3] 
+ [edit] History 
+ Aqua regia, a mixture consisting of hydrochloric acid and nitric acid, prepared by dissolving sal ammoniac in nitric acid, was described in the works of Pseudo-Geber, the 13th-century European alchemist.[4][5][6][7][8] Other references suggest that the first mention of aqua regia is in Byzantine manuscripts dating to the end of the thirteenth century.[9] The earliest suggested discovery of hydrochloric acid is attributed to the alchemist Jābir ibn Hayyān (c. AD 800).[10][11][12][13] 
+ Free hydrochloric acid was first formally described in the 16th century by Libavius, who prepared it by heating salt in clay crucibles.[14] Other authors claim that pure hydrochloric acid was first discovered by the German benedictine monk Basil Valentine in the 15th century,[15] by heating common salt and green vitriol,[16] whereas others claim that there is no clear reference to the preparation of pure hydrochloric acid until the end of the sixteenth century.[9] 
+ In the seventeenth century, Johann Rudolf Glauber from Karlstadt am Main, Germany used sodium chloride salt and sulfuric acid for the preparation of sodium sulfate in the Mannheim process, releasing hydrogen chloride gas. Joseph Priestley of Leeds, England prepared pure hydrogen chloride in 1772, and in 1818 Humphry Davy of Penzance, England proved that the chemical composition included hydrogen and chlorine.[6] 
+ During the Industrial Revolution in Europe, demand for alkaline substances increased. A new industrial process by Nicolas Leblanc (Issoundun, France) enabled cheap large-scale production of sodium carbonate (soda ash). In this Leblanc process, common salt is converted to soda ash, using sulfuric acid, limestone, and coal, releasing hydrogen chloride as a by-product. Until the British Alkali Act 1863 and similar legislation in other countries, the excess HCl was vented to air. After the passage of the act, soda ash producers were obliged to absorb the waste gas in water, producing hydrochloric acid on an industrial scale.[6][17] 
+ In the twentieth century, the Leblanc process was effectively replaced by the Solvay process without a hydrochloric acid by-product. Since hydrochloric acid was already fully settled as an important chemical in numerous applications, the commercial interest initiated other production methods, some of which are still used today. After the year 2000, hydrochloric acid is mostly made by absorbing by-product hydrogen chloride from industrial organic compounds production.[6][17][18] 
+ Since 1988, hydrochloric acid has been listed as a Table II precursor under the 1988 United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances because of its use in the production of heroin, cocaine, and methamphetamine.[19] 
+ [edit] Chemical properties and reactions 
+ Hydrogen chloride (HCl) is a monoprotic acid, which means it can dissociate (i.e., ionize) only once to give up one H+ ion (a single proton). In aqueous hydrochloric acid, the H+ joins a water molecule to form a hydronium ion, H3O+:[20][21] 
+ HCl + H2O → H3O+ + Cl−
+  The other ion formed is Cl−, the chloride ion. Hydrochloric acid can therefore be used to prepare salts called chlorides, such as sodium chloride. Hydrochloric acid is a strong acid, since it is essentially completely dissociated in water.[20][21] 
+ Monoprotic acids have one acid dissociation constant, Ka, which indicates the level of dissociation in water. For a strong acid like HCl, the Ka is large. Theoretical attempts to assign a Ka to HCl have been made.[22] When chloride salts such as NaCl are added to aqueous HCl they have practically no effect on pH, indicating that Cl− is an exceedingly weak conjugate base and that HCl is fully dissociated in aqueous solution. For intermediate to strong solutions of hydrochloric acid, the assumption that H+molarity (a unit of concentration) equals HCl molarity is excellent, agreeing to four significant digits.[20][21] 
+ Of the six common strong mineral acids in chemistry, hydrochloric acid is the monoprotic acid least likely to undergo an interfering oxidation-reduction reaction. It is one of the least hazardous strong acids to handle; despite its acidity, it consists of the non-reactive and non-toxic chloride ion. Intermediate-strength hydrochloric acid solutions are quite stable upon storage, maintaining their concentrations over time. These attributes, plus the fact that it is available as a pure reagent, make hydrochloric acid an excellent acidifying reagent. 
+ Hydrochloric acid is the preferred acid in titration for determining the amount of bases. Strong acid titrants give more precise results due to a more distinct endpoint. Azeotropic or "constant-boiling" hydrochloric acid (roughly 20.2%) can be used as a primary standard in quantitative analysis, although its exact concentration depends on the atmospheric pressure when it is prepared.[23] 
+ Hydrochloric acid is frequently used in chemical analysis to prepare ("digest") samples for analysis. Concentrated hydrochloric acid dissolves many metals and forms oxidized metal chlorides and hydrogen gas, and it reacts with basic compounds such as calcium carbonate or copper(II) oxide, forming the dissolved chlorides that can be analyzed.[20][21] 
+ [edit] Physical properties 
+Concentration
+Density
+Molarity
+pH
+Viscosity
+Specific
+heat
+Vapour
+pressure
+Boiling
+point
+Melting
+point
+kg HCl/kg 
+kg HCl/m3
+Baumé
+kg/L
+mol/dm3
+mPa·s
+kJ/(kg·K)
+kPa
+°C
+°C
+10%
+104.80
+6.6
+1.048
+2.87
+−0.5
+1.16
+3.47
+1.95
+103
+−18
+20%
+219.60
+13
+1.098
+6.02
+−0.8
+1.37
+2.99
+1.40
+108
+−59
+30%
+344.70
+19
+1.149
+9.45
+−1.0
+1.70
+2.60
+2.13
+90
+−52
+32%
+370.88
+20
+1.159
+10.17
+−1.0
+1.80
+2.55
+3.73
+84
+−43
+34%
+397.46
+21
+1.169
+10.90
+−1.0
+1.90
+2.50
+7.24
+71
+−36
+36%
+424.44
+22
+1.179
+11.64
+−1.1
+1.99
+2.46
+14.5
+61
+−30
+38%
+451.82
+23
+1.189
+12.39
+−1.1
+2.10
+2.43
+28.3
+48
+−26
+The reference temperature and pressure for the above table are 20 °C and 1 atmosphere (101.325 kPa).
+Vapour pressure values are taken from the International Critical Tables, and refer to the total vapour pressure of the solution.
+ Physical properties of hydrochloric acid, such as boiling and melting points, density, and pH, depend on the concentration or molarity of HCl in the aqueous solution. They range from those of water at very low concentrations approaching 0% HCl to values for fuming hydrochloric acid at over 40% HCl.[20][21][26] 
+ Hydrochloric acid as the binary (two-component) mixture of HCl and H2O has a constant-boiling azeotrope at 20.2% HCl and 108.6 °C (227 °F). There are four constant-crystallization eutectic points for hydrochloric acid, between the crystal form of HCl·H2O (68% HCl), HCl·2H2O (51% HCl), HCl·3H2O (41% HCl), HCl·6H2O (25% HCl), and ice (0% HCl). There is also a metastable eutectic point at 24.8% between ice and the HCl·3H2O crystallization.[26] 
+ [edit] Production 
+ Hydrochloric acid is prepared by dissolving hydrogen chloride in water. Hydrogen chloride can be generated in many ways, and thus several precursors to hydrochloric acid exist. The large-scale production of hydrochloric acid is almost always integrated with the industrial scale production of other chemicals. 
+ [edit] Industrial market 
+ Hydrochloric acid is produced in solutions up to 38% HCl (concentrated grade). Higher concentrations up to just over 40% are chemically possible, but the evaporation rate is then so high that storage and handling need extra precautions, such as pressure and low temperature. Bulk industrial-grade is therefore 30% to 34%, optimized for effective transport and limited product loss by HCl vapors. Solutions for household purposes in the US, mostly cleaning, are typically 10% to 12%, with strong recommendations to dilute before use. In the United Kingdom, where it is sold as "Spirits of Salt" for domestic cleaning, the potency is the same as the US industrial grade.[6] 
+ Major producers worldwide include Dow Chemical at 2 million metric tons annually (2 Mt/year), calculated as HCl gas, and FMC, Georgia Gulf Corporation, Tosoh Corporation, Akzo Nobel, and Tessenderlo at 0.5 to 1.5 Mt/year each. Total world production, for comparison purposes expressed as HCl, is estimated at 20 Mt/year, with 3 Mt/year from direct synthesis, and the rest as secondary product from organic and similar syntheses. By far, most hydrochloric acid is consumed captively by the producer. The open world market size is estimated at 5 Mt/year.[6] 
+ [edit] Applications 
+ Hydrochloric acid is a strong inorganic acid that is used in many industrial processes. The application often determines the required product quality.[6] 
+ [edit] Pickling of steel 
+ One of the most important applications of hydrochloric acid is in the pickling of steel, to remove rust or iron oxide scale from iron or steel before subsequent processing, such as extrusion, rolling, galvanizing, and other techniques.[6][18] Technical quality HCl at typically 18% concentration is the most commonly used pickling agent for the pickling of carbon steel grades. 
+ Fe2O3 + Fe + 6 HCl → 3 FeCl2 + 3 H2O
+  The spent acid has long been re-used as iron(II) chloride (also known as ferrous chloride) solutions, but high heavy-metal levels in the pickling liquor have decreased this practice. 
+ The steel pickling industry has developed hydrochloric acid regeneration processes, such as the spray roaster or the fluidized bed HCl regeneration process, which allow the recovery of HCl from spent pickling liquor. The most common regeneration process is the pyrohydrolysis process, applying the following formula:[6] 
+ 4 FeCl2 + 4 H2O + O2 → 8 HCl+ 2 Fe2O3
+  By recuperation of the spent acid, a closed acid loop is established.[18] The iron(III) oxide by-product of the regeneration process is valuable, used in a variety of secondary industries.[6] 
+ [edit] Production of organic compounds 
+ Another major use of hydrochloric acid is in the production of organic compounds, such as vinyl chloride and dichloroethane for PVC. This is often captive use, consuming locally produced hydrochloric acid that never actually reaches the open market. Other organic compounds produced with hydrochloric acid include bisphenol A for polycarbonate, activated carbon, and ascorbic acid, as well as numerous pharmaceutical products.[18] 
+ 2 CH2=CH2 + 4 HCl + O2 → 2 ClCH2CH2Cl + 2 H2O (dichloroethane by oxychlorination)
+wood + HCl + heat → activated carbon (chemical activation)
+ [edit] Production of inorganic compounds 
+ Numerous products can be produced with hydrochloric acid in normal acid-base reactions, resulting in inorganic compounds. These include water treatment chemicals such as iron(III) chloride and polyaluminium chloride (PAC). 
+ Fe2O3 + 6 HCl → 2 FeCl3 + 3 H2O (iron(III) chloride from magnetite)
+  Both iron(III) chloride and PAC are used as flocculation and coagulation agents in sewage treatment, drinking water production, and paper production. 
+ Other inorganic compounds produced with hydrochloric acid include road application salt calcium chloride, nickel(II) chloride for electroplating, and zinc chloride for the galvanizing industry and battery production.[18] 
+ CaCO3 + 2 HCl → CaCl2 + CO2 + H2O (calcium chloride from limestone)
+ [edit] pH Control and neutralization 
+ Hydrochloric acid can be used to regulate the acidity (pH) of solutions. 
+ OH− + HCl → H2O + Cl−
+  In industry demanding purity (food, pharmaceutical, drinking water), high-quality hydrochloric acid is used to control the pH of process water streams. In less-demanding industry, technical quality hydrochloric acid suffices for neutralizing waste streams and swimming pool treatment.[18] 
+ [edit] Regeneration of ion exchangers 
+ High-quality hydrochloric acid is used in the regeneration of ion exchange resins. Cation exchange is widely used to remove ions such as Na+ and Ca2+ from aqueous solutions, producing demineralized water. The acid is used to rinse the cations from the resins.[6] Na+ is replaced with H+ and Ca2+ with 2 H+. 
+ Ion exchangers and demineralized water are used in all chemical industries, drinking water production, and many food industries.[6] 
+ Hydrochloric acid is used for a large number of small-scale applications, such as leather processing, purification of common salt, household cleaning,[27] and building construction.[18]Oil production may be stimulated by injecting hydrochloric acid into the rock formation of an oil well, dissolving a portion of the rock, and creating a large-pore structure. Oil well acidizing is a common process in the North Sea oil production industry.[6] 
+ Many chemical reactions involving hydrochloric acid are applied in the production of food, food ingredients, and food additives. Typical products include aspartame, fructose, citric acid, lysine, hydrolyzed vegetable protein as food enhancer, and in gelatin production. Food-grade (extra-pure) hydrochloric acid can be applied when needed for the final product.[6][18] 
+ [edit] Presence in living organisms 
+ Gastric acid is one of the main secretions of the stomach. It consists mainly of hydrochloric acid and acidifies the stomach content to a pH of 1 to 2.[28][29] 
+ Chloride (Cl−) and hydrogen (H+) ions are secreted separately in the stomach fundus region at the top of the stomach by parietal cells of the gastric mucosa into a secretory network called canaliculi before it enters the stomach lumen.[30] 
+ Gastric acid acts as a barrier against microorganisms to prevent infections and is important for the digestion of food. Its low pH denatures proteins and thereby makes them susceptible to degradation by digestive enzymes such as pepsin. The low pH also activates the enzyme precursor pepsinogen into the active enzyme pepsin by self-cleavage. After leaving the stomach, the hydrochloric acid of the chyme is neutralized in the duodenum by sodium bicarbonate.[28] 
+ The stomach itself is protected from the strong acid by the secretion of a thick mucus layer, and by secretin induced buffering with sodium bicarbonate. Heartburn or peptic ulcers can develop when these mechanisms fail. Drugs of the antihistaminic and proton pump inhibitor classes can inhibit the production of acid in the stomach, and antacids are used to neutralize existing acid.[28][31] 
+ [edit] Safety 
+ Concentrated hydrochloric acid (fuming hydrochloric acid) forms acidic mists. Both the mist and the solution have a corrosive effect on human tissue, with the potential to damage respiratory organs, eyes, skin, and intestines. Upon mixing hydrochloric acid with common oxidizing chemicals, such as sodium hypochlorite (bleach, NaClO) or potassium permanganate (KMnO4), the toxic gas chlorine is produced. 
+ NaClO + 2 HCl → H2O + NaCl + Cl2
+ 2 KMnO4 + 16 HCl → 2 MnCl2 + 8 H2O + 2 KCl + 5 Cl2
+  Personal protective equipment such as rubber or PVC gloves, protective eye goggles, and chemical-resistant clothing and shoes are used to minimize risks when handling hydrochloric acid. The United States Environmental Protection Agency rates and regulates hydrochloric acid as a toxic substance.[33] 
+ The UN number or DOT number is 1789. This number will be displayed on a placard on the container. 
+ [edit] See also 
+ [edit] References 
+ 
+ ^ a b "Hydrochloric Acid". http://www.bayermaterialsciencenafta.com/products/index.cfm?mode=grades&amp;pp_num=EB7C4476-A4F6-7AE6-7CD78F4E6C60AA44&amp;o_num=3. Retrieved 16 September 2010.
+^ "spirits of salt". http://www.thefreedictionary.com/spirits+of+salt. Retrieved 29 May 2012.
+^ "Muriatic Acid" (pdf). PPG Industries. 2005. http://www.ppg.com/chemicals/chloralkali/Documents/english/MuriaticAcid.pdf. Retrieved 10 September 2010.
+^ Bauer, Hugo (2009). A history of chemistry. BiblioBazaar, LLC. pp. 31. ISBN 978-1-103-35786-4. http://books.google.com/?id=8-w-izdgp4IC&amp;lpg=PA30.
+^ Karpenko, V.; Norris, J.A. (2001). "Vitriol in the history of chemistry". Chem. Listy 96: 997. http://www.chemicke-listy.cz/docs/full/2002_12_05.pdf.
+^ a b c d e f g h i j k l m n "Hydrochloric Acid". Chemicals Economics Handbook. SRI International. 2001. pp. 733.4000A–733.3003F.
+^ Norton, S (2008). "A Brief History of Potable Gold". Molecular Interventions 8 (3): 120–3. doi:10.1124/mi.8.3.1. PMID 18693188. http://molinterv.aspetjournals.org/content/8/3/120.full.pdf+html.
+^ Thompson, C.J.S. (2002). Alchemy and Alchemists (Reprint of the edition published by George G. Harrap and Co., London, 1932 ed.). Dover Publications, Inc., Mineola, NY. pp. 61,18.
+^ a b Forbes, Robert James (1970). A short history of the art of distillation: from the beginnings up to the death of Cellier Blumenthal. BRILL. ISBN 978-90-04-00617-1. http://books.google.com/books?id=XeqWOkKYn28C. Retrieved 19 August 2010.
+^ Myers, R.L. (2007). The 100 most important chemical compounds: a reference guide. Greenwood Publishing Group. pp. 141. ISBN 978-0-313-33758-1. http://books.google.com/?id=a4DuGVwyN6cC&amp;lpg=PA141&amp;dq=geber%20hydrochloric%20acid&amp;pg=PA141#v=onepage&amp;q=geber%20hydrochloric%20acid.
+^ Datta, N.C. (2005). The story of chemistry. Universities Press. pp. 40. ISBN 978-81-7371-530-3. http://books.google.com/?id=IIZkAvdFJhMC&amp;lpg=PA40&amp;dq=geber%20hydrochloric%20acid&amp;pg=PA40#v=onepage&amp;q=geber%20hydrochloric%20acid.
+^ Arab Civilization. Washington:Arab Information Center. http://www.alhewar.org/ArabCivilization.htm.
+^ Pereira, Jonathan (1854). The elements of materia medica and therapeutics, Volume 1. Longman, Brown, Green, and Longmans. p. 387. http://books.google.com/?id=RXEhAAAAYAAJ&amp;pg=RA1-PA387.
+^ Leicester, Henry Marshall (1971). The historical background of chemistry. Courier Dover Publications. pp. 99. ISBN 978-0-486-61053-5. http://books.google.com/?id=aJZVQnqcwv4C&amp;pg=PA236#v=onepage&amp;q=hydrochloric%20acid. Retrieved 19 August 2010.
+^ Waite, A.E (1992). Secret Tradition in Alchemy (public document ed.). Kessinger Publishing.
+^ Von Meyer, Ernst Sigismund (1891). A History of Chemistry from Earliest Times to the Present Day. pp. 51.
+^ a b Aftalion, Fred (1991). A History of the International Chemical Industry. Philadelphia: University of Pennsylvania Press. ISBN 0-8122-1297-5.
+^ a b c d e f g h Greenwood, Norman N.; Earnshaw, Alan (1997). Chemistry of the Elements (2nd ed.). Butterworth–Heinemann. pp. 946–48. ISBN 0080379419.
+^ (PDF) List of precursors and chemicals frequently used in the illicit manufacture of narcotic drugs and psychotropic substances under international control (Eleventh ed.). International Narcotics Control Board. January 2007. http://www.incb.org/pdf/e/list/red.pdf.
+^ a b c d e Lide, David (2000). CRC Handbook of Chemistry and Physics (81st ed.). CRC Press. ISBN 0-8493-0481-4.
+^ a b c d e Perry, R.; Green D., Maloney J. (1984). Perry's Chemical Engineers' Handbook (6th ed.). McGraw-Hill Book Company. ISBN 0-07-049479-7.
+^ "Dissociation constants pKa and pKb". ChemBuddy.com. http://www.chembuddy.com/?left=BATE&amp;right=dissociation_constants. Retrieved 6 September 2008.
+^ Mendham, J.; Denney, R. C.; Barnes, J. D.; Thomas, M.J.K.; Denney, R. C.; Thomas, M. J. K. (2000). Vogel's Quantitative Chemical Analysis (6th ed.). New York: Prentice Hall. ISBN 0-582-22628-7.
+^ "Systemnummer 6 Chlor". Gmelins Handbuch der Anorganischen Chemie. Chemie Berlin. 1927.
+^ "Systemnummer 6 Chlor, Ergänzungsband Teil B – Lieferung 1". Gmelins Handbuch der Anorganischen Chemie. Chemie Weinheim. 1968.
+^ a b Aspen Properties. binary mixtures modeling software (calculations by Akzo Nobel Engineering ed.). Aspen Technology. 2002–2003.
+^ Simhon, Rachel (13 September 2003). "Household plc: really filthy bathroom". London: Daily Telegraph. http://www.telegraph.co.uk/property/3317144/Household-plc-really-filthy-bathrooms.html. Retrieved 31 March 2010.
+^ a b c Maton, Anthea; Jean Hopkins, Charles William McLaughlin, Susan Johnson, Maryanna Quon Warner, David LaHart, Jill D. Wright (1993). Human Biology and Health. Englewood Cliffs, New Jersey, USA: Prentice Hall. ISBN 0-13-981176-1.
+^ "Digestive Aids:Hydrochloric acid". http://www.healthy.net/scr/article.aspx?id=1863.
+^ Arthur, C.; M.D. Guyton, John E. Hall (2000). Textbook of Medical Physiology (10th ed.). W.B. Saunders Company. ISBN 0-7216-8677-X.
+^ Bowen, R. (18 March 2003). "Control and Physiologic Effects of Secretin". Colorado State University. http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/gi/secretin.html. Retrieved 16 March 2009.
+^ "Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances". EUR-lex. http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31967L0548:EN:HTML. Retrieved 2 September 2008.
+^ "HCl score card". United States Environmental Protection Agency. http://www.scorecard.org/chemical-profiles/summary.tcl?edf_substance_id=7647-01-0. Retrieved 12 September 2007.
+  
+ [edit] External links 
+ General safety information
+ Pollution information
+ Demonstration
+ 
+  

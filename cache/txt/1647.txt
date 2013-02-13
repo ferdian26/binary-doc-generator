@@ -1,0 +1,508 @@
+  
+ In mathematics, the Euclidean algorithm[a], or Euclid's algorithm, is an efficient method for computing the greatest common divisor (GCD) of two integers, also known as the greatest common factor (GCF) or highest common factor (HCF). It is named after the Greek mathematician Euclid, who described it in Books VII and X of his Elements.[1] 
+ In its simplest form, Euclid's algorithm starts with a pair of positive integers and forms a new pair that consists of the smaller number and the difference between the larger and smaller numbers. The process repeats until the numbers are equal. That number then is the greatest common divisor of the original pair. 
+ The earliest surviving description of the Euclidean algorithm is in Euclid's Elements (c. 300 BC), making it one of the oldest numerical algorithms still in common use. The original algorithm was described only for natural numbers and geometric lengths (real numbers), but the algorithm was generalized in the 19th century to other types of numbers, such as Gaussian integers and polynomials in one variable. This led to modern abstract algebraic notions such as Euclidean domains. The Euclidean algorithm has been generalized further to other mathematical structures, such as knots and multivariate polynomials. 
+ The algorithm has many theoretical and practical applications. It may be used to generate almost all the most important traditional musical rhythms used in different cultures throughout the world.[2] It is a key element of the RSA algorithm, a public-key encryption method widely used in electronic commerce. It is used to solve Diophantine equations, such as finding numbers that satisfy multiple congruences (Chinese remainder theorem) or multiplicative inverses of a finite field. It can also be used to construct continued fractions, in the Sturm chain method for finding real roots of a polynomial, and in several modern integer factorization algorithms. Finally, it is a basic tool for proving theorems in modern number theory, such as Lagrange's four-square theorem and the fundamental theorem of arithmetic (unique factorization). 
+ If implemented using remainders of Euclidean division rather than subtractions, Euclid's algorithm computes the GCD of large numbers efficiently: it never requires more division steps than five times the number of digits (base 10) of the smaller integer. This was proved by Gabriel Lamé in 1844, and marks the beginning of computational complexity theory. Methods for improving the algorithm's efficiency were developed in the 20th century. 
+ The GCD of two numbers is the largest number that divides both of them without leaving a remainder. The Euclidean algorithm is based on the principle that the greatest common divisor of two numbers does not change if the smaller number is subtracted from the larger number. For if k, m, and n are integers, and k is a common factor of two integers A and B, then A = nk and B = mk implies A − B = (n − m)k, therefore k is also a common factor of the difference. That k may also represent the greatest common divisor is proven below. For example, 21 is the GCD of 252 and 105 (252 = 12 × 21; 105 = 5 × 21); since 252 − 105 = (12 − 5) × 21 = 147, the GCD of 147 and 105 is also 21. 
+ Since the larger of the two numbers is reduced, repeating this process gives successively smaller numbers until one of them is zero. When that occurs, the GCD is the remaining nonzero number. By reversing the steps in the Euclidean algorithm, the GCD can be expressed as a sum of the two original numbers each multiplied by a positive or negative integer, e.g., 21 = [5 × 105] + [(−2) × 252]. This important property is known as Bézout's identity. 
+ [edit] Background — Greatest common divisor 
+ The Euclidean algorithm calculates the greatest common divisor (GCD) of two natural numbers a and b. The greatest common divisor g is the largest natural number that divides both a and b without leaving a remainder. Synonyms for the GCD include the greatest common factor (GCF), the highest common factor (HCF), and the greatest common measure (GCM). The greatest common divisor is often written as GCD(a, b) or, more simply, as (a, b),[3] although the latter notation is also used for other mathematical concepts, such as two-dimensional vectors. 
+ If GCD(a, b) = 1, then a and b are said to be coprime (or relatively prime).[4] This property does not imply that a or b are themselves prime numbers.[5] For example, neither 6 nor 35 is a prime number, since they both have two prime factors: 6 = 2 × 3 and 35 = 5 × 7. Nevertheless, 6 and 35 are coprime. No natural number other than 1 divides both 6 and 35, since they have no prime factors in common. 
+ Let g = GCD(a, b). Since a and b are both multiples of g, they can be written a = mg and b = ng, and there is no larger number G &gt; g for which this is true. The natural numbers m and n must be coprime, since any common factor could be factored out of m and n to make g greater. Thus, any other number c that divides both a and b must also divide g. The greatest common divisor g of a and b is the unique (positive) common divisor of a and b that is divisible by any other common divisor c.[6] 
+ The GCD can be visualized as follows.[7] Consider a rectangular area a by b, and any common divisor c that divides both a and b exactly. The sides of the rectangle can be divided into segments of length c, which divides the rectangle into a grid of squares of side length c. The greatest common divisor g is the largest value of c for which this is possible. For illustration, a 24-by-60 rectangular area can be divided into a grid of: 1-by-1 squares, 2-by-2 squares, 3-by-3 squares, 4-by-4 squares, 6-by-6 squares or 12-by-12 squares. Therefore, 12 is the greatest common divisor of 24 and 60. A 24-by-60 rectangular area can be divided into a grid of 12-by-12 squares, with two squares along one edge (24/12 = 2) and five squares along the other (60/12 = 5). 
+ The GCD of two numbers a and b is the product of the prime factors shared by the two numbers, where a same prime factor can be used multiple times, but only as long as the product of these factors divides both a and b.[8] For example, since 1386 can be factored into 2 × 3 × 3 × 7 × 11, and 3213 can be factored into 3 × 3 × 3 × 7 × 17, the greatest common divisor of 1386 and 3213 equals 63 = 3 × 3 × 7, the product of their shared prime factors. If two numbers have no prime factors in common, their greatest common divisor is 1 (obtained here as an instance of the empty product), in other words they are coprime. A key advantage of the Euclidean algorithm is that it can find the GCD efficiently without having to compute the prime factors.[9][10]Factorization of large integers is believed to be a computationally very difficult problem, and the security of many modern cryptography systems is based upon its infeasibility.[11] 
+ Another definition of the GCD is helpful in advanced mathematics, particularly ring theory.[12] The greatest common divisor g  of two nonzero numbers a and b is also their smallest positive integral linear combination, that is, the smallest positive number of the form ua + vb where u and v are integers. The set of all integral linear combinations of a and b is actually the same as the set of all multiples of g (mg, where m is an integer). In modern mathematical language, the ideal generated by a and b is the ideal generated by g alone (an ideal generated by a single element is called a principal ideal, and all ideals of the integers are principal ideals). Some properties of the GCD are in fact easier to see with this description, for instance the fact that any common divisor of a and b also divides the GCD (it divides both terms of ua + vb). The equivalence of this GCD definition with the other definitions is described below. 
+ The GCD of three or more numbers equals the product of the prime factors common to all the numbers,[13] but it can also be calculated by repeatedly taking the GCDs of pairs of numbers.[14] For example, 
+ GCD(a, b, c) = GCD(a, GCD(b, c)) = GCD(GCD(a, b), c) = GCD(GCD(a, c), b).
+  Thus, Euclid's algorithm, which computes the GCD of two integers, suffices to calculate the GCD of arbitrarily many integers. 
+ [edit] Description 
+ The simplest form of Euclid's algorithm starts with a pair of positive integers and forms a new pair that consists of the smaller number and the difference between the larger and smaller numbers. The process repeats until the numbers are equal; then that value is the greatest common divisor of the original pair. However if one number is much smaller than the other, many subtraction steps will be needed before the larger number is reduced to a value less than or equal to the other number in the pair. 
+ Subtracting a small positive number from a big number enough times until what is left is less than the original smaller number can be replaced by finding the remainder in long division. Thus the division form of Euclid's algorithm starts with a pair of positive integers and forms a new pair that consists of the smaller number and the remainder obtained by dividing the larger number by the smaller number. The process repeats until one number is zero. The other number then is the greatest common divisor of the original pair. 
+ [edit] Procedure 
+ The Euclidean algorithm proceeds in a series of steps such that the output of each step is used as an input for the next one. Let k be an integer that counts the steps of the algorithm, starting with zero. Thus, the initial step corresponds to k = 0, the next step corresponds to k = 1, and so on. 
+ Each step begins with two nonnegative remainders rk−1 and rk−2. Since the algorithm ensures that the remainders decrease steadily with every step, rk−1 is less than its predecessor rk−2. The goal of the kth step is to find a quotient qk and remainder rk such that the equation is satisfied 
+ rk−2 = qkrk−1 + rk
+  where rk &lt; rk−1. In other words, multiples of the smaller number rk−1 are subtracted from the larger number rk−2 until the remainder is smaller than the rk−1. 
+ In the initial step (k = 0), the remainders r−2 and r−1 equal a and b, the numbers for which the GCD is sought. In the next step (k = 1), the remainders equal b and the remainder r0 of the initial step, and so on. Thus, the algorithm can be written as a sequence of equations 
+ a = q0b + r0
+b = q1r0 + r1
+r0 = q2r1 + r2
+r1 = q3r2 + r3
+…
+  If a is smaller than b, the first step of the algorithm swaps the numbers. For example, if a &lt; b, the initial quotient q0 equals zero, and the remainder r0 is a. Thus, rk is smaller than its predecessor rk−1 for all k ≥ 0. 
+ Since the remainders decrease with every step but can never be negative, a remainder rN must eventually equal zero, at which point the algorithm stops.[15] The final nonzero remainder rN−1 is the greatest common divisor of a and b. The number N cannot be infinite because there are only a finite number of nonnegative integers between the initial remainder r0 and zero. 
+ [edit] Proof of validity 
+ The validity of the Euclidean algorithm can be proven by a two-step argument.[16] In the first step, the final nonzero remainder rN−1 is shown to divide both a and b. Since it is a common divisor, it must be less than or equal to the greatest common divisor g. In the second step, it is shown that any common divisor of a and b, including g, must divide rN−1; therefore, g must be less than or equal to rN−1. These two conclusions are inconsistent unless rN−1 = g. 
+ To demonstrate that rN−1 divides both a and b (the first step), rN−1 divides its predecessor rN−2 
+ rN−2 = qNrN−1
+  since the final remainder rN is zero. rN−1 also divides its next predecessor rN−3 
+ rN−3 = qN−1rN−2 + rN−1
+  because it divides both terms on the right-hand side of the equation. Iterating the same argument, rN−1 divides all the preceding remainders, including a and b. None of the preceding remainders rN−2, rN−3, etc. divide a and b, since they leave a remainder. Since rN−1 is a common divisor of a and b, rN−1 ≤ g. 
+ In the second step, any natural number c that divides both a and b (in other words, any common divisor of a and b) divides the remainders rk. By definition, a and b can be written as multiples of c: a = mc and b = nc, where m and n are natural numbers. Therefore, c divides the initial remainder r0, since r0 = a − q0b = mc − q0nc = (m − q0n)c. An analogous argument shows that c also divides the subsequent remainders r1, r2, etc. Therefore, the greatest common divisor g must divide rN−1, which implies that g ≤ rN−1. Since the first part of the argument showed the reverse (rN−1 ≤ g), it follows that g = rN−1. Thus, g is the greatest common divisor of all the succeeding pairs:[17][18] 
+ g = GCD(a, b) = GCD(b, r0) = GCD(r0, r1) = … = GCD(rN−2, rN−1) = rN−1.
+ [edit] Worked example 
+ For illustration, the Euclidean algorithm can be used to find the greatest common divisor of a = 1071 and b = 462. To begin, multiples of 462 are subtracted from 1071 until the remainder is less than 462. Two such multiples can be subtracted (q0 = 2), leaving a remainder of 147 
+ 1071 = 2 × 462 + 147.
+  Then multiples of 147 are subtracted from 462 until the remainder is less than 147. Three multiples can be subtracted (q1 = 3), leaving a remainder of 21 
+ 462 = 3 × 147 + 21.
+  Then multiples of 21 are subtracted from 147 until the remainder is less than 21. Seven multiples can be subtracted (q2 = 7), leaving no remainder 
+ 147 = 7 × 21 + 0.
+  Since the last remainder is zero, the algorithm ends with 21 as the greatest common divisor of 1071 and 462. This agrees with the GCD(1071, 462) found by prime factorization above. In tabular form, the steps are 
+Step k
+Equation
+Quotient and remainder
+0
+1071 = q0 462 + r0
+q0 = 2 and r0 = 147
+1
+462 = q1 147 + r1
+q1 = 3 and r1 = 21
+2
+147 = q2 21 + r2
+q2 = 7 and r2 = 0; algorithm ends
+ [edit] Visualization 
+ The Euclidean algorithm can be visualized in terms of the tiling analogy given above for the greatest common divisor.[19] Assume that we wish to cover an a-by-b rectangle with square tiles exactly, where a is the larger of the two numbers. We first attempt to tile the rectangle using b-by-b square tiles; however, this leaves an r0-by-b residual rectangle untiled, where r0 &lt; b. We then attempt to tile the residual rectangle with r0-by-r0 square tiles. This leaves a second residual rectangle r1-by-r0, which we attempt to tile using r1-by-r1 square tiles, and so on. The sequence ends when there is no residual rectangle, i.e., when the square tiles cover the previous residual rectangle exactly. The length of the sides of the smallest square tile is the GCD of the dimensions of the original rectangle. For example, the smallest square tile in the adjacent figure is 21-by-21 (shown in red), and 21 is the GCD of 1071 and 462, the dimensions of the original rectangle (shown in green). 
+ [edit] Euclidean division 
+ At every step k, the Euclidean algorithm computes a quotient qk and remainder rk from two numbers rk−1 and rk−2 
+ rk−2 = qkrk−1 + rk
+  where the magnitude of rk is strictly less than that of rk−1. The theorem which underlies the definition of the Euclidean division ensures that such a quotient and remainder always exist and are unique.[20] 
+ In Euclid's original version of the algorithm, the quotient and remainder are found by repeated subtraction; that is, rk−1 is subtracted from rk−2 repeatedly until the remainder rk is smaller than rk−1. After that rk and rk−1 are exchanged and the process is iterated. Euclidean division allows reduce all the steps between two exchanges into a single step, which is thus more efficient. Moreover, the quotients are not needed, thus one may replace Euclidean division by modulo operation, which gives only the remainder. Thus the iteration of Euclidean algorithm becomes simply 
+ rk = rk−2 mod rk−1.
+ [edit] Implementations 
+ Implementations of the algorithm may be expressed in pseudocode. For example, the division-based version may be programmed as[21] 
+function gcd(a, b)
+ while b ≠ 0
+ t := b
+ b := a mod t
+ a := t
+ return a
+ At the beginning of the kth iteration, the variable b holds the latest remainder rk−1, whereas the variable a holds its predecessor, rk−2. The step b := a mod b is equivalent to the above recursion formula rk ≡ rk−2 mod rk−1. The dummy variable t holds the value of rk−1 while the next remainder rk is being calculated. At the end of the loop iteration, the variable b holds the remainder rk, whereas the variable a holds its predecessor, rk−1. 
+ In the subtraction-based version defined by Euclid, the remainder calculation (b = a mod b) is replaced by repeated subtraction.[22] 
+function gcd(a, b)
+ if a = 0
+ return b
+ while b ≠ 0
+ if a &gt; b
+ a := a − b
+ else
+ b := b − a
+ return a
+ The variables a and b alternate holding the previous remainders rk−1 and rk−2. Assume that a is larger than b at the beginning of an iteration; then a equals rk−2, since rk−2 &gt; rk−1. During the loop iteration, a is reduced by multiples of the previous remainder b until a is smaller than b. Then a is the next remainder rk. Then b is reduced by multiples of a until it is again smaller than a, giving the next remainder rk+1, and so on. 
+ The recursive version[23] is based on the equality of the GCDs of successive remainders and the stopping condition GCD(rN−1, 0) = rN−1. 
+function gcd(a, b)
+ if b = 0
+ return a
+ else
+ return gcd(b, a mod b)
+ For illustration, the GCD(1071, 462) is calculated from the equivalent GCD(462, 1071 mod 462) = GCD(462, 147). The latter GCD is calculated from the GCD(147, 462 mod 147) = GCD(147, 21), which in turn is calculated from the GCD(21, 147 mod 21) = GCD(21, 0) = 21. 
+ [edit] Method of least absolute remainders 
+ In another version of Euclid's algorithm, the quotient at each step is increased by one if the resulting negative remainder is smaller in magnitude than the typical positive remainder.[24][25] Previously, the equation 
+ rk−2 = qkrk−1 + rk
+  assumed that |rk−1| &gt; rk &gt; 0. However, an alternative negative remainder ek can be computed: 
+ rk−2 = (qk + 1) rk−1 + ek
+  if rk−1 &gt; 0 or 
+ rk−2 = (qk − 1) rk−1 + ek
+  if rk−1 &lt; 0. 
+ If |ek| &lt; |rk|, then rk is replaced by ek. As |rk−1| = rk − ek, this new rk satisfies 
+ |rk| &lt; |rk−1| / 2.
+  Leopold Kronecker has shown that this version requires the fewest number of steps of any version of Euclid's algorithm.[24][25] 
+ [edit] Historical development 
+ The Euclidean algorithm is one of the oldest algorithms still in common use.[26] It appears in Euclid's Elements (c. 300 BC), specifically in Book 7 (Propositions 1–2) and Book 10 (Propositions 2–3). In Book 7, the algorithm is formulated for integers, whereas in Book 10, it is formulated for lengths of line segments. (In modern usage, one would say it was formulated there for real numbers. But lengths, areas, and volumes, represented as real numbers in modern usage, are not measured in the same units and there is no natural unit of length, area, or volume, and the concept of real numbers was unknown at that time.) The latter algorithm is geometrical. The GCD of two lengths a and b corresponds to the greatest length g that measures a and b evenly; in other words, the lengths a and b are both integer multiples of the length g. 
+ The algorithm was probably not discovered by Euclid, who compiled results from earlier mathematicians in his Elements.[27][28] The mathematician and historian B. L. van der Waerden suggests that Book VII derives from a textbook on number theory written by mathematicians in the school of Pythagoras.[29] The algorithm was probably known by Eudoxus of Cnidus (about 375 BC).[26][30] The algorithm may even pre-date Eudoxus,[31][32] judging from the use of the technical term ἀνθυφαίρεσις (anthyphairesis, reciprocal subtraction) in works by Euclid and Aristotle.[33] 
+ Centuries later, Euclid's algorithm was discovered independently both in India and in China,[34] primarily to solve Diophantine equations that arise in astronomy and making accurate calendars. In the late 5th century, the Indian mathematician and astronomer Aryabhata described the algorithm as the "pulverizer",[35] perhaps because of its effectiveness in solving Diophantine equations.[36] Although a special case of the Chinese remainder theorem had already been described by Chinese mathematician and astronomer Sun Tzu,[37] the general solution was published by Qin Jiushao in his 1247 book Shushu Jiuzhang (數書九章 Mathematical Treatise in Nine Sections).[38] The Euclidean algorithm was first described in Europe in the second edition of Bachet's Problèmes plaisants et délectables (Pleasant and enjoyable problems, 1624).[35] In Europe, it was likewise used to solve Diophantine equations and in developing continued fractions. The extended Euclidean algorithm was published by the English mathematician Nicholas Saunderson, who attributed it to Roger Cotes as a method for computing continued fractions efficiently.[39] 
+ In the 19th century, the Euclidean algorithm led to the development of new number systems, such as Gaussian integers and Eisenstein integers. In 1815, Carl Gauss used the Euclidean algorithm to demonstrate unique factorization of Gaussian integers, although his work was first published in 1832.[40] Gauss mentioned the algorithm in his Disquisitiones Arithmeticae (published 1801), but only as a method for continued fractions.[34]Peter Dirichlet seems to have been the first to describe the Euclidean algorithm as the basis for much of number theory.[41] Dirichlet noted that many results of number theory, such as unique factorization, would hold true for any other system of numbers to which the Euclidean algorithm could be applied.[42] Dirichlet's lectures on number theory were edited and extended by Richard Dedekind, who used Euclid's algorithm to study algebraic integers, a new general type of number. For example, Dedekind was the first to prove Fermat's two-square theorem using the unique factorization of Gaussian integers.[43] Dedekind also defined the concept of a Euclidean domain, a number system in which a generalized version of the Euclidean algorithm can be defined (as described below). In the closing decades of the 19th century, however, the Euclidean algorithm gradually became eclipsed by Dedekind's more general theory of ideals.[44] 
+"[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day."
+Donald Knuth, The Art of Computer Programming, Vol. 2: Seminumerical Algorithms, 2nd edition (1981), p. 318.
+ Other applications of Euclid's algorithm were developed in the 19th century. In 1829, Charles Sturm showed that the algorithm was useful in the Sturm chain method for counting the real roots of polynomials in any given interval.[45] 
+ The Euclidean algorithm was the first integer relation algorithm, which is a method for finding integer relations between commensurate real numbers. Several novel integer relation algorithms have been developed in recent years, such as the Ferguson–Forcade algorithm (1979) of Helaman Ferguson and R.W. Forcade,[46] and its relatives, the LLL algorithm, the HJLS algorithm, and the PSLQ algorithm.[47][48] 
+ In 1969, Cole and Davie developed a two-player game based on the Euclidean algorithm, called The Game of Euclid,[49] which has an optimal strategy.[50] The players begin with two piles of a and b stones. The players take turns removing m multiples of the smaller pile from the larger. Thus, if the two piles consist of x and y stones, where x is larger than y, the next player can reduce the larger pile from x stones to x − my stones, as long as the latter is a nonnegative integer. The winner is the first player to reduce one pile to zero stones.[51][52] 
+ [edit] Mathematical applications 
+ [edit] Bézout's identity 
+ Bézout's identity states that the greatest common divisor g of two integers a and b can be represented as a linear sum of the original two numbers a and b.[53] In other words, it is always possible to find integers s and t such that g = sa + tb.[54][55] 
+ The integers s and t can be calculated from the quotients q0, q1, etc. by reversing the order of equations in Euclid's algorithm.[56] Beginning with the next-to-last equation, g can be expressed in terms of the quotient qN−1 and the two preceding remainders, rN−2 and rN−3. 
+ g = rN−1 = rN−3 − qN−1rN−2
+  Those two remainders can be likewise expressed in terms of their quotients and preceding remainders, 
+ rN−2 = rN−4 − qN−2rN−3
+rN−3 = rN−5 − qN−3rN−4.
+  Substituting these formulae for rN−2 and rN−3 into the first equation yields g as a linear sum of the remainders rN−4 and rN−5. The process of substituting remainders by formulae involving their predecessors can be continued until the original numbers a and b are reached 
+ r2 = r0 − q2r1
+r1 = b − q1r0
+r0 = a − q0b.
+  After all the remainders r0, r1, etc. have been substituted, the final equation expresses g as a linear sum of a and b: g = sa + tb. Bézout's identity, and therefore the previous algorithm, can both be generalized to the context of Euclidean domains. 
+ [edit] Principal ideals and related problems 
+ Bézout's identity provides yet another definition of the greatest common divisor g of two numbers a and b.[12] Consider the set of all numbers ua + vb, where u and v are any two integers. Since a and b are both divisible by g, every number in the set is divisible by g. In other words, every number of the set is an integer multiple of g. This is true for every common divisor of a and b. However, unlike other common divisors, the greatest common divisor is a member of the set; by Bézout's identity, choosing u = s and v = t gives g. A smaller common divisor cannot be a member of the set, since every member of the set must be divisible by g. Conversely, any multiple m of g can be obtained by choosing u = ms and v = mt, where s and t are the integers of Bézout's identity. This may be seen by multiplying Bézout's identity by m, 
+ mg = msa + mtb.
+  Therefore, the set of all numbers ua + vb is equivalent to the set of multiples m of g. In other words, the set of all possible sums of integer multiples of two numbers (a and b) is equivalent to the set of multiples of GCD(a, b). The GCD is said to be the generator of the ideal of a and b. This GCD definition led to the modern abstract algebraic concepts of a principal ideal (an ideal generated by a single element) and a principal ideal domain (a domain in which every ideal is a principal ideal). 
+ Certain problems can be solved using this result.[57] For example, consider two measuring cups of volume a and b. By adding/subtracting u multiples of the first cup and v multiples of the second cup, any volume ua + vb can be measured out. These volumes are all multiples of g = GCD(a, b). 
+ [edit] Extended Euclidean algorithm 
+ The integers s and t of Bézout's identity can be computed efficiently using the extended Euclidean algorithm. This extension adds two recursive equations to Euclid's algorithm[58] 
+ sk = sk−2 − qksk−1
+tk = tk−2 − qktk−1
+  with the starting values 
+ s−2 = 1, t−2 = 0
+s−1 = 0, t−1 = 1.
+  Using this recursion, Bézout's integers s and t are given by s = sN and t = tN, where N is the step on which the algorithm terminates with rN = 0. 
+ The validity of this approach can be shown by induction. Assume that the recursion formula is correct up to step k − 1 of the algorithm; in other words, assume that 
+ rj = sja + tjb
+  for all j less than k. The kth step of the algorithm gives the equation 
+ rk = rk−2 − qkrk−1.
+  Since the recursion formula has been assumed to be correct for rk−2 and rk−1, they may be expressed in terms of the corresponding s and t variables 
+ rk = (sk−2a + tk−2b) − qk(sk−1a + tk−1b).
+  Rearranging this equation yields the recursion formula for step k, as required 
+ rk = ska + tkb = (sk−2 − qksk−1) a + (tk−2 − qktk−1) b.
+ [edit] Matrix method 
+ The integers s and t can also be found using an equivalent matrix method.[59] The sequence of equations of Euclid's algorithm 
+ a = q0b + r0
+b = q1r0 + r1
+…
+rN−2 = qNrN−1 + 0
+  can be written as a product of 2-by-2 quotient matrices multiplying a two-dimensional remainder vector 
+ 
+  Let M represent the product of all the quotient matrices 
+ 
+  This simplifies the Euclidean algorithm to the form 
+ 
+  To express g as a linear sum of a and b, both sides of this equation can be multiplied by the inverse of the matrix M.[59][60] The determinant of M equals (−1)N+1, since it equals the product of the determinants of the quotient matrices, each of which is negative one. Since the determinant of M is never zero, the vector of the final remainders can be solved using the inverse of M 
+ 
+  Since the top equation gives 
+ g = (−1)N+1 ( m22a − m12b)
+  the two integers of Bézout's identity are s = (−1)N+1m22 and t = (−1)Nm12. The matrix method is as efficient as the equivalent recursion, with two multiplications and two additions per step of the Euclidean algorithm. 
+ [edit] Euclid's lemma and unique factorization 
+ Bézout's identity is essential to many applications of Euclid's algorithm, such as demonstrating the unique factorization of numbers into prime factors.[61] To illustrate this, suppose that a number L can be written as a product of two factors u and v, that is, L = uv. If another number w also divides L but is coprime with u, then w must divide v, by the following argument: If the greatest common divisor of u and w is 1, then integers s and t can be found such that 
+ 1 = su + tw
+  by Bézout's identity. Multiplying both sides by v gives the relation 
+ v = suv + twv = sL + twv
+  Since w divides both terms on the right-hand side, it must also divide the left-hand side, v. This result is known as Euclid's lemma.[62] Specifically, if a prime number divides L, then it must divide at least one factor of L. Conversely, if a number w is coprime to each of a series of numbers a1, a2, …, an, then w is also coprime to their product, a1 × a2 × … × an.[62] 
+ Euclid's lemma suffices to prove that every number has a unique factorization into prime numbers.[63] To see this, assume the contrary, that there are two independent factorizations of L into m and n prime factors, respectively 
+ L = p1p2…pm = q1q2…qn
+  Since each prime p divides L by assumption, it must also divide one of the q factors; since each q is prime as well, it must be that p = q. Iteratively dividing by the p factors shows that each p has an equal counterpart q; the two prime factorizations are identical except for their order. The unique factorization of numbers into primes has many applications in mathematical proofs, as shown below. 
+ [edit] Linear Diophantine equations 
+ Diophantine equations are equations in which the solutions are restricted to integers; they are named after the 3rd-century Alexandrian mathematician Diophantus.[64] A typical linear Diophantine equation seeks integers x and y such that[65] 
+ ax + by = c
+  where a, b and c are given integers. This can be written as an equation for x in modular arithmetic 
+ ax ≡ c mod b.
+  Let g be the greatest common divisor of a and b. Both terms in ax + by are divisible by g; therefore, c must also be divisible by g, or the equation has no solutions. By dividing both sides by c/g, the equation can be reduced to Bezout's identity 
+ sa + tb = g
+  where s and t can be found by the extended Euclidean algorithm.[66] This provides one solution to the Diophantine equation, x1 = s (c/g) and y1 = t (c/g). 
+ In general, a linear Diophantine equation has no solutions, or an infinite number of solutions.[67] To find the latter, consider two solutions, (x1, y1) and (x2, y2) 
+ ax1 + by1 = c = ax2 + by2
+  or equivalently 
+ a(x1 − x2) = b(y2 − y1).
+  Therefore, the smallest difference between two x solutions is b/g, whereas the smallest difference between two y solutions is a/g. Thus, the solutions may be expressed as 
+ x = x1 − bt/g
+y = y1 + at/g.
+  By allowing t to vary over all possible integers, an infinite family of solutions can be generated from a single solution (x1, y1). If the solutions are required to be positive integers (x &gt; 0, y &gt; 0), only a finite number of solutions may be possible. This restriction on the acceptable solutions allows systems of Diophantine equations to be solved with more unknowns than equations;[68] this is impossible for a system of linear equations when the solutions can be any real number. 
+ [edit] Multiplicative inverses and the RSA algorithm 
+ A finite field is a set of numbers with four generalized operations. The operations are called addition, subtraction, multiplication and division and have their usual properties, such as commutativity, associativity and distributivity. An example of a finite field is the set of 13 numbers {0, 1, 2, …, 12} using modular arithmetic. In this field, the results of any mathematical operation (addition/subtraction/multiplication/division) is reduced modulo 13; that is, multiples of 13 are added or subtracted until the result is brought within the range 0–12. For example, the result of 5 × 7 = 35 mod 13 = 9. Such finite fields can be defined for any prime p; using more sophisticated definitions, they can also be defined for any power m of a prime p m. Finite fields are often called Galois fields, and are abbreviated as GF(p) or GF(p m). 
+ In such a field with m numbers, every nonzero element a has a unique modular multiplicative inverse, a−1 such that aa−1 = a−1a ≡ 1 mod m. This inverse can be found by solving the congruence equation ax ≡ 1 mod m,[69] or the equivalent linear Diophantine equation[70] 
+ ax + my = 1.
+  This equation can be solved by the Euclidean algorithm, as described above. Finding multiplicative inverses is an essential step in the RSA algorithm, which is widely used in electronic commerce; specifically, the equation determines the integer used to decrypt the message.[71] Note that although the RSA algorithm uses rings rather than fields, the Euclidean algorithm can still be used to find a multiplicative inverse where one exists. The Euclidean algorithm also has other applications in error-correcting codes; for example, it can be used as an alternative to the Berlekamp–Massey algorithm for decoding BCH and Reed–Solomon codes, which are based on Galois fields.[72] 
+ [edit] Chinese remainder theorem 
+ Euclid's algorithm can also be used to solve multiple linear Diophantine equations.[73] Such equations arise in the Chinese remainder theorem, which describes a novel method to represent an integer x. Instead of representing an integer by its digits, it may be represented by its remainders xi modulo a set of N coprime numbers mi.[74] 
+ x1 ≡ x mod m1
+x2 ≡ x mod m2
+…
+xN ≡ x mod mN
+  The goal is to determine x from its N remainders xi. The solution is to combine the multiple equations into a single linear Diophantine equation with a much larger modulus M that is the product of all the individual moduli mi, and define the Mi 
+ Mi = M / mi
+  Thus, each Mi is the product of all the moduli except mi. The solution depends on finding N new numbers hi such that 
+ Mihi ≡ 1 mod mi
+  With these numbers hi, any integer x can be reconstructed from its remainders xi by the equation 
+ x ≡ (x1M1h1 + x2M2h2 + … + xNMNhN ) mod M
+  Since these numbers hi are the multiplicative inverses of the Mi, they may be found using Euclid's algorithm as described in the previous subsection. 
+ [edit] Stern–Brocot tree 
+ The sequence of subtractions used by the Euclidean algorithm gives a path from the root of the Stern–Brocot tree to any given rational number. This fact can be used to prove that there is a 1-1 correspondence between the vertices of tree and the positive rational numbers. 
+ For example, 3/4 can be found by starting at the root, going to the left once, then to the right twice. 
+ 
+  The Euclidean algorithm has almost the same relationship to the Calkin–Wilf tree. The difference is that the path is reversed: instead of producing a path from the root of the tree to a target, it produces a path from the target to the root. 
+ [edit] Continued fractions 
+ The Euclidean algorithm has a close relationship with continued fractions.[75] The sequence of equations can be written in the form 
+ 
+  The last term on the right-hand side always equals the inverse of the left-hand side of the next equation. Thus, the first two equations may be combined to form 
+ 
+  The third equation may be used to substitute the denominator term r1/r0, yielding 
+ 
+  The final ratio of remainders rk/rk−1 can always be replaced using the next equation in the series, up to the final equation. The result is a continued fraction 
+ 
+  In the worked example above, the GCD(1071, 462) was calculated, and the quotients qk were 2, 3 and 7, respectively. Therefore, the fraction 1071/462 may be written 
+ 
+  as can be confirmed by calculation. 
+ [edit] Factorization algorithms 
+ Calculating a greatest common divisor is an essential step in several integer factorization algorithms,[76] such as Pollard's rho algorithm,[77]Shor's algorithm,[78]Dixon's factorization method[79] and the Lenstra elliptic curve factorization.[80] The Euclidean algorithm may be used to find this GCD efficiently. Continued fraction factorization uses continued fractions, which are determined using Euclid's algorithm.[81] 
+ [edit] Algorithmic efficiency 
+ The computational efficiency of Euclid's algorithm has been studied thoroughly.[82] This efficiency can be described by the number of division steps the algorithm requires, multiplied by the computational expense of each step. The first known analysis of Euclid's algorithm is due to A.-A.-L. Reynaud in 1811,[83] who showed that the number of division steps on input (u, v) is bounded by v; later he improved this to v/2 + 2. Later, in 1841, P.-J.-E. Finck showed [84] that the number of division steps is at most 2 log2v + 1, and hence Euclid's algorithm runs in time polynomial in the size of the input; also see.[85] His analysis was refined by Gabriel Lamé in 1844,[86] who showed that the number of steps required for completion is never more than five times the number h of base-10 digits of the smaller number b.[87][88] Since the computational expense of each step is also typically of order h, the overall expense grows like h2. 
+ [edit] Number of steps 
+ The number of steps to calculate the GCD of two natural numbers, a and b, may be denoted by T(a, b).[89] If g is the GCD of a and b, then a = mg and b = ng for two coprime numbers m and n. Then 
+ T(a, b) = T(m, n)
+  as may be seen by dividing all the steps in the Euclidean algorithm by g.[90] By the same argument, the number of steps remains the same if a and b are multiplied by a common factor w: T(a, b) = T(wa, wb). Therefore, the number of steps T may vary dramatically between neighboring pairs of numbers, such as T(a, b) and T(a, b + 1), depending on the size of the two GCDs. 
+ The recursive nature of the Euclidean algorithm gives another equation 
+ T(a, b) = 1 + T(b, r0) = 2 + T(r0, r1) = … = N + T(rN−2, rN−1) = N + 1
+  where T(x, 0) = 0 by assumption.[89] 
+ [edit] Worst-case number of steps 
+ If the Euclidean algorithm requires N steps for a pair of natural numbers a &gt; b &gt; 0, the smallest values of a and b for which this is true are the Fibonacci numbers FN+2 and FN+1, respectively.[91] This can be shown by induction.[92] If N = 1, b divides a with no remainder; the smallest natural numbers for which this is true is b = 1 and a = 2, which are F2 and F3, respectively. Now assume that the result holds for all values of N up to M − 1. The first step of the M-step algorithm is a = q0b + r0, and the second step is b = q1r0 + r1. Since the algorithm is recursive, it required M − 1 steps to find GCD(b, r0) and their smallest values are FM+1 and FM. The smallest value of a is therefore when q0 = 1, which gives a = b + r0 = FM+1 + FM = FM+2. This proof, published by Gabriel Lamé in 1844, represents the beginning of computational complexity theory,[93] and also the first practical application of the Fibonacci numbers.[91] 
+ This result suffices to show that the number of steps in Euclid's algorithm can never be more than five times the number of its digits (base 10).[94] For if the algorithm requires N steps, then b is greater than or equal to FN+1 which in turn is greater than or equal to φN−1, where φ is the golden ratio. Since b ≥ φN−1, then N − 1 ≤ logφb. Since log10φ &gt; 1/5, (N − 1)/5 &lt; log10φ logφb = log10b. Thus, N ≤ 5 log10b. Thus, the Euclidean algorithm always needs less than O(h) divisions, where h is the number of digits in the smaller number b. 
+ [edit] Average number of steps 
+ The average number of steps taken by the Euclidean algorithm has been defined in three different ways. The first definition is the average time T(a) required to calculate the GCD of a given number a and a smaller natural number b chosen with equal probability from the integers 0 to a − 1[89] 
+ 
+  However, since T(a, b) fluctuates dramatically with the GCD of the two numbers, the averaged function T(a) is likewise "noisy".[95] 
+ To reduce this noise, a second average τ(a) is taken over all numbers coprime with a 
+ 
+  There are φ(a) coprime integers less than a, where φ is Euler's totient function. This tau average grows smoothly with a[96][97] 
+ τ(a) = (12/π2) ln 2 ln a + C + O(a−(1/6) + ε)
+  with the residual error being of order a−(1/6) + ε, where ε is infinitesimal. The constant C in this formula equals 
+ C = −(1/2) + 6 (ln 2/π2)( 4γ − 24π2ζ '(2) + 3 ln 2 − 2) ≈ 1.467
+  where γ is the Euler–Mascheroni constant and ζ' is the derivative of the Riemann zeta function.[98][99] The leading coefficient (12/π2) ln 2 was determined by two independent methods.[100][101] 
+ Since the first average can be calculated from the tau average by summing over the divisors d of a[102] 
+ 
+  it can be approximated by the formula[103] 
+ T(a) ≈ C + (12/π2) ln 2 ( ln a − Σd|a Λ(d)/d )
+  where Λ(d) is the Mangoldt function.[104] 
+ A third average Y(n) is defined as the mean number of steps required when both a and b are chosen randomly (with uniform distribution) from 1 to n[103] 
+ 
+  Substituting the approximate formula for T(a) into this equation yields an estimate for Y(n)[105] 
+ Y(n) ≈ (12/π2) ln 2 ln n + 0.06.
+ [edit] Computational expense per step 
+ In each step k of the Euclidean algorithm, the quotient qk and remainder rk are computed for a given pair of integers rk−2 and rk−1 
+ rk−2 = qkrk−1 + rk.
+  The computational expense per step is associated chiefly with finding qk, since the remainder rk can be calculated quickly from rk−2, rk−1, and qk 
+ rk = rk−2 − qkrk−1.
+  The computational expense of dividing h-bit numbers scales as O(h(ℓ+1)), where ℓ is the length of the quotient.[106] 
+ For comparison, Euclid's original subtraction-based algorithm can be much slower. A single integer division is equivalent to the quotient q number of subtractions. If the ratio of a and b is very large, the quotient is large and many subtractions will be required. On the other hand, it has been shown that the quotients are very likely to be small integers. The probability of a given quotient q is approximately ln|u/(u − 1)| where u = (q + 1)2.[107] For illustration, the probability of a quotient of 1, 2, 3, or 4 is roughly 41.5%, 17.0%, 9.3%, and 5.9%, respectively. Since the operation of subtraction is faster than division, particularly for large numbers,[108] the subtraction-based Euclid's algorithm is competitive with the division-based version.[109] This is exploited in the binary version of Euclid's algorithm.[110] 
+ Combining the estimated number of steps with the estimated computational expense per step shows that the Euclid's algorithm grows quadratically (h2) with the average number of digits h in the initial two numbers a and b. Let h0, h1, …, hN−1 represent the number of digits in the successive remainders r0, r1, …, rN−1. Since the number of steps N grows linearly with h, the running time is bounded by 
+ 
+ [edit] Efficiency of alternative methods 
+ Euclid's algorithm is widely used in practice, especially for small numbers, due to its simplicity. For comparison, the efficiency of alternatives to Euclid's algorithm may be determined. 
+ One inefficient approach to finding the GCD of two natural numbers a and b is to calculate all their common divisors; the GCD is then the largest common divisor. The common divisors can be found by dividing both numbers by successive integers from 2 to the smaller number b. The number of steps of this approach grows linearly with b, or exponentially in the number of digits. Another inefficient approach is to find the prime factors of one or both numbers. As noted above, the GCD equals the product of the prime factors shared by the two numbers a and b.[8] Present methods for prime factorization are also inefficient; many modern cryptography systems even rely on that inefficiency.[11] 
+ The binary GCD algorithm is an efficient alternative that substitutes division with faster operations by exploiting the binary representation used by computers.[111][112] However, this alternative also scales like O(h²). It is generally faster than the Euclidean algorithm on real computers, even though it scales in the same way.[113] Additional efficiency can be gleaned by examining only the leading digits of the two numbers a and b.[114][115] The binary algorithm can be extended to other bases (k-ary algorithms),[116] with up to fivefold increases in speed.[117] 
+ A recursive approach for very large integers (with more than 25,000 digits) leads to subquadratic integer GCD algorithms,[118] such as those of Schönhage,[119][120] and Stehlé and Zimmermann.[121] These algorithms exploit the 2×2 matrix form of the Euclidean algorithm given above. These subquadratic methods generally scale as O(h (log h)2 (log log h)).[113][122] 
+ [edit] Other number systems 
+ As described above, the Euclidean algorithm is used to find the greatest common divisor of two natural numbers (positive integers). However, it may be generalized to the real numbers, and to more exotic number systems such as polynomials, quadratic integers and Hurwitz quaternions. In the latter cases, the Euclidean algorithm is used to demonstrate the crucial property of unique factorization, i.e., that such numbers can be factored uniquely into irreducible elements, the counterparts of prime numbers. Unique factorization is essential to many proofs of number theory. 
+ [edit] Rational and real numbers 
+ Euclid's algorithm can be applied to real numbers, as described by Euclid in Book 10 of his Elements. The goal of the algorithm is to identify a real number g such that two given real numbers, a and b, are integer multiples of it: a = mg and b = ng, where m and n are integers.[27] This identification is equivalent to finding an integer relation among the real numbers a and b; that is, it determines integers s and t such that sa + tb = 0. Euclid uses this algorithm to treat the question of incommensurable lengths.[123][124] 
+ The real-number Euclidean algorithm differs from its integer counterpart in two respects. First, the remainders rk are real numbers, although the quotients qk are integers as before. Second, the algorithm is not guaranteed to end in a finite number N of steps. If it does, the fraction a/b is a rational number, i.e., the ratio of two integers 
+ a/b = mg/ng = m/n
+  and can be written as a finite continued fraction [q0; q1, q2, …, qN]. If the algorithm does not stop, the fraction a/b is an irrational number and can be described by an infinite continued fraction [q0; q1, q2, …]. Examples of infinite continued fractions are the golden ratio φ = [1; 1, 1, …] and the square root of two, √2 = [1; 2, 2, …]. Generally speaking, the algorithm is unlikely to stop, since almost all ratios a/b of two real numbers are irrational. 
+ An infinite continued fraction may be truncated at a step k [q0; q1, q2, …, qk] to yield an approximation to a/b that improves as k is increased. The approximation is described by convergents mk/nk; the numerator and denominators are coprime and obey the recursion 
+ mk = qkmk−1 + mk−2
+nk = qknk−1 + nk−2
+  where m−1 = n−2 = 1 and m−2 = n−1 = 0 are the initial values of the recursion. The convergent mk/nk is the best rational number approximation to a/b with denominator nk: 
+ 
+ [edit] Polynomials 
+ Polynomials in a single variable x can be added, multiplied and factored into irreducible polynomials, which are the analogs of the prime numbers for integers. The greatest common divisor polynomial g(x) of two polynomials a(x) and b(x) is defined as the product of their shared irreducible polynomials, which can be identified using the Euclidean algorithm.[125] The basic procedure is similar to integers. At each step k, a quotient polynomial qk(x) and a remainder polynomial rk(x) are identified to satisfy the recursive equation 
+ rk−2(x) = qk(x) rk−1(x) + rk(x)
+  where r−2(x) = a(x) and r−1(x) = b(x). The quotient polynomial is chosen so that the leading term of qk(x) rk−1(x) equals the leading term of rk−2(x); this ensures that the degree of each remainder is smaller than the degree of its predecessor deg[rk(x)] &lt; deg[rk−1(x)]. Since the degree is a nonnegative integer, and since it decreases with every step, the Euclidean algorithm concludes in a finite number of steps. The final nonzero remainder is the greatest common divisor of the original two polynomials, a(x) and b(x).[126] 
+ For example, consider the following two quartic polynomials, which each factor into two quadratic polynomials 
+ a(x) = x4 − 4x3 + 4 x2 − 3x + 14 = (x2 − 5x + 7)(x2 + x + 2)
+  and 
+ b(x) = x4 + 8x3 + 12x2 + 17x + 6 = (x2 + 7x + 3)(x2 + x + 2).
+  Dividing a(x) by b(x) yields a remainder r0(x) = x3 + (2/3) x2 + (5/3) x − (2/3). In the next step, b(x) is divided by r0(x) yielding a remainder r1(x) = x2 + x + 2. Finally, dividing r0(x) by r1(x) yields a zero remainder, indicating that r1(x) is the greatest common divisor polynomial of a(x) and b(x), consistent with their factorization. 
+ Many of the applications described above for integers carry over to polynomials.[127] The Euclidean algorithm can be used to solve linear Diophantine equations and Chinese remainder problems for polynomials; continued fractions of polynomials can also be defined. 
+ The polynomial Euclidean algorithm has other applications as well, such as Sturm chains, a method for counting the number of real roots of a polynomial within a given interval on the real axis. This has applications in several areas, such as the Routh–Hurwitz stability criterion in control theory. 
+ Finally, the coefficients of the polynomials need not be drawn from integers, real numbers or even the complex numbers. For example, the coefficients may be drawn from a general field, such as the finite fields GF(p) described above. The corresponding conclusions about the Euclidean algorithm and its applications hold even for such polynomials.[125] 
+ [edit] Gaussian integers 
+ The Gaussian integers are complex numbers of the form α = u + vi, where u and v are ordinary integers and i is the square root of negative one.[128] By defining an analog of the Euclidean algorithm, Gaussian integers can be shown to be uniquely factorizable, by the argument above.[40] This unique factorization is helpful in many applications, such as deriving all Pythagorean triples or proving Fermat's theorem on sums of two squares.[128] In general, the Euclidean algorithm is convenient in such applications, but not essential; for example, the theorems can often be proven by other arguments. 
+ The Euclidean algorithm developed for two Gaussian integers α and β is nearly the same as that for normal integers, but differs in two respects. As before, the task at each step k is to identify a quotient qk and a remainder rk such that 
+ rk = rk−2 − qkrk−1
+  where rk−2 = α, rk−1 = β, and every remainder is strictly smaller than its predecessor, |rk| &lt; |rk−1|. The first difference is that the quotients and remainders are themselves Gaussian integers, and thus are complex numbers. The quotients qk are generally found by rounding the real and complex parts of the exact ratio (such as the complex number α/β) to the nearest integers. The second difference lies in the necessity of defining how one complex remainder can be "smaller" than another. To do this, we define a norm function f(u + vi) = u2 + v2, which converts every Gaussian integer u + vi into a normal integer. After each step k of the Euclidean algorithm, the norm of the remainder f(rk) is smaller than the norm of the preceding remainder, f(rk−1). Since the norm is a nonnegative integer and decreases with every step, the Euclidean algorithm for Gaussian integers ends in a finite number of steps. The final nonzero remainder is the GCD(α,β), the Gaussian integer of largest norm that divides both α and β; it is unique up to multiplication by a unit, ±1 or ±i. 
+ Many of the other applications of the Euclidean algorithm carry over to Gaussian integers. For example, it can be used to solve linear Diophantine equations and Chinese remainder problems for Gaussian integers; continued fractions of Gaussian integers can also be defined. 
+ [edit] Euclidean domains 
+ A set of elements under two binary operations, + and ·, is called a Euclidean domain if it forms a commutative ring R and, roughly speaking, if a generalized Euclidean algorithm can be performed on them.[129][130] The two operations of such a ring need not be the addition and multiplication of ordinary arithmetic; rather, they can be more general, such as the operations of a mathematical group or monoid. Nevertheless, these general operations should respect many of the laws governing ordinary arithmetic, such as commutativity, associativity and distributivity. 
+ The generalized Euclidean algorithm requires a Euclidean function, i.e., a mapping f from R into the set of nonnegative integers such that, for any two nonzero elements a and b in R, there exist q and r in R such that a = qb + r and f(r) &lt; f(b). An example of this mapping is the norm function used to order the Gaussian integers above. The function f can be the magnitude of the number, or the degree of a polynomial. The basic principle is that each step of the algorithm reduces f inexorably; hence, if f can be reduced only a finite number of times, the algorithm must stop in a finite number of steps. This principle relies heavily on the natural well-ordering of the non-negative integers; roughly speaking, this requires that every set of non-negative integers has a smallest member. 
+ The fundamental theorem of arithmetic applies to any Euclidean domain: Any number from a Euclidean domain can be factored uniquely into irreducible elements. Any Euclidean domain is a unique factorization domain (UFD), although the converse is not true. The Euclidean domains and the UFD's are subclasses of the GCD domains, domains in which a greatest common divisor of two numbers always exists. In other words, a greatest common divisor may exist (for all pairs of elements in a domain), although it may not be possible to find it using a Euclidean algorithm. A Euclidean domain is always a principal ideal domain (PID), an integral domain in which every ideal is a principal ideal. Again, the converse is not true: not every PID is a Euclidean domain. 
+ The unique factorization of Euclidean domains is useful in many applications. For example, the unique factorization of the Gaussian integers is convenient in deriving formulae for all Pythagorean triples and in proving Fermat's theorem on sums of two squares.[128] Unique factorization was also a key element in an attempted proof of Fermat's Last Theorem published in 1847 by Gabriel Lamé, the same mathematician who analyzed the efficiency of Euclid's algorithm, based on a suggestion of Joseph Liouville.[131] Lamé's approach required the unique factorization of numbers of the form x + ωy, where x and y are integers, and ω = e2iπ/n is an nth root of 1, that is, ωn = 1. Although this approach succeeds for some values of n (such as n=3, the Eisenstein integers), in general such numbers do not factor uniquely. This failure of unique factorization in some cyclotomic fields led Ernst Kummer to the concept of ideal numbers and, later, Richard Dedekind to ideals.[citation needed] 
+ [edit] Unique factorization of quadratic integers 
+ The quadratic integer rings are helpful to illustrate Euclidean domains. Quadratic integers are generalizations of the Gaussian integers in which the imaginary unit i is replaced by a number ω. Thus, they have the form u + v ω, where u and v are integers and ω has one of two forms, depending on a parameter D. If D does not equal a multiple of four plus one, then 
+ ω = √D.
+  If, however, D does equal a multiple of four plus one, then 
+ ω = (1 + √D)/2.
+  If the function f corresponds to a norm function, such as that used to order the Gaussian integers above, then the domain is known as norm-Euclidean. The norm-Euclidean rings of quadratic integers are exactly those where D = −11, −7, −3, −2, −1, 2, 3, 5, 6, 7, 11, 13, 17, 19, 21, 29, 33, 37, 41, 57 or 73.[20][132] The quadratic integers with D = −1 and −3 are known as the Gaussian integers and Eisenstein integers, respectively. 
+ If f is allowed to be any Euclidean function, then the list of possible D values for which the domain is Euclidean is not yet known.[133] The first example of a Euclidean domain that was not norm-Euclidean (with D = 69) was published in 1994.[133] In 1973, Weinberger proved that a quadratic integer ring with D &gt; 0 is Euclidean if, and only if, it is a principal ideal domain, provided that the generalized Riemann hypothesis holds.[134] 
+ [edit] Noncommutative rings 
+ It is also possible to apply the Euclidean algorithm to noncommutative rings such as the set of Hurwitz quaternions.[135] Let α and β represent two elements from such a ring. They have a common right divisor δ if α = ξδ and β = ηδ for some choice of ξ and η in the ring. Similarly, they have a common left divisor if α = δξ and β = δη for some choice of ξ and η in the ring. Since multiplication is not commutative, there are two versions of the Euclidean algorithm, one for right divisors and one for left divisors. Choosing the right divisors, the first step in finding the GCD(α, β) by the Euclidean algorithm can be written 
+ ρ0 = α − ψ0β = (ξ − ψ0η)δ
+  where ψ0 represents the quotient and ρ0 the remainder. This equation shows that any common right divisor of α and β is likewise a common divisor of the remainder ρ0. The analogous equation for the left divisors would be 
+ ρ0 = α − βψ0 = δ(ξ − ηψ0)
+  With either choice, the process is repeated as above until the greatest common right or left divisor is identified. As in the Euclidean domain, the "size" of the remainder ρ0 must be strictly smaller than β, and there must be only a finite number of possible sizes for ρ0, so that the algorithm is guaranteed to terminate. 
+ Most of the results for the GCD carry over to noncommutative numbers. For example, Bézout's identity states that the right GCD(α, β) can be expressed as a linear combination of α and β. In other words, there are numbers σ and τ such that 
+ Γright = σα + τβ
+  The analogous identity for the left GCD is nearly the same 
+ Γleft = ασ + βτ
+  Bézout's identity can be used to solve Diophantine equations. 
+ [edit] Generalizations to other mathematical structures 
+ The Euclidean algorithm has three general features that together ensure it will not continue indefinitely. First, it can be written as a sequence of recursive equations 
+ rk = rk−2 − qkrk−1
+  where each remainder is strictly smaller than its predecessor, |rk| &lt; |rk−1|. Second, the size of each remainder has a strict lower limit, such as |rk| ≥ 0. Third, there is only a finite number of sizes smaller than a given remainder |rk|. Generalizations of Euclid's algorithm with these basic features have been applied to other mathematical structures, such as tangles[137] and transfinite ordinal numbers.[138] 
+ An important generalization of the Euclidean algorithm is the concept of a Gröbner basis in algebraic geometry. As shown above, the GCD g of two integers a and b is the generator of their ideal. In other words, for any choice of the integers s and t, there is another integer m such that 
+ sa + tb = mg.
+  Although this remains true when s, t, m, a and b represent polynomials of a single variable, it is not true for rings of more than one variable.[139] In that case, a finite set of generator polynomials g1, g2, etc. can be defined such that any linear combination of two multivariable polynomials a and b can be expressed as multiples of the generators 
+ sa + tb = Σkmkgk
+  where s, t and mk are multivariable polynomials.[140] Any such multivariable polynomial f can be expressed as such a sum of generator polynomials plus a unique remainder polynomial r, sometimes called the normal form of polynomial f 
+ f = r + Σkqkgk
+  although the quotient polynomials qk may not be unique.[141] The set of these generator polynomials is known as a Gröbner basis.[142] 
+ [edit] See also 
+ [edit] References 
+ 
+ ^ Thomas L. Heath, The Thirteen Books of Euclid's Elements, 2nd ed. [Facsimile. Original publication: Cambridge University Press, 1925], 1956, Dover Publications
+^ Toussaint, Godfried (July 31 to August 3, 2005), "The Euclidean algorithm generates traditional musical rhythms", Proceedings of BRIDGES: Mathematical Connections in Art, Music, and Science (Banff, Alberta, Canada): 47–56, http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf
+^ Stark 1978, p. 16
+^ Stark 1978, p. 21
+^ LeVeque 1996, p. 32
+^ LeVeque 1996, p. 31
+^ Grossman JW (1990). Discrete Mathematics. New York: Macmillan. p. 213. ISBN 0-02-348331-8.
+^ a b Schroeder 2005, pp. 21–22
+^ Schroeder 2005, p. 19
+^ Ogilvy CS, Anderson JT (1966). Excursions in number theory. New York: Oxford University Press. pp. 27–29. LCCN 6614484.
+^ a b Schroeder 2005, pp. 216–219
+^ a b LeVeque 1996, p. 33
+^ Stark 1978, p. 25
+^ Ore 1948, pp. 47–48
+^ Stark 1978, p. 18
+^ Stark 1978, pp. 16–20
+^ Knuth, p. 320.
+^ Lovász L, Pelikán J, Vesztergombi K (2003). Discrete Mathematics: Elementary and Beyond. New York: Springer-Verlag. pp. 100–101. ISBN 0-387-95584-4.
+^ Kimberling C (1983). "A Visual Euclidean Algorithm". Mathematics Teacher 76: 108–109.
+^ a b Cohn 1962, pp. 104–110
+^ Knuth, pp. 319–320.
+^ Knuth, pp. 318–319.
+^ Stillwell 1997, p. 14
+^ a b Ore 1948, p. 43
+^ a b Stewart BM (1964). Theory of Numbers (2nd ed.). New York: Macmillan. pp. 43–44. LCCN 6410964.
+^ a b Knuth, p. 318.
+^ a b Weil A (1983). Number Theory. Boston: Birkhäuser. pp. 4–6. ISBN 0-8176-3141-0.
+^ Jones A (1994). "Greek mathematics to AD 300". Companion encyclopedia of the history and philosophy of the mathematical sciences. New York: Routledge. pp. 46–48. ISBN 0-415-09238-8.
+^ van der Waerden BL (1954). Science Awakening. translated by Arnold Dresden. Groningen: P. Noordhoff Ltd. pp. 114–115.
+^ von Fritz K (1945). "The Discovery of Incommensurability by Hippasus of Metapontum". Ann. Math. 46 (2): 242–264. doi:10.2307/1969021. JSTOR 1969021.
+^ Heath TL (1949). Mathematics in Aristotle. Oxford Press. pp. 80–83.
+^ Fowler DH (1987). The Mathematics of Plato's Academy: A New Reconstruction. Oxford: Oxford University Press. pp. 31–66. ISBN 0-19-853912-6.
+^ Becker O (1933). "Eudoxus-Studien I. Eine voreuklidische Proportionslehre und ihre Spuren bei Aristoteles und Euklid". Quellen und Studien zur Geschichte der Mathematik B 2: 311–333.
+^ a b Stillwell 1997, p. 31
+^ a b Tattersall 2005, p. 70
+^ Rosen 2000, pp. 86–87
+^ Ore 1948, pp. 247–248
+^ Tattersall 2005, pp. 72, 184–185
+^ Tattersall 2005, pp. 72–76
+^ a b Gauss CF (1832). "Theoria residuorum biquadraticorum". Comm. Soc. Reg. Sci. Gött. Rec. 4. See also Werke, 2:67–148.
+^ Stillwell 1997, pp. 31–32
+^ Dirichlet 1894, pp. 29–31
+^ Richard Dedekind in Dirichlet 1894, Supplement XI
+^ Stillwell 2003, pp. 41–42
+^ Sturm C (1829). "Mémoire sur la résolution des équations numériques". Bull. des sciences de Férussac 11: 419–422.
+^ Weisstein, Eric W., "Integer Relation" from MathWorld.
+^ Peterson I (12 August 2002). "Jazzing Up Euclid's Algorithm". ScienceNews. http://www.sciencenews.org/view/generic/id/172/title/Math_Trek__Jazzing_Up_Euclids_Algorithm.
+^ Cipra BA (16 May 2000). "The Best of the 20th Century: Editors Name Top 10 Algorithms". SIAM News (Society for Industrial and Applied Mathematics) 33 (4). http://amath.colorado.edu/resources/archive/topten.pdf.
+^ Cole AJ, Davie AJT (1969). "A game based on the Euclidean algorithm and a winning strategy for it". Math. Gaz. 53 (386): 354–357. doi:10.2307/3612461. JSTOR 3612461.
+^ Spitznagel EL (1973). "Properties of a game based on Euclid's algorithm". Math. Mag. 46 (2): 87–92. doi:10.2307/2689037. JSTOR 2689037.
+^ Rosen 2000, p. 95
+^ Roberts J (1977). Elementary Number Theory: A Problem Oriented Approach. Cambridge, MA: MIT Press. pp. 1–8. ISBN 0-262-68028-9.
+^ Jones GA, Jones JM (1998). "Bezout's Identity". Elementary Number Theory. New York: Springer-Verlag. pp. 7–11.
+^ Rosen 2000, p. 81
+^ Cohn 1962, p. 104
+^ Rosen 2000, p. 91
+^ Schroeder 2005, p. 23
+^ Rosen 2000, pp. 90–93
+^ a b Koshy T (2002). Elementary Number Theory with Applications. Burlington, MA: Harcourt/Academic Press. pp. 167–169. ISBN 0-12-421171-2.
+^ Bach E, Shallit J (1996). Algorithmic number theory. Cambridge, MA: MIT Press. pp. 70–73. ISBN 0-262-02405-5.
+^ Stark 1978, pp. 26–36
+^ a b Ore 1948, p. 44
+^ Stark 1978, pp. 281–292
+^ Rosen 2000, pp. 119–125
+^ Schroeder 2005, pp. 106–107
+^ Schroeder 2005, pp. 108–109
+^ Rosen 2000, pp. 120–121
+^ Stark 1978, p. 47
+^ Schroeder 2005, pp. 107–109
+^ Stillwell 1997, pp. 186–187
+^ Schroeder 2005, p. 134
+^ "Error correction coding: mathematical methods and algorithms", page 266, Todd K. Moon, John Wiley and Sons, 2005, ISBN 0-471-64800-0
+^ Rosen 2000, pp. 143–170
+^ Schroeder 2005, pp. 194–195
+^ Vinogradov IM (1954). Elements of Number Theory. New York: Dover. pp. 3–13.
+^ Crandall R, Pomerance C (2001). Prime Numbers: A Computational Perspective (1st ed.). New York: Springer-Verlag. pp. 225–349. ISBN 0-387-94777-9.
+^ Knuth, pp. 369–371.
+^ Shor PW (1997). "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer". SIAM J. Sci. Statist. Comput. 26: 1484.
+^ Dixon JD (1981). "Asymptotically fast factorization of integers". Math. Comput. 36 (153): 255–260. doi:10.2307/2007743. JSTOR 2007743.
+^ Lenstra Jr. HW (1987). "Factoring integers with elliptic curves". Annals of Mathematics 126 (3): 649–673. doi:10.2307/1971363. JSTOR 1971363.
+^ Knuth, pp. 380–384.
+^ Knuth, pp. 339–364.
+^ Reynaud A.-A.-L. (1811). Traité d'arithmétique à l'usage des élèves qui se destinent à l'École Polytechnique. Courcier.
+^ Finck P.-J.-E. (1841). Traité élémentaire d'arithmétique à l'usage des candidats aux écoles spéciales. Derivaux.
+^ Shallit J (1994). "Origins of the analysis of the Euclidean algorithm". Historia Math. 21: 401–419.
+^ Lamé G (1844). "Note sur la limite du nombre des divisions dans la recherche du plus grand commun diviseur entre deux nombres entiers". Comptes Rendus Acad. Sci. 19: 867–870.
+^ Grossman H (1924). "On the Number of Divisions in Finding a G.C.D". The American Mathematical Monthly 31 (9): 443. doi:10.2307/2298146. JSTOR 2298146.
+^ Honsberger R (1976). Mathematical Gems II. The Mathematical Association of America. pp. 54–57. ISBN 0-88385-302-7.
+^ a b c Knuth, p. 344.
+^ Ore 1948, p. 45
+^ a b Knuth, p. 343.
+^ Mollin 2008, p. 21
+^ LeVeque 1996, p. 35
+^ Mollin 2008, pp. 21–22
+^ Knuth, p. 353.
+^ Knuth, p. 357.
+^ Tonkov T (1974). "On the average length of finite continued fractions". Acta arithmetica 26: 47–57.
+^ Porter JW (1975). "On a Theorem of Heilbronn". Mathematika 22: 20–28. doi:10.1112/S0025579300004459.
+^ Knuth DE (1976). "Evaluation of Porter's Constant". Computers and Mathematics with Applications 2 (2): 137–139. doi:10.1016/0898-1221(76)90025-0.
+^ Dixon JD (1970). "The Number of Steps in the Euclidean Algorithm". J. Number Theory 2 (4): 414–422. doi:10.1016/0022-314X(70)90044-2.
+^ Heilbronn HA (1969). "On the Average Length of a Class of Finite Continued Fractions". In Paul Turán. Number Theory and Analysis. New York: Plenum. pp. 87–96. LCCN 688991.
+^ Knuth, p. 354.
+^ a b Norton GH (1990). "On the Asymptotic Analysis of the Euclidean Algorithm". Journal of Symbolic Computation 10: 53–58. doi:10.1016/S0747-7171(08)80036-3.
+^ Knuth, p. 355.
+^ Knuth, p. 356.
+^ Knuth, pp. 257–261.
+^ Knuth, p. 352.
+^ Wagon S (1999). Mathematica in Action. New York: Springer-Verlag. pp. 335–336. ISBN 0-387-98252-3.
+^ Cohen 1993, p. 14
+^ Cohen 1993, pp. 14–15, 17–18
+^ Knuth, pp. 321–323.
+^ Stein J (1967). "Computational problems associated with Racah algebra". Journal of Computational Physics 1 (3): 397–405. doi:10.1016/0021-9991(67)90047-2.
+^ a b Crandall R, Pomerance C (2001). Prime Numbers: A Computational Perspective (1st ed.). New York: Springer-Verlag. pp. 77–79, 81–85, 425–431. ISBN 0-387-94777-9.
+^ Knuth, p. 328.
+^ Lehmer DH (1938). "Euclid's Algorithm for Large Numbers". The American Mathematical Monthly 45 (4): 227–233. doi:10.2307/2302607. JSTOR 2302607.
+^ Sorenson J (1994). "Two fast GCD algorithms". J. Algorithms 16: 110–144. doi:10.1006/jagm.1994.1006.
+^ Weber K (1995). "The accelerated GCD algorithm". ACM Trans. Math. Soft. 21: 111–122. doi:10.1145/200979.201042.
+^ Aho A, Hopcroft J, Ullman J (1974). The Design and Analysis of Computer Algorithms. New York: Addison–Wesley. pp. 300–310. ISBN 0-201-00029-6.
+^ Schönhage A (1971). "Schnelle Berechnung von Kettenbruchentwicklungen". Acta Informatica 1 (2): 139–144. doi:10.1007/BF00289520.
+^ Cesari G (1998). "Parallel implementation of Schönhage's integer GCD algorithm". In G. Buhler. Algorithmic Number Theory: Proc. ANTS-III, Portland, OR. New York: Springer-Verlag. pp. 64–76. Volume 1423 in Lecture notes in Computer Science.
+^ Stehlé D, Zimmermann P (2005). "Gal’s accurate tables method revisited". Proceedings of the 17th IEEE Symposium on Computer Arithmetic (ARITH-17). Los Alamitos, CA: IEEE Computer Society Press.
+^ Möller N (2008). "On Schönhage's algorithm and subquadratic integer gcd computation". Mathematics of Computation 77 (261): 589–607. doi:10.1090/S0025-5718-07-02017-0. http://www.lysator.liu.se/~nisse/archive/sgcd.pdf.
+^ Boyer CB, Merzbach UC (1991). A History of Mathematics (2nd ed.). New York: Wiley. pp. 116–117. ISBN 0-471-54397-7.
+^ Cajori F (1894). A History of Mathematics. New York: Macmillan. p. 70. ISBN 0-486-43874-0.
+^ a b Lang S (1984). Algebra (2nd ed.). Menlo Park, CA: Addison–Wesley. pp. 190–194. ISBN 0-201-05487-6.
+^ Cox, Little &amp; O'Shea 1997, pp. 37–46
+^ Schroeder 2005, pp. 254–259
+^ a b c Stillwell 2003, pp. 101–116
+^ Stark 1978, p. 290
+^ Cohn 1962, pp. 104–105
+^ Lamé G (1847). "Mémoire sur la résolution, en nombres complexes, de l'équation An + Bn + Cn = 0". J. Math. Pures Appl. 12: 172–184.
+^ LeVeque, William J. (2002) [1956]. Topics in Number Theory, Volumes I and II. New York: Dover Publications. pp. II:57,81. ISBN 978-0-486-42539-9. Zbl 1009.11001.
+^ a b Clark, David A. (1994). "A quadratic field which is Euclidean but not norm-Euclidean". Manuscripta Mathematica 83: 327–330. doi:10.1007/BF02567617. Zbl 0817.11047. http://www.springerlink.com/content/6t9u2440402n1346/.
+^ Weinberger P. On Euclidean rings of algebraic integers. . Proc. Sympos. Pure Math. 24: 321–332.
+^ Stillwell 2003, pp. 151–152
+^ Yamada Y (2007). "Generalized rational blow-down, torus knots, and Euclidean algorithm". arXiv:0708.2316 [math.GT].
+^ Conway, John (1970). "An enumeration of knots and links, and some of their algebraic properties". Computational Problems in Abstract Algebra (Proc. Conf., Oxford, 1967). Pergamon. pp. 329–358.
+^ Jategaonkar AV (1969). "Rings with transfinite left division algorithm". Bull. Amer. Math. Soc. 75 (3): 559–561. doi:10.1090/S0002-9904-1969-12242-1. http://projecteuclid.org/euclid.bams/1183530557.
+^ Cox, Little &amp; O'Shea 1997, p. 65
+^ Cox, Little &amp; O'Shea 1997, pp. 73–79
+^ Cox, Little &amp; O'Shea 1997, pp. 79–86
+^ Cox, Little &amp; O'Shea 1997, p. 74
+  
+ [edit] Bibliography 
+ Cohen, Henri (1993). A Course in Computational Algebraic Number Theory. New York: Springer-Verlag. ISBN 0-387-55640-0. http://books.google.com/?id=hXGr-9l1DXcC.
+Cohn, H. (1962). Advanced Number Theory. New York: Dover. ISBN 0-486-64023-X. http://books.google.com/?id=yMGeElJ8M0wC.
+Cormen TH, Leiserson CE, Rivest RL, and Stein C (2001). Introduction to Algorithms (2nd ed.). MIT Press and McGraw–Hill. ISBN 0-262-03293-7. http://books.google.com/?id=NLngYyWFl_YC.
+Cox, D; Little, J; O'Shea, D (1997). Ideals, Varieties, and Algorithms: An Introduction to Computational Algebraic Geometry and Commutative Algebra (2nd ed.). Springer-Verlag. ISBN 0-387-94680-2. http://books.google.com/?id=7eLkq0wQytAC.
+Dirichlet, Johann Peter Gustav Lejeune (1894). Dedekind, Richard. ed (in German). Vorlesungen über Zahlentheorie (Lectures on Number Theory). Braunschweig: Vieweg. LCCN 03005859. OCLC 490186017. http://books.google.com/books?id=WZIKAAAAYAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false.. See also Vorlesungen über Zahlentheorie
+Hardy GH, Wright EM [revised by D.R. Heath-Brown and J.H. Silverman]. (2008). An Introduction to the Theory of Numbers (6th ed.). Oxford: Clarendon Press. ISBN 978-0-19-921986-5. http://books.google.com/?id=rey9wfSaJ9EC.
+Knuth D (1997). The Art of Computer Programming, Volume 2: Seminumerical Algorithms (3rd ed.). Addison–Wesley. ISBN 0-201-89684-2.
+LeVeque, William J. (1996) [1977]. Fundamentals of Number Theory. New York: Dover. ISBN 0-486-68906-9.
+Mollin, R. A. (2008). Fundamental Number Theory with Applications (2nd ed.). Boca Raton: Chapman &amp; Hall/CRC. ISBN 978-1-4200-6659-3.
+Ore, Øystein (1948). Number Theory and Its History. New York: McGraw–Hill.
+Rosen, K. H. (2000). Elementary Number Theory and its Applications (4th ed.). Reading, MA: Addison–Wesley. ISBN 0-201-87073-8.
+Schroeder, Manfred (2005). Number Theory in Science and Communication (4th ed.). Springer-Verlag. ISBN 0-387-15800-6.
+Stark, Harold (1978). An Introduction to Number Theory. MIT Press. ISBN 0-262-69060-8.
+Stillwell, John (1997). Numbers and Geometry. New York: Springer-Verlag. ISBN 0-387-98289-2.
+Stillwell, John (2003). Elements of Number Theory. New York: Springer-Verlag. ISBN 0-387-95587-9.
+Tattersall, J. J. (2005). Elementary number theory in nine chapters. Cambridge: Cambridge University Press. ISBN 978-0-521-85014-8.
+Uspensky JV, Heaslet MA (1939). Elementary Number Theory. New York: McGraw–Hill.
+ [edit] External links 
+  

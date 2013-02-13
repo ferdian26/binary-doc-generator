@@ -1,0 +1,181 @@
+  Lead(II) nitrate
+Other names
+Lead nitrate
+Plumbous nitrate
+Lead dinitrate
+Plumb dulcis
+Identifiers
+CAS number
+10099-74-8 Y
+PubChem
+24924
+ChemSpider
+23300 Y
+UN number
+1469
+ChEBI
+CHEBI:37187 Y
+RTECS number
+OG2100000
+Jmol-3D images
+Image 1
+[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Pb+2]
+InChI=1S/2NO3.Pb/c2*2-1(3)4;/q2*-1;+2 Y
+Key: RLJMLMKIBZAXJO-UHFFFAOYSA-N Y
+InChI=1S/2NO3.Pb/c2*2-1(3)4;/q2*-1;+2
+Properties
+Molecular formula
+Pb(NO3)2
+Molar mass
+331.2 g/mol
+Appearance
+White colourless crystals
+Density
+4.53 g/cm3 (20 °C)
+Melting point
+270 °C, decomp.
+Solubility in water
+37.65 g/100 mL (0 °C)
+52 g/100 mL (20 °C)
+127 g/100 mL (100 °C)
+Solubility in nitric acid
+in ethanol
+in methanol
+insoluble
+0.04 g/100 mL
+1.3 g/100 mL
+Refractive index (nD)
+1.782[1]
+Structure
+Crystal structure
+Face-centred cubic
+Coordination
+geometry
+cuboctahedral
+Hazards
+MSDS
+External MSDS
+EU Index
+082-001-00-6
+EU classification
+Repr. Cat. 1/3
+Toxic (T)
+Harmful (Xn)
+Dangerous for the environment (N)
+R-phrases
+R61, R20/22, R33, R62, R50/53
+S-phrases
+S53, S45, S60, S61
+NFPA 704
+0
+3
+1
+OX
+Flash point
+Non-flammable
+Related compounds
+Other anions
+Lead(II) sulfateLead(II) chlorideLead(II) bromide
+Other cations
+Tin(II) nitrate
+Related compounds
+Thallium(III) nitrate
+Bismuth(III) nitrate
+Supplementary data page
+Structure and
+properties
+n, εr, etc.
+Thermodynamic
+data
+Phase behaviour
+Solid, liquid, gas
+Spectral data
+UV, IR, NMR, MS
+ Y (verify) (what is: Y/N?)
+Except where noted otherwise, data are given for materials in their standard state (at 25 °C, 100 kPa)
+Infobox references
+ Lead(II) nitrate is an inorganic compound with the chemical formula Pb(NO3)2. It commonly occurs as a colourless crystal or white powder and, unlike most other lead(II) salts, is soluble in water. 
+ Known since the Middle Ages by the name plumb dulcis, the production of lead(II) nitrate from either metallic lead or lead oxide in nitric acid was small-scale, for direct use in making other lead compounds. In the 19th century lead(II) nitrate began to be produced commercially in Europe and the United States. Historically, the main use was as a raw material in the production of pigments for lead paints, but such paints have been superseded by less toxic paints based on titanium dioxide. Other industrial uses included heat stabilisation in nylon and polyesters, and in coatings of photothermographic paper. Since around the year 2000, lead(II) nitrate has begun to be used in gold cyanidation. 
+ Lead(II) nitrate is toxic, an oxidising agent, and is categorised as probably carcinogenic to humans by the International Agency for Research on Cancer. Consequently, it must be handled and stored with the appropriate safety precautions to prevent inhalation, ingestion and skin contact. Due to its hazardous nature, the limited applications of lead(II) nitrate are under constant scrutiny. 
+ [edit] History 
+ Since the Middle Ages, lead(II) nitrate has been produced as a raw material for the production of coloured pigments in lead paints, such as chrome yellow (lead(II) chromate), chrome orange (lead(II) hydroxide chromate) and similar lead compounds. These pigments were used for dyeing and printing calico and other textiles.[2] 
+ In 1597, the German alchemist Andreas Libavius first described the compound, coining the medieval names of plumb dulcis and calx plumb dulcis, meaning "sweet lead", because of its taste.[3] Although originally not understood during the following centuries, the decrepitation property of lead(II) nitrate led to its use in matches and special explosives such as lead azide.[4] 
+ The production process was and still is chemically straightforward, effectively dissolving lead in aqua fortis (nitric acid), and subsequently harvesting the precipitate. However, the production remained small-scale for many centuries, and the commercial production of lead(II) nitrate as raw material for the manufacture of other lead compounds was not reported until 1835.[5][6] In 1974, the U.S. consumption of lead compounds, excluding pigments and gasoline additives, was 642 tons.[7] 
+ [edit] Structure 
+ The crystal structure of solid lead(II) nitrate has been determined by neutron diffraction.[8][9] The compound crystallises in the cubic system with the lead atoms in a face-centred cubic system. Its space group is Pa3Z=4 (Bravais lattice notation), with each side of the cube with length 784 picometres. 
+ The black dots represent the lead atoms, the white dots the nitrate groups 27 picometres above the plane of the lead atoms, and the blue dots the nitrate groups the same distance below this plane. In this configuration, every lead atom is bonded to twelve oxygen atoms (bond length: 281 pm). All N–O bond lengths are identical, at 127 picometres. 
+ Research interest in the crystal structure of lead(II) nitrate was partly based on the possibility of free internal rotation of the nitrate groups within the crystal lattice at elevated temperatures, but this did not materialise.[9] 
+ [edit] Preparation and production 
+ Lead(II) nitrate does not occur naturally. The compound can be obtained by dissolving metallic lead in aqueous nitric acid:[7][10] 
+ 3 Pb (s) + 8 H+ (aq) + 2 NO−
+3 (aq) → 3 Pb2+ (aq) + 2 NO−
+3 (g) + 4 H2O (l)
+  More commonly, lead(II) nitrate is obtained by dissolving lead(II) oxide, which is readily available as an intermediate in the processing of galena, in aqueous nitric acid:[7] 
+ PbO (s) + 2 H+ (aq) → Pb2+ (aq) + H2O (l)
+  In either case, since the solvent is concentrated nitric acid (in which lead(II) nitrate has very low solubility) and the resulting solution contains nitrate ions, anhydrous crystals of lead(II) nitrate spontaneously form as a result of the common ion effect:[10] 
+ Pb2+ (aq) + 2 NO−
+3 (aq) → Pb(NO3)2 (s)
+  Most commercially available lead(II) nitrate, as well as laboratory-scale material, is produced accordingly.[11] Supply is in 25 kilogram bags up to 1000 kilogram big bags, and in laboratory containers, both by general producers of laboratory chemicals and by producers of lead and lead compounds. No large-scale production has been reported. 
+ In nitric acid treatment of lead-containing wastes, e.g., in the processing of lead–bismuth wastes from lead refineries, impure solutions of lead(II) nitrate are formed as by-product. These solutions are reported to be used in the gold cyanidation process.[12] 
+ [edit] Reactions 
+ Apart from lead(II) acetate, lead(II) nitrate is the only common soluble lead compound. Lead(II) nitrate readily dissolves in water to give a clear, colourless solution.[13] As an ionic substance, the dissolution of lead(II) nitrate involves dissociation into its constituent ions. 
+ Pb(NO3)2 (s) → Pb2+ (aq) + 2 NO−
+3 (aq)
+  Lead(II) nitrate forms a slightly acidic solution, with a pH of 3.0 to 4.0 for a 20% aqueous solution.[14] 
+ When concentrated sodium hydroxide solution is added to lead(II) nitrate solution, basic nitrates are formed, even well past the equivalence point. Up through the half equivalence point, Pb(NO3)2·Pb(OH)2 predominates, then after this point Pb(NO3)2·5Pb(OH)2 is formed. No simple Pb(OH)2 is formed up to at least pH 12.[10][15] 
+ [edit] Complexation 
+ Lead(II) nitrate is associated with interesting supramolecular chemistry because of its coordination to nitrogen and oxygen electron-donating compounds. The interest is largely academic, but with several potential applications. For example, combining lead nitrate and pentaethylene glycol (EO5) in a solution of acetonitrile and methanol followed by slow evaporation produces a new crystalline material [Pb(NO3)2(EO5)].[16] In the crystal structure for this compound, the EO5 chain is wrapped around the lead ion in an equatorial plane similar to that of a crown ether. The two bidentate nitrate ligands are in trans configuration. The total coordination number is 10, with the lead ion in a bicapped square antiprism molecular geometry. 
+ The complex formed by lead(II) nitrate, lead(II) perchlorate and a bithiazole bidentate N-donor ligand is binuclear, with a nitrate group bridging the lead atoms with coordination number of 5 and 6.[17] One interesting aspect of this type of complexes is the presence of a physical gap in the coordination sphere; i.e., the ligands are not placed symmetrically around the metal ion. This is potentially due to a lead lone pair of electrons, also found in lead complexes with an imidazole ligand.[18] 
+ This type of chemistry is not unique to the nitrate salt; other lead(II) compounds such as lead(II) bromide also form complexes, but the nitrate is frequently used because of its solubility properties and its bidentate nature. 
+ [edit] Oxidation and decrepitation 
+ Lead(II) nitrate is an oxidising agent. Depending on the reaction, this may be due to the Pb2+(aq) ion, which has a standard reduction potential (E0) of −0.125 V, or the nitrate ion, which under acidic conditions has an E0 of +0.956 V.[19] The nitrate would function at high temperatures or in an acidic condition, while the lead(II) works best in a neutral aqueous solution. 
+ When heated, lead(II) nitrate crystals decompose to lead(II) oxide, dioxygen and nitrogen dioxide, accompanied by a crackling noise. This effect is referred to as decrepitation. 
+ 2 Pb(NO3)2 (s) → 2 PbO (s) + 4 NO2 (g) + O2 (g)
+  Because of this property, lead nitrate is sometimes used in pyrotechnics such as fireworks.[4] 
+ [edit] Applications 
+ Due to the hazardous nature of lead(II) nitrate, there is a preference for using alternatives in industrial applications. In the formerly major application of lead paints, it has largely been replaced by titanium dioxide.[20] Other historical applications of lead(II) nitrate, such as in matches and fireworks, have declined or ceased as well. Current applications of lead(II) nitrate include use as a heat stabiliser in nylon and polyesters, as a coating for photothermographic paper, and in rodenticides.[7] 
+ On a laboratory scale, lead(II) nitrate provides one of two convenient and reliable sources of dinitrogen tetroxide. By carefully drying lead(II) nitrate and then heating it in a steel vessel, nitrogen dioxide is produced along with dioxygen following the decripitation equation shown above. Alternatively, nitrogen dioxide is formed when concentrated nitric acid is added to copper turnings; in this case, substantial nitric oxide can also be produced. In either case, the resulting nitrogen dioxide exists in equilibrium with its dimer, dinitrogen tetroxide: 
+ 2 NO2⇌ N2O4
+  In order to remove either impurity, the gas mixture is condensed and fractionally distilled to give a mixture of NO2 and N2O4.[7] As the dimerisation is exothermic, low temperatures favour N2O4 as the dominant form. 
+ To improve the leaching process in the gold cyanidation, lead(II) nitrate solution is added. Although a bulk process, only limited amounts (10 to 100 milligrams lead(II) nitrate per kilogram gold) are required.[21][22] Both the cyanidation itself, as well as the use of lead compounds in the process, are deemed controversial due to the compounds' toxic nature. 
+ In organic chemistry, lead(II) nitrate has been used as an oxidant, for example as an alternative to the Sommelet reaction for oxidation of benzylic halides to aldehydes.[23] It has also found use in the preparation of isothiocyanates from dithiocarbamates.[24] Because of its toxicity it has largely fallen out of favour, but it still finds occasional use, for example as a bromide scavenger during SN1 substitution.[25] 
+ [edit] Safety 
+ Main article: Lead poisoning 
+ Lead(II) nitrate is toxic, and ingestion may lead to acute lead poisoning, as is applicable for all soluble lead compounds.[26] All inorganic lead compounds are classified by the International Agency for Research on Cancer (IARC) as probably carcinogenic to humans (Category 2A).[27] They have been linked to renal cancer and glioma in experimental animals and to renal cancer, brain cancer and lung cancer in humans, although studies of workers exposed to lead are often complicated by concurrent exposure to arsenic.[28] Lead is known to substitute for zinc in a number of enzymes, including δ-aminolevulinic acid dehydratase (porphobilinogen synthase) in the haem biosynthetic pathway and pyrimidine-5′-nucleotidase, important for the correct metabolism of DNA and can therefore cause fetal damage.[29] 
+ [edit] See also 
+ [edit] References 
+ 
+ ^ Patnaik, Pradyot (2003). Handbook of Inorganic Chemical Compounds. McGraw-Hill. p. 475. ISBN 0-07-049439-8. http://books.google.com/?id=Xqj-TTzkvTEC&amp;pg=PA475. Retrieved 2009-06-06.
+^ Partington, James Riddick (1950). A Text-book of Inorganic Chemistry. MacMillan. p.  838.
+^ Libavius, Andreas (1595). Alchemia Andreæ Libavii. Francofurti: Iohannes Saurius.
+^ a b Barkley, J.B. (October 1978). "Lead nitrate as an oxidizer in blackpowder". Pyrotechnica (Post Falls, ID: Pyrotechnica Publications) IV: 16–18.
+^ "Lead". Encyclopædia Britannica Eleventh Edition. http://www.1911encyclopedia.org/Lead. Retrieved 2006-10-11.
+^ Macgregor, John (1847). Progress of America to year 1846. London: Whittaker &amp; Co. ISBN 0-665-51791-2.
+^ a b c d e Greenwood, Norman N.; Earnshaw, A. (1997). Chemistry of the Elements (2nd ed.). Oxford: Butterworth-Heinemann. pp. 388, 456. ISBN 0-7506-3365-4.
+^ Hamilton, W.C. (1957). "A neutron crystallographic study of lead nitrate". Acta Cryst. 10 (2): 103–107. doi:10.1107/S0365110X57000304.
+^ a b Nowotny, H.; G. Heger (1986). "Structure refinement of lead nitrate". Acta Cryst. C42 (2): 133–35. doi:10.1107/S0108270186097032.
+^ a b c Othmer, D.F. (1967). Kirk-Othmer Encyclopedia of Chemical Technology. 12 (Iron to Manganese) (second completely revised ed.). New York: John Wiley &amp; Sons. pp.  272. ISBN 0-471-02040-0.
+^ Adlam, George Henry Joseph; Price, Leslie Slater (1938). A Higher School Certificate Inorganic Chemistry. London: John Murray.
+^ "Product catalog; other products". Tilly, Belgium: Sidech. http://www.sidech.be/products.html. Retrieved 2008-01-05.
+^ Ferris, L.M. (1959). "Lead nitrate—Nitric acid—Water system". Journal of Chemicals and Engineering Date 5 (3): 242–242. doi:10.1021/je60007a002.
+^ http://www.mallbaker.com/americas/msds/english/L3130_msds_us_Default.pdf
+^ Pauley, J. L.; M. K. Testerman (1954). "Basic Salts of Lead Nitrate Formed in Aqueous Media". Journal of the American Chemical Society 76 (16): 4220–4222. doi:10.1021/ja01645a062.
+^ Rogers, Robin D.; Andrew H. Bond, and Debra M. Roden (1996). "Structural Chemistry of Poly (ethylene glycol). Complexes of Lead(II) Nitrate and Lead(II) Bromide". Inorg. Chem. 35 (24): 6964–6973. doi:10.1021/ic960587b. PMID 11666874.
+^ Mahjoub, Ali Reza; Ali Morsali (2001). "A Dimeric Mixed-Anions Lead(II) Complex: Synthesis and Structural Characterization of [Pb2(BTZ)4(NO3)(H2O)](ClO4)3 {BTZ = 4,4'-Bithiazole}". Chemistry Letters 30 (12): 1234. doi:10.1246/cl.2001.1234.
+^ Wan, Shuang-Yi; Jian Fan, Taka-aki Okamura, Hui-Fang Zhu, Xing-Mei Ouyang, Wei-Yin Sun and Norikazu Ueyama (2002). "2D 4.8² Network with threefold parallel interpenetration from nanometre-sized tripodal ligand and lead(II) nitrate". Chem. Commun. (21): 2520–2521. doi:10.1039/b207568g.
+^ Hill, John W.; Petrucci, Ralph H. (1999). General Chemistry (2nd ed.). Upper Saddle River, New Jersey: Prentice Hall. p.  781. ISBN 0-13-010318-7.
+^ "Historical development of titanium dioxide". Millennium Inorganic Chemicals. Archived from the original on October 21, 2007. http://web.archive.org/web/20071021023341/http://www.millenniumchem.com/Products+and+Services/Products+by+Type/Titanium+Dioxide+-+Paint+and+Coatings/r_TiO2+Fundamentals/Historical+Development+of+Titanium+Dioxide_EN.htm. Retrieved 2008-01-04.
+^ Habashi, Fathi (1998 (est)). Recent advances in gold metallurgy. Quebec City, Canada: Laval University. Archived from the original on March 30, 2008. http://web.archive.org/web/20080330234816/http://www.ucv.ve/cifi/16%5CArticuloh.htm. Retrieved 2008-01-05.
+^ "Auxiliary agents in gold cyanidation". Gold Prospecting and Gold Mining. http://www.e-goldprospecting.com/html/auxiliary_agents_in_gold_cyani.html. Retrieved 2008-01-05.
+^ Schulze, K. E. (1884). "Über α- und β-Methylnaphtalin". Chemische Berichte 17: 1530. doi:10.1002/cber.188401701384.
+^ Dains, F. B.; Brewster, R. Q.; Olander, C. P., "Phenyl isothiocyanate", Org. Synth., http://www.orgsyn.org/orgsyn/orgsyn/prepContent.asp?prep=cv1p0447; Coll. Vol. 1: 447
+^ Rapoport, H.; Jamison, T. (1998), "(S)-N-(9-Phenylfluoren-9-yl)alanine and (S)-Dimethyl-N-(9-phenylfluoren-9-yl)aspartate", Org. Synth., http://www.orgsyn.org/orgsyn/orgsyn/prepContent.asp?prep=cv9p0344; Coll. Vol. 9: 344
+^ "Lead nitrate, Chemical Safety Card 1000". International Labour Organization, International Occupational Safety and Health Information Centre. March 1999. http://www.inchem.org/documents/icsc/icsc/eics1000.htm. Retrieved 2008-01-19.
+^ "Inorganic and Organic Lead Compounds" (PDF). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans (International Agency for Research on Cancer) Suppl. 7:  239. 1987. http://monographs.iarc.fr/ENG/Monographs/suppl7/suppl7.pdf. Retrieved 2008-01-19.
+^ World Health Organization, International Agency for Research on Cancer. (2006). "Inorganic and Organic Lead Compounds" (PDF). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans (International Agency for Research on Cancer) 87. ISBN 92-832-1287-8. http://monographs.iarc.fr/ENG/Monographs/vol87/volume87.pdf. Retrieved 2008-01-01.
+^ Mohammed-Brahim, B.; J.P. Buchet, R. Lauwerys (1985). "Erythrocyte pyrimidine 5'-nucleotidase activity in workers exposed to lead, mercury or cadmium". Int Arch Occup Environ Health 55 (3): 247–52. doi:10.1007/BF00383757. PMID 2987134.
+  
+ [edit] External links 
+ Material Safety Data Sheets
+ 
+  

@@ -1,0 +1,71 @@
+  
+ Diary of a Camper is a short 1996 American film made using id Software's 1996 first-person shooter computer game Quake. It was created by United Ranger Films, then a subdivision of a popular group of computer game players, or clan, known as the Rangers. The film was first released over the Internet as a non-interactive game demo file. The video is generally considered[1] the first known example of machinima—the art of using real-time, virtual 3-D environments, often game engines, to create animated films. The story centers on a lone camper (a player waiting in a strategic location instead of seeking active battle) who faces five members of the Rangers clan in a deathmatch, a type of multiplayer game in which the goal is to kill as many opponents as possible. 
+ Although players had previously recorded segments of gameplay, these were usually deathmatches or speedruns, attempts to complete a map as quickly as possible. Diary of a Camper was the first demo to contain a narrative with (text-based) dialogue, instead of merely showing gameplay. Commentators have called the work primitive, but acknowledge its importance in establishing video games as a medium for filmmaking. 
+ [edit] Synopsis 
+ Diary of a Camper occurs entirely within the Quake map DM6 ("The Dark Zone"). After exploring some of the area, the Rangers gather and decide to send two members, Sphinx and Pyoveli, to scout a room above. Shortly after they teleport into the room, the camper waiting there kills them both, as confirmed by in-game text messages that appear on the screen. The remaining three Rangers—ColdSun, ArchV, and an unidentified member—realize their comrades' fate and return fire from a distance, killing the camper. Examining the remains, they identify their foe as John Romero.[2] 
+ [edit] Precedent and new ground 
+ Diary of a Camper is built on the ability to record gameplay, which first appeared in id Software's 1993 computer game Doom. Using this feature, players could efficiently record game events, rather than the rendered video itself, and later replay them in real-time through the game engine.[3]Doom's successor, Quake, offered new opportunities for both gameplay and customization,[4] while preserving the demo recording ability.[5] In the book Machinima, Kelland, Morris, and Lloyd stated that multiplayer games became popular, almost a sport, and demo files of matches were recorded and studied.[6]Paul Marino, executive director of the Academy of Machinima Arts &amp; Sciences (AMAS), used a different analogy: "Players began to record deathmatches with a more cinematic flair.... [T]he viewpoint of the player became the viewpoint of a director."[7] 
+ Well known for their playing skill and their ability to program game modifications,[8] the Rangers conceived the idea to use Quake for filmmaking in August 1996[9] and released Diary of a Camper on October 26, 1996.[10] The group's new demo surprised the Quake community by exploiting the game differently. According to Henry Lowood, Diary of a Camper contains the action and gore of previous gameplay demos, but in the context of a simple story[8] instead of the usual deathmatch.[6] A BusinessWeek article compared the events of the film to those of a typical deathmatch.[11] Like many of its predecessors, the demo was recorded in Quake's networked multiplayer deathmatch mode, but "it marked the transition from sports footage to moviemaking. The players were choreographed like actors, ... delivering their lines as plain text...."[6] Lowood stated that "Diary of a Camper breaks with the demo movie as documented gameplay" because the spectator's perspective is independent "from that of any player/actor; the movie is not 'shot' from the first-person perspective of the shooter."[12] Lowood called the film a "transformation of competitive play to ... minimal theatrical play", emphasized through the inclusion of references to gameplay, such as the camper.[13] 
+ Before Diary of a Camper's release, Uwe Girlich, a German doctoral candidate,[14] had documented the Quake demo file format, in which "the player coordinates and camera positions may be different".[12] He added that "for people with too much spare-time Quake can replace a full 3D modelling system".[12] However, the Rangers developed Diary of a Camper before any demo-editing software tools had been publicly released; clan member Eric "ArchV" Fowler instead created his own tools to reposition the camera and to splice recorded footage.[15] As with all of United Ranger Films' productions, Heath "ColdSun" Brown wrote the story, and Matt "Unknown Soldier" Van Sickler was the director.[16] In the release notes, Brown credits clan members Chris "Sphinx" Birke[17] and Mute with helping Fowler with "movie packaging".[18] 
+ Diary of a Camper and the films that it inspired were initially called "Quake movies"; the term machinima was later coined in 1998,[19] in response to the increasing use of other game engines.[20] There was initial hesitance to retroactively label Diary of a Camper the first machinima piece; a Machinima.com article from January 2000 opened, "It's kinda hard to pin down the first Machinima: things like the Doom speedruns, the Stunt Island stuff and the Demo Scene all compete for the title. However, it's a lot easier to pin down the first piece of film made in a 3D game engine: Diary Of A Camper".[21] Marino states that the AMAS carefully defined machinima in 2002 as "animated filmmaking within a real-time virtual 3-D environment" to separate machinima from its creative lineage.[19] Separating machinima from the demoscene and earlier demo recordings, he defines Diary of a Camper as the first machinima work.[22] Lowood also contrasts the film with earlier recordings of "documented gameplay".[23] 
+ [edit] Reception 
+ Despite Diary of a Camper's importance in establishing machinima, commentators have criticized the film's actual content. Marino called the plot "simple";[24] likewise, Kelland, Morris, and Lloyd believed that "it wasn't much of a story",[6] and Lowood wrote that "the plot offers little more than a brief sequence of inside jokes".[12] Among major Quake movie review sites,[25] Roger Matthews of the Quake Movie Library called the film "not much more than a deathmatch with a camera".[26] On Psyk's Popcorn Jungle, Paul Coates wrote, "This movie is dull. It is not very interesting."[27] Stephen Lum of The Cineplex said that the film contained "weird humour".[28] 
+ Although Quake movie critics found shortcomings in Diary of a Camper, they mentioned positive aspects, including the work's novelty; however, their final ratings varied. Matthews wrote that "the camera work was very nice and never once screwed up",[26] and Lum gave the film "a perfect 10 for Innovation/Originality because [it] started the Quake Movie craze".[28] Of the major Quake movie review sites, only The Cineplex gave Diary a good rating overall, 7.5 out of 10.[28] Matthews and Coates rated the film 20%,[26] and 2 out of 10,[29] respectively. Later, Coates updated his review, saying, "I feel I overreacted at the fact that DoaC was old. It's the first ever Quake movie. I have to give the Rangers massive credit for that.... But, by today's standards, the rating seems to fit."[27] 
+ Because of its significance, Diary of a Camper continues to be featured in machinima presentations. It was one of the first works to be included in the Machinima Archive, a collaboration among Stanford University, the Internet Archive, the AMAS, and machinima.com.[30] In a 2005 event at Stanford University, the film was presented with later machinima works, such as Red vs. Blue.[31] Likewise, the Australian Centre for the Moving Image included it in a machinima exhibit that ended on July 16, 2006.[32] 
+ 
+ ^ Marino 2004, 6; Lowood 2006, 32; Kelland, Morris &amp; Lloyd 2005, 28
+^ Brown 1996
+^ Marino 2004, 3
+^ Lowood 2005, 12
+^ Marino 2004, 4
+^ a b c d Kelland &amp; Morris Lloyd, 28
+^ Marino 2004, 4, emphasis in original
+^ a b Lowood 2006, 32
+^ Salen &amp; Zimmerman 2003, 550
+^ Marino 2004, 21
+^ McGraw–Hill 2007, 1
+^ a b c d Lowood 2006, 33
+^ Lowood 2005, 13
+^ Kelland, Morris &amp; Lloyd 2005, 37
+^ Lowood 2006, 33; Wu n.d.
+^ Wu n.d.
+^ Real name established in Salen 2002
+^ Brown 1996, release notes
+^ a b Marino 2004, 1
+^ Marino 2004, 12
+^ Machinima.com staff 2000
+^ Marino 2004, 4–6
+^ Lowood 2006, 32–33
+^ Marino 2004, 6
+^ As listed in Marino 2004, 7
+^ a b c Matthews 1997
+^ a b Coates &amp; 1998 emphasis in original
+^ a b c Lum n.d.
+^ Coates 1998
+^ Lowood 2008
+^ Lue 2005
+^ Marino 2006; Butler 2006
+  
+ [edit] References 
+ 
+ Brown, Heath (writer), et al (1996). Diary of a Camper (Quake demo recording). United Ranger Films.
+Butler, Claire (2006-03-13). "Playing the Movies". Australian Centre for the Moving Image. http://www.acmi.net.au/E4BC2C3A68FA4617BE4CE6D5FE180B1C.htm. Retrieved 2008-10-14.
+Coates, Paul (April 25, 1998). "Diary of a Camper". Psyk's Popcorn Jungle. http://homepages.nildram.co.uk/~tv13rfc/ppj/oldppj/quake/camper.html. Retrieved 2008-08-23.
+Kelland, Matt; Dave Morris, Dave Lloyd (2005). Machinima: Making Movies in 3D Virtual Environments. Cambridge: The Ilex Press. ISBN 1-59200-650-7.
+Lowood, Henry (2005). "Real-Time Performance: Machinima and Game Studies" (PDF). The International Digital Media &amp; Arts Association Journal 2 (1): 10–17. ISSN 1554-0405. http://www.idmaa.org/journal/pdf/iDMAa_Journal_Vol_2_No_1_screen.pdf. Retrieved 2006-08-07.
+Lowood, Henry (2006). "High-performance play: The making of machinima". Journal of Media Practice 7 (1): 25–42. doi:10.1386/jmpr.7.1.25/1.
+—Also as:
+Lowood, Henry (2008). "Game Capture: The Machinima Archive and the History of Digital Games". Mediascape (University of California, Los Angeles). http://www.tft.ucla.edu/mediascape/Spring08_GameCapture.html. Retrieved 2009-04-12.
+Lue, Waynn (December 7, 2005). "Machinima surfaces on campus". GameSpot. http://www.gamespot.com/news/6140893.html. Retrieved 2009-05-22.
+Lum, Stephen. "Quake Movies C–D". The Cineplex. GameSpy. http://cineplex.planetquake.gamespy.com/q1-cd.html. Retrieved 2008-08-23.
+Machinima.com staff (February 8, 2000). "Ranger Gone AWOL". Machinima, Inc. Archived from the original on 2006-03-15. http://web.archive.org/web/20060315010918/http://www.machinima.com/article.php?article=336. Retrieved 2008-08-23.
+Marino, Paul (2004). 3D Game-Based Filmmaking: The Art of Machinima. Scottsdale, Arizona: Paraglyph Press. ISBN 1-932111-85-9.
+Marino, Paul (2006-04-28 meta-tag). "Machinima jukebox". Playing the Movies. Australian Centre for the Moving Image. http://www.acmi.net.au/6B278CA85AAB4253BB9706D441D01522.htm. Retrieved 2008-08-23.
+Matthews, Roger (August 20, 1997). "Movie Review: Diary of a Camper". Quake Movie Library. Machinima, Inc. Archived from the original on 2006-08-22. http://web.archive.org/web/20060822122327/http://www.machinima.com/qml/quake/camper.htm. Retrieved 2008-08-23.
+McGraw–Hill (August 20, 2007). "The Future of Machinima". BusinessWeek. McGraw–Hill. http://www.businessweek.com/innovate/content/aug2007/id20070820_438960.htm. Retrieved 2009-03-01.
+Salen, Katie (October 19, 2002). "Ranger Gone Bad II: Assault On Gloom Keep". Quake! Doom! Sims!: Transforming Play: Family Albums and Monster Movies. Walker Art Center. http://www.walkerart.org/archive/E/A3736D5FF5A535DA6172.htm. Retrieved 2008-08-23.
+Salen, Katie; Eric Zimmerman (2003). Rules of Play. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-24045-1. http://books.google.com/?id=UM-xyczrZuQC. Retrieved 2009-03-01.
+Wu, Andrew. "Who's Who in Quake". Planet Quake. GameSpy. http://qe.planetquake.gamespy.com/who/whoall.htm. Retrieved 2008-08-23.
+  
+ [edit] External links 
+  

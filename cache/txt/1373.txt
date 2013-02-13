@@ -1,0 +1,148 @@
+  
+ Gwoyeu Romatzyh (pinyin: Guóyǔ luómǎzì, literally "National Language Romanization"),[1] abbreviated GR, is a system for writing Mandarin Chinese in the Latin alphabet. The system was conceived by Y.R. Chao (Zhao Yuanren) and developed by a group of linguists including Chao and Lin Yutang from 1925 to 1926. Chao himself later published influential works in linguistics using GR. In addition a small number of other textbooks and dictionaries in GR were published in Hong Kong and overseas from 1942 to 2000. 
+ GR is the better known of the two romanization systems which indicate the four tones of Mandarin by varying the spelling of syllables ("tonal spelling").[2] These tones are a fundamental part of the Chinese language: to a Chinese speaker they are no less a component of a word than vowels are to an English speaker.[3] Tones in Chinese allow speakers to discriminate between otherwise identical syllables—in other words they are phonemic. Other systems indicate the tones with either diacritics (for example Pinyin: āi, ái, ǎi and ài) or numbers (Wade-Giles: ai1, ai2, etc.). GR spells the same four tones ai, air, ae and ay.[4] These spellings, which follow specific rules, indicate the tones while retaining the pronunciation of the syllable ai. 
+ Chao claimed that, because GR embeds the tone of each syllable in its spelling,[5] it may help students to master Chinese tones. One study however, found the opposite to be true in a study of GR.[6] GR uses a complicated system of tonal spelling that obscures the basic relationship between spelling and tone; for example, the difference between tones 1 and 2 is variously indicated as mha vs. ma, ching vs. chyng, chang vs. charng, etc. Although tonal spelling has been adopted as part of the normal romanization of a number of Asian languages (e.g. Hmong), all such systems indicate different tones in a simple and consistent fashion by adding letters to the end of a syllable (e.g. in Hmong, -b indicates high tone, -s indicates low tone, -j indicates high-falling tone, etc.). The complexity of GR's tonal spelling led to public hostility. 
+ In 1928 China adopted GR as the nation's official romanization system.[7] GR was used to indicate pronunciations in dictionaries of the National (Mandarin-based) Language. Its proponents hoped one day to establish it as a writing system for a reformed Chinese script. But despite support from a small number of trained linguists in China and overseas, GR met with public indifference and even hostility due to its complexity.[8] Another obstacle preventing its widespread adoption was its narrow basis on the Beijing dialect, in a period lacking a strong centralized government to enforce its use. Eventually GR lost ground to Pinyin and other later romanization systems. However, its influence is still evident, as several of the principles introduced by its creators have been used in romanization systems that followed it. Its pattern of tone spelling remains in the standard spelling of the Chinese province of Shaanxi (shǎnxī), which cannot be distinguished from Shanxi (shānxī) when written in pinyin without diacritics. 
+ [edit] History 
+ Tonal spelling, Gwoyeu Romatzyh's most distinctive feature, was first suggested to Y.R. Chao by Lin Yutang.[9][10] By 1922 Chao had already established the main principles of GR.[11] The details of the system were developed in 1925–1926 by a group of five linguists, led by Chao and including Lin, under the auspices of the Preparatory Commission for the Unification of the National Language.[12] In 1928 GR was officially adopted by the government.[7] GR was intended to be used alongside the existing Juhin (Zhùyīn) phonetic symbols: hence the alternative name for GR, "Second Pattern of the National Alphabet."[13] Both systems were used to indicate the revised standard of pronunciation in the new official Vocabulary of National Pronunciation for Everyday Use of 1932.[14] The designers of GR had greater ambitions: their aim was complete reform of the script, using GR as a practical system of writing.[15] 
+ In the 1930s two shortlived attempts were made to teach GR to railway workers and peasants in Hénán and Shāndōng provinces.[16] Support for GR, being confined to a small number of trained linguists and Sinologists, "was distinguished more for its quality than its quantity."[17] During this period GR faced increasing hostility because of the complexity of its tonal spelling. Conversely, Sinologist Bernhard Karlgren criticised GR for its lack of phonetic rigour.[18] Ultimately, like the rival (toneless) system Latinxua Sinwenz, GR failed to gain widespread support, principally because the "National" language was too narrowly based on Beijing speech:[19] "a sufficiently precise and strong language norm had not yet become a reality in China".[20] 
+ A vestigial use of GR in can be seen in the official spelling of the first syllable of Shaanxi for Shǎnxī province, to distinguish it from Shānxī province, particularly in foreign-language text where the tone marks are often omitted.[21] Some prominent Chinese have used GR to transliterate their names: for example the mathematician Shiing-Shen Chern.[22] The romanization system was changed by the government of the People's Republic of China in 1958 to the current system used now in the country, and other foreign and international institutions, like the United Nations, the Library of Congress, the International Organization for Standardization, and is widely used to teach Mandarin Chinese to foreign students: Hanyu Pinyin. Meanwhile, in the Republic of China (Taiwan), GR survived until the 1970s as a pronunciation aid in monolingual dictionaries such as Gwoyeu Tsyrdean [Guóyǔ Cídiǎn] and Tsyrhuey [Cíhuì],[23] but was officially replaced in 1986 by a modified form known as Mandarin Phonetic Symbols II.[24] 
+ [edit] Description 
+ Note: In this section the word "tone" is abbreviated as "T": thus T1 stands for Tone 1 (first tone), etc. To assist readers unfamiliar with GR, Pinyin equivalents have been added in brackets.
+ [edit] Basic forms (Tone 1) 
+ An important GR innovation, later adopted by Pinyin, was to use contrasting unvoiced/voiced pairs of consonants from Latin to represent aspirated and unaspirated sounds in Chinese.[25] For example b and p represent /p/ and /pʰ/ (p and p‘ in Wade) A potentially confusing feature of GR is the use of j, ch, and sh to represent two different series of sounds. When followed by i these letters correspond to the alveolo-palatal sounds (Pinyin j, q, and x); otherwise they correspond to the retroflex sounds (Pinyin zh, ch, and sh). Readers used to Pinyin need to pay particular attention to these spellings: for example, GR ju, jiu, and jiou correspond to Pinyin zhu, ju, and jiu respectively.[26] 
+ GR orthography has these additional notable features: 
+ iu represents the close front rounded vowel /y/ spelled ü or in many cases simply u in Pinyin.
+Final -y represents the [ɨ] allophone of i: GR shy and sy correspond to Pinyin shi and si respectively.
+el corresponds to Pinyin er (-r being reserved to indicate Tone2). The most important use of -(e)l is as a rhotacization suffix, as in ideal = i dean + -(e)l, "a little" (yìdiǎnr).
+A number of frequently occurring morphemes have abbreviated spellings in GR. The commonest of these are: -g (-ge), -j (-zhe), -m (-me), sh (shi) and -tz (-zi).[27]
+ [edit] Tonal modifications 
+ By default, the basic GR spelling described above is used for Tone1 syllables. The basic form is then modified to indicate tones 2, 3 and 4.[28] This is accomplished in one of three ways: 
+ either a vowel is changed to another vowel resembling it in sound (i to y, for example, or u to w)
+ or a silent letter (r or h) is added after the vowel.
+  Wherever possible the concise first method is used. The following rules of thumb cover most cases.[29] 
+ Tone 1 (basic form) 
+ shiue, chuan, chang, hai, bau (xuē, chuān, chāng, hāi, bāo)
+  Tone 2: i/u → y/w; or add -r 
+ shyue, chwan, charng, hair, baur (xué, chuán, cháng, hái, báo)
+  Tone 3: i/u → e/o; or double vowel 
+ sheue, choan, chaang, hae, bao (xuě, chuǎn, chǎng, hǎi, bǎo)
+  Tone 4: change/double final letter; or add -h 
+ shiueh, chuann, chanq, hay, baw (xuè, chuàn, chàng, hài, bào)
+  Neutral tone: precede with a dot (full stop) 
+ perng.yeou, dih.fang (péngyou, dìfang).
+  Exception Syllables with an initial sonorant (l-/m-/n-/r-) use the basic form for T2 rather than T1. In these syllables the (rarer) T1 is marked with -h- as the second letter. For example mha is T1 (mā), whereas ma is T2 (má).[30] T3 and T4 are regular: maa (mǎ) and mah (mà). 
+ [edit] Compounds as words 
+ An important principle of GR is that syllables which form words should be written together. This strikes speakers of European languages as obvious; but in Chinese the concept of "word" is not easy to pin down. The basic unit of speech is popularly thought to be the monosyllable represented by a character (字 tzyh, zì), which in most cases represents a meaningful syllable or morpheme,[31] a smaller unit than the "linguistic word".[32] Characters are written and printed with no spaces between words; yet in practice most Chinese words consist of two-syllable compounds, and it was Chao's bold innovation in 1922 to reflect this in GR orthography by grouping the appropriate syllables together into words.[33] This represented a radical departure from hyphenated Wade-Giles forms such as Kuo2-yü3 Lo2-ma3-tzŭ4 (the Wade spelling of GR). This principle, illustrated in the extract below, was later adopted in Pinyin.[citation needed] 
+ [edit] Use in published texts 
+ Chao used GR in four influential works: 
+ A Concise Dictionary of Spoken Chinese (in collaboration with Lien Sheng Yang) (1947)
+Mandarin Primer[34] (1948)
+ This course was originally used in the Army Specialized Training Program at the Harvard School for Overseas Administration in 1943–1944 and subsequently in civilian courses.[35]
+ A Grammar of Spoken Chinese[36] (1968a)
+"Sayable" in this context means colloquial,[38] as opposed to the vernacular Chinese (bairhuah, Pinyin báihuà) style often read by students.
+  Readings in Sayable Chinese was written "to supply the advanced student of spoken Chinese with reading matter which he can actually use in his speech."[39] It consists of three volumes of Chinese text with facing GR romanization.[40] They contain some lively recorded dialogues, "Fragments of an autobiography," two plays and a translation of Lewis Carroll's Through the Looking-Glass (Tzoou daw Jinqtz lii).[41] Two extracts from Tzoou daw Jinqtz lii with facing translations can be read online.[42] 
+ In 1942 Walter Simon introduced GR to English-speaking sinologists in a special pamphlet, The New Official Chinese Latin Script. Over the remainder of the 1940s he published a series of textbooks and readers,[43] as well as a Chinese-English Dictionary, all using GR. His son Harry Simon later went on to use GR in scholarly papers on Chinese linguistics.[44] 
+ In 1960 Y.C. Liu, a colleague of Walter Simon's at SOAS, published Fifty Chinese Stories. These selections from classical texts were presented in both classical and modern Chinese,[45] together with GR romanizations and romanized Japanese versions prepared by Simon (by that time Professor Emeritus of Chinese in the University of London). 
+ Lin Yutang's Chinese-English dictionary (1972) incorporated a number of innovative features, one of which was a simplified version of GR.[46][47] Lin eliminated most of the spelling rules requiring substitution of vowels, as can be seen from his spelling Guoryuu Romatzyh,[46] in which the regular -r is used for T2 and a doubled vowel for T3. 
+ The first 3 issues of the Shin Tarng magazine (which would be Xin Tang in Pinyin; published in 1982-1989) used a Simplified Romanisation (簡化羅馬字 Jiannhuah Rormaatzyh) based on Gwoyeu Romatzyh; the fourth edition, entitled Xin Talng, used Pinyin with Gwoyeu Romatzyh-like tone marking.[48] 
+ [edit] Language learning 
+ Most learners of Chinese now start with Hanyu Pinyin, which Chao himself believed easier to learn than GR.[49] Chao believed that the benefit of GR was to make tonal differences more salient to learners: 
+“
+[GR] makes the spelling more complicated, but gives an individuality to the physiognomy of words, with which it is possible to associate meaning … [A]s an instrument of teaching, tonal spelling has proved in practice to be a most powerful aid in enabling the student to grasp the material with precision and clearness.[50]
+”
+ For example, it may be easier to memorize the difference between GR Beeijing (the city) and beyjiing ("background") than the Pinyin versions Běijīng and bèijǐng, where the tones seem to be almost an afterthought. This notion has not, however, been confirmed empirically.[citation needed] One study conducted at the University of Oregon in 1991–1993, compared the results of using Pinyin and GR in teaching elementary level Chinese to two matched groups of students, and concluded that "GR did not lead to significantly greater accuracy in tonal production."[51] 
+ GR continues to be used by some teachers of Chinese. In 2000, the Princeton Chinese Primer series was published in both GR and Pinyin versions.[52] GR is used as the main romanization method in, for example, the East Asian Studies Program at Bucknell University in Pennsylvania.[citation needed][53] 
+ [edit] Example 
+ Here is an extract from Y.R. Chao's Sayable Chinese. The topic is scholarly ("What is Sinology?"), but the style colloquial. The tonal spelling markers or "clues" are again highlighted using the same colour-coding scheme as above. Versions in Chinese characters, Pinyin and English are given below the GR text. 
+Writing system
+Text
+Gwoyeu Romatzyh
+"Hannshyue" .de mingcheng duey Jonggwo yeou idean butzuenjinq .de yihwey. Woomen tingshuo yeou "Yinnduhshyue", "Aijyishyue", "Hannshyue", erl meiyeou tingshuo yeou "Shilahshyue", "Luomaashyue", genq meiyeou tingshuo yeou "Inggwoshyue", "Meeigwoshyue". "Hannshyue" jeyg mingcheng wanchyuan beaushyh Ou-Meei shyuejee duey nahshie yiijing chernluen de guulao-gwojia de wenhuah de i-joong chingkann de tayduh.[54]GR tone key
+Tone 1 (basic form: unmarked) Tone 2 Tone 3 Tone 4
+Simplified Chinese characters
+汉学的名称对中国有一点不尊敬的意味。我们听说有印度学、埃及学、汉学，而没有听说有希腊学、罗马学，更没有听说有英国学、美国学。汉学这个名称完全表示欧美学者对那些已经沉沦的古老国家的文化的一种轻看的态度。
+Traditional Chinese characters
+漢學的名稱對中國有一點不尊敬的意味。我們聽說有印度學、埃及學、漢學，而沒有聽說有希臘學、羅馬學，更沒有聽說有英國學、美國學。漢學這個名稱完全表示歐美學者對那些已經沉淪的古老國家的文化的一種輕看的態度。
+Hanyu Pinyin
+"Hànxué" de míngchēng duì Zhōngguó yǒu yìdiǎn bùzūnjìng de yìwèi. Wǒmen tīngshuō yǒu "Yìndùxué," "Āijíxué," "Hànxué," ér méiyǒu tīngshuō yǒu "Xīlàxué," "Luómǎxué," gèng méiyǒu tīngshuō yǒu "Yīngguóxué," "Měiguóxué." "Hànxué" zhèige míngchēng wánquán biǎoshì Ōu-Měi xuézhě duì nàxiē yǐjing chénlún de gǔlǎo-guójiā de wénhuà de yìzhǒng qīngkàn de tàidù.
+English translation
+The term "Sinology" carries a slight overtone of disrespect towards China. One hears of "Indology," "Egyptology" and "Sinology," but never "Graecology" or "Romology"—let alone "Anglology" or "Americology." The term "Sinology" epitomizes European and American scholars' patronizing attitude towards the culture of those ruined ancient empires.
+ [edit] See also 
+ 
+ ^ simplified Chinese: 国语罗马字; traditional Chinese: 國語羅馬字; pinyin: Guóyǔ Luómǎzì. In 1937 the sinologist Trittel coined the German translation "Lateinumschrift der Reichssprache" (DeFrancis[1950]: Ch 4, footnote 4).
+^ The only other romanization system to utilize tonal spelling is Simplified Wade, a modified form of Wade-Giles devised by Swedish linguist Olov Bertil Anderson.
+^ "A word pronounced in a wrong tone or inaccurate tone sounds as puzzling as if one said bud in English, meaning 'not good' or 'the thing one sleeps in.'" Chao(1948):24.
+^ In these examples air (ái) with a rising tone means "cancer", while ay (ài) with a falling tone means "love".
+^ "The common [foreign] attitude of treating the tone as an epiphenomenon on top of the solid sounds—consonants and vowels—is to the Chinese mind quite unintelligible…" Chao and Yang(1947):xv.
+^ "The results clearly indicated that GR did not lead to significantly greater accuracy in tonal production. Indeed, the use of GR reflected slightly lower rates of tonal production accuracy for native speakers of both American English and Japanese." McGinnis(1997).
+^ a b Kratochvíl(1968):169
+^ For a detailed account of the historical background, see John DeFrancis. "Chapter 4 of DeFrancis(1950)". pinyin.info. http://www.pinyin.info/readings/texts/DeFr1950.html. Retrieved 2007-02-27.
+^ "Without disclaiming responsibility, as a very active member of the Committee on Unification, for the merits and defects of the system, I must give credit to my colleague Lin Yutang for the idea of varying the spelling to indicate difference in tone." Chao(1948):11 footnote.
+^ For the historical background see John DeFrancis. "One State, One People, One Language". Pinyin.info. http://www.pinyin.info/readings/texts/DeFr1950.html. Retrieved 2007-02-27. (Chapter 4 of DeFrancis[1950]).
+^ DeFrancis(1950): Ch 4, footnotes 43 and 46.
+^ DeFrancis(1950): 74
+^ 国音字母第二式 / Gwoin Tzyhmuu Dihell Shyh / Guóyīn Zìmǔ Dì'èr Shì: see Simon, W.(1947):Table X, lxxi.
+^ 国音常用字汇 / Gwoin Charngyonq Tzyhhuey / Guóyīn Chángyòng Zìhuì: see Chao(1948):11.
+^ "While the official position was that it was to be used whenever Chinese was to be spelled in Latin letters, such as in dealing with foreigners, those who devised the system, of whom I was one, had in our minds the design of a practical system of writing." Chao(1968c)
+^ DeFrancis(1950): 77–78
+^ DeFrancis(1950): 75. The supporters included Qian Xuantong and Luo Changpei in China and Walter Simon in England.
+^ "[GR] is based on a series of very fatal phonetic lies, and for this reason it will be very difficult to learn, and consequently impractical." Karlgren(1928):20
+^ DeFrancis(1950):76
+^ Kratochvíl(1968):169.
+^ This usage extends to cyberspace: the URL of the provincial government's official website is http://www.shaanxi.gov.cn .
+^ Neither Chao nor Lin, however, followed this practice.
+^ For an account of the phonetization of Chinese in Taiwan, see Chen(1999):189
+^ Wi-vun Taiffalo Chiung. "Romanization and Language Planning in Taiwan". Center for Thoat-Han Studies. http://www.de-han.org/pehoeji/lomaji/4.htm. Retrieved 2007-02-27. This is an online version of Chiung(2001).
+^ See Chao(1948):19–24 and Chao(1968a):20–25 for tables and fuller discussion. Complete tables of GR initials and finals are also given in Spelling in Gwoyeu Romatzyh#Basic forms.
+^ See Spelling in Gwoyeu Romatzyh for a table showing the correspondence of GR and Pinyin forms.
+^ These and other abbreviations are listed in Chao(1968a):xxx.
+^ The rules are given, though in a different form, in Chao (1948): 28–30 (synopsis p 336) and Chao (1968a): 29–30 (synopsis p 847). See also Table IX in Simon, W.(1947):lviii.
+^ See Spelling in Gwoyeu Romatzyh#Tonal rules for a more thorough discussion.
+^ Examples: (T1) Mha.mha (妈妈 Māma), "Mum"; (T2) mamuh (麻木 mámù), "numb".
+^ Chao calls the character the "sociological word", since it is the unit by which children's vocabulary is measured, journalists are paid and telegrams charged for. Chao(1968a): 136.
+^ For thorough discussions, see Chao(1968a): 138–143 and Kratochvíl(1968):89–99.
+^ DeFrancis(1950): Ch 4, note 46.
+^ Recordings, including online excerpts, of this lively, though now rather dated, text are available from Yuen Ren Chao. "Mandarin Primer". Smithsonian Folkways Recordings. Archived from the original on October 27, 2005. http://web.archive.org/web/20051027101123/http://www.folkways.si.edu/search/AlbumDetails.aspx?ID=1407. Retrieved 2007-02-27..
+^ Chao(1948):v.
+^ "The most comprehensive grammar of MSC [Modern Standard Chinese] in English." Kratochvíl(1968):187.
+^ Cassette recordings of this text are available from various online sources.
+^ Chao describes the colloquial Chinese heard on the street as "sayable, even if sometimes unspeakable". (Chao 1968b): I,vi)
+^ Chao(1968b): I,iv
+^ Yuen Ren Chao. "Readings in Sayable Chinese: table of contents". pinyin.info. http://www.pinyin.info/readings/sayable_chinese.html. Retrieved 2007-03-02.
+^ 走到鏡子裡跟阿麗思看見裡頭有些什麼 Tzoou daw Jinqtz lii gen Alihsy Kannjiann Liitou Yeou Shie Sherme / Zǒu dào jìngzili gēn Ālìsī kànjian lǐtou yǒu xiē shénme.
+^ The extracts comprise Alice's conversations with Tweedledum and Tweedledee (Lewis Carroll [Y.R. Chao trans.]. "Yuen Ren Chao in Wonderland". Richard Warmington. http://home.iprimus.com.au/richwarm/gr/tweedle.htm. Retrieved 2007-03-12.) and Humpty Dumpty (Lewis Carroll [Y.R. Chao trans.]. "Humpty Dumpty in Mandarin Chinese". Pinyin.info. http://pinyin.info/readings/alice/humpty_dumpty_chinese.html. Retrieved 2007-03-15.). The second webpage also includes a version of the text in Pinyin.
+^ See the complete list of these publications.
+^ See for example Simon, H.F.(1958).
+^ "[The book's] primary aim is to introduce students to the Classical style through the medium of the modern spoken language." Liu (1960):xii (Introduction by W. Simon)
+^ a b "In the original edition, 'Guoryuu Romatzyh' (國語羅馬字) was used as the scheme for romanization." Another feature was an "Instant Index System": "an invention by Lin Yutang with the intention of providing a simple and unambiguous rule to call up any given Chinese character … [T]his index system has not been widely used since its inception." Lin Yutang. "Chinese-English Dictionary of Modern Usage (Online Version)". Chinese University of Hong Kong. http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/lyt-fl.htm. Retrieved 2007-03-27.
+^ Ching(1975).
+^ Xin Tang: a journal of romanized Mandarin
+^ Chao's own assessment was that "Learning the rules of the National orthography [ie GR] takes about two weeks longer than other systems…" Chao and Yang(1947):xix.
+^ Chao(1948):11 (emphasis added).
+^ McGinnis(1997)
+^ Ch'en et al.(2000)
+^ Anne Pusey. "Chinese Language Materials". Bucknell University Course websites. http://www.facstaff.bucknell.edu/apusey/materials.html. Retrieved 2007-02-27.
+^ Extract from Her Wey Hannshyue? (Hé wèi Hànxué?) by Jou Faagau (Zhōu Fǎgāo). Chao(1968b): I,111
+  
+ [edit] References 
+ Chao, Yuen Ren (1948). Mandarin Primer: an Intensive Course in Spoken Chinese. Harvard University Press.
+Chao, Yuen Ren (1968a). A Grammar of Spoken Chinese. University of California Press. ISBN 0-520-00219-9.
+Chao, Yuen Ren (1968b). Readings in Sayable Chinese. Asian Language Publications, Inc. ISBN 0-87950-328-9.
+Chao, Yuen Ren (1968c). Language and Symbolic Systems. Cambridge University Press. ISBN 0-521-09457-7.
+Chao, Yuen Ren; and L.S. Yang (1947). Concise Dictionary of Spoken Chinese. Harvard University Press. ISBN 0-674-15800-8.
+Chen, Ping (1999). Modern Chinese: History and Sociolinguistics. Cambridge University Press. ISBN 0-521-64572-7.
+Ch'en, Ta-tuan; P. Link, Y.J. Tai and T.T. Ch'en (2000). Chinese Primer. Princeton University Press. ISBN 0-691-09602-3.
+Ching, Eugene; Yutang, Lin; Li, Choh-Ming (1975). "Review of Chinese-English Dictionary of Modern Usage by Lin Yutang". The Journal of Asian Studies (Association for Asian Studies) 34 (2): 521–524. doi:10.2307/2052772. JSTOR 2052772.
+Chiung, Wi-vun Taiffalo (2001). "Romanization and Language Planning in Taiwan". The Linguistic Association of Korea Journal 9 (1): 15–43. http://www.de-han.org/pehoeji/lomaji/index.htm.
+DeFrancis, John (1950). Nationalism and Language Reform in China. Princeton University Press. Chapter 4 is available online.
+Karlgren, Bernhard (1928). The Romanization of Chinese. London: China Society.
+Kratochvíl, Paul (1968). The Chinese Language Today. Hutchinson. ISBN 0-09-084651-6.
+Lin, Yutang (1972). Chinese-English Dictionary of Modern Usage. Chinese University of Hong Kong. ISBN 0-07-099695-4.
+Liu, Y.C. (1960). Fifty Chinese Stories (Yan-wen dueyjaw Jonggwo Guhshyh wuushyr pian / 言文对照中国故事五十篇). Lund Humphries &amp; Co. Ltd. ISBN 0-85331-054-8.
+McGinnis, Scott (October 1997). "Tonal Spelling versus Diacritics for Teaching Pronunciation of Mandarin Chinese". The Modern Language Journal (Blackwell Publishing) 81 (2): 228–236. doi:10.2307/328789. JSTOR 328789.
+Simon, Harry F. (1958). "Some Remarks on the Structure of the Verb Complex in Standard Chinese". Bulletin of the School of Oriental and African Studies 21 (1/3): 553–577. doi:10.1017/S0041977X00060171. JSTOR 610617.
+Simon, Walter (1942). The New Official Chinese Latin Script Gwoyeu Romatzyh. Tables, Rules, Illustrative Examples. Arthur Probsthain.
+Simon, Walter (1947). A Beginners' [[ [sic]]] Chinese-English Dictionary. Lund Humphries &amp; Co. Ltd.
+ [edit] External links 
+  

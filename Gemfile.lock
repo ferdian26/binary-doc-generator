@@ -4,18 +4,16 @@ GEM
     addressable (2.3.2)
     crack (0.3.2)
     guess_html_encoding (0.0.9)
-    mime-types (1.20.1)
+    mime-types (1.21)
     nokogiri (1.5.6)
     rest-client (1.6.7)
       mime-types (>= 1.16)
     ruby-progressbar (1.0.2)
-    ruby-readability (0.5.6)
+    ruby-readability (0.5.7)
       guess_html_encoding (>= 0.0.4)
       nokogiri (>= 1.4.2)
     sanitize (2.0.3)
       nokogiri (>= 1.4.4, < 1.6)
-      nokogiri (>= 1.4.4, < 1.6)
-    simple-rss (1.2.3)
     vcr (2.4.0)
     webmock (1.9.0)
       addressable (>= 2.2.7)
@@ -30,6 +28,5 @@ DEPENDENCIES
   ruby-progressbar
   ruby-readability
   sanitize
-  simple-rss
   vcr
   webmock
