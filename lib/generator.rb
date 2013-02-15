@@ -2,16 +2,11 @@ require 'fileutils'
 
 module BinaryDocs
   class Generator
-    attr_accessor :file_type, :new_content
-    attr_reader :file_name, :temp_dir, :final_dir
-
-    def make_dirs 
-      make_temp_dir
-      make_payload_dir
-    end
+    attr_accessor :file_type, :new_content, :final_dir, :temp_dir
+    attr_reader :file_name
 
     def set_unique_file_name
-      @file_name = "#{Time.now.strftime("%m%d%y_%H%M%S")}"
+      @file_name = "#{Time.now.strftime("%m%d%y%H%M%S")}_#{rand(99999999)}"
     end
 
     def extract_file
@@ -62,8 +57,12 @@ module BinaryDocs
       end
     end
 
-
     private
+
+    def make_dirs 
+      make_temp_dir
+      make_payload_dir
+    end
 
     def create_with_content
       case file_type.upcase
@@ -81,7 +80,7 @@ module BinaryDocs
     end
 
     def make_temp_dir
-      @temp_dir = "tmp"
+      @temp_dir = "tmp" unless temp_dir
       if Dir.glob("*").include?(temp_dir)
         FileUtils.rm_rf(Dir.glob("#{temp_dir}/*"))
       else
@@ -90,11 +89,15 @@ module BinaryDocs
     end
 
     def make_payload_dir
-      @final_dir = "payload"
-      if Dir.glob("*").include?(final_dir)
-        return
+      @final_dir = "payload" unless final_dir
+      if final_dir
+        Dir.glob(final_dir).empty? ? (Dir.mkdir(final_dir)) : return
       else
-        Dir.mkdir(final_dir)
+        if Dir.glob("*").include?(final_dir)
+          return
+        else
+          Dir.mkdir(final_dir)
+        end
       end
     end
 
