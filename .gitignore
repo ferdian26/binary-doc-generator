@@ -1,5 +1,6 @@
-vcr_cassettes/
 tmp/
-finished_product/
+payload/
+cache/
 .pdf
 .DS_Store
+.vagrant
